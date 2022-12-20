@@ -15,7 +15,7 @@
 
 - 👨‍💻 My official page is [https://tomasz-smykowski.com/](https://tomasz-smykowski.com/)
 
-- 📫 How to reach me **contact@tomasz-smykowski.com**
+- 📫 You can reach me at **contact@tomasz-smykowski.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
