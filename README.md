@@ -18,6 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [50% Of December Profit Will Support Ukrainian Families](https://tomaszs2.medium.com/50-of-december-profit-will-support-ukrainian-families-a687d030b02?source=rss-114c2684cfef------2)
+- [Microsoft Shut Down VSCode Competitor](https://tomaszs2.medium.com/microsoft-closed-vscode-competitor-a459f57bc977?source=rss-114c2684cfef------2)
+- [5 Swift Projects People Don’t Know About](https://tomaszs2.medium.com/5-swift-projects-people-dont-know-about-16e50e92ee1e?source=rss-114c2684cfef------2)
+- [Artists Protest Against Art Laundering With The AI](https://tomaszs2.medium.com/artists-protest-against-art-laundering-with-the-ai-287fa21fc369?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
