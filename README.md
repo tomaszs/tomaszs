@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Be Fooled By This New Job-Hunting Scams](https://tomaszs2.medium.com/dont-be-fooled-by-this-new-job-hunting-scams-91603411670c?source=rss-114c2684cfef------2)
 - [W3C Reached An Asset Agreement With MIT](https://tomaszs2.medium.com/w3c-reached-an-asset-agreement-with-mit-7f86b1455826?source=rss-114c2684cfef------2)
 - [50% Of December Profit Will Support Ukrainian Families](https://tomaszs2.medium.com/50-of-december-profit-will-support-ukrainian-families-a687d030b02?source=rss-114c2684cfef------2)
 - [Microsoft Shut Down VSCode Competitor](https://tomaszs2.medium.com/microsoft-closed-vscode-competitor-a459f57bc977?source=rss-114c2684cfef------2)
-- [5 Swift Projects People Don’t Know About](https://tomaszs2.medium.com/5-swift-projects-people-dont-know-about-16e50e92ee1e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
