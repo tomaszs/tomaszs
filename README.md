@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Are You Not Allowed To Write Code Comments?](https://tomaszs2.medium.com/are-you-not-allowed-to-write-code-comments-3799221d7754?source=rss-114c2684cfef------2)
 - [️ 5 Awesome Go Projects: Manage Security, Containers And Build Backends](https://tomaszs2.medium.com/5-best-go-projects-manage-security-containers-and-build-backends-be0fc5f06cd4?source=rss-114c2684cfef------2)
 - [Don’t Be Fooled By This New Job-Hunting Scams](https://tomaszs2.medium.com/dont-be-fooled-by-this-new-job-hunting-scams-91603411670c?source=rss-114c2684cfef------2)
 - [W3C Reached An Asset Agreement With MIT](https://tomaszs2.medium.com/w3c-reached-an-asset-agreement-with-mit-7f86b1455826?source=rss-114c2684cfef------2)
-- [50% Of December Profit Will Support Ukrainian Families](https://tomaszs2.medium.com/50-of-december-profit-will-support-ukrainian-families-a687d030b02?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
