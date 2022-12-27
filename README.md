@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Awesome C# Projects: TODO, Password Manager, Steam, Nintendo Switch And Unity](https://tomaszs2.medium.com/5-awesome-c-projects-todo-password-manager-steam-nintendo-switch-and-unity-d5192f0fce71?source=rss-114c2684cfef------2)
 - [Are You Not Allowed To Write Code Comments?](https://tomaszs2.medium.com/are-you-not-allowed-to-write-code-comments-3799221d7754?source=rss-114c2684cfef------2)
 - [️ 5 Awesome Go Projects: Manage Security, Containers And Build Backends](https://tomaszs2.medium.com/5-best-go-projects-manage-security-containers-and-build-backends-be0fc5f06cd4?source=rss-114c2684cfef------2)
 - [Don’t Be Fooled By This New Job-Hunting Scams](https://tomaszs2.medium.com/dont-be-fooled-by-this-new-job-hunting-scams-91603411670c?source=rss-114c2684cfef------2)
-- [W3C Reached An Asset Agreement With MIT](https://tomaszs2.medium.com/w3c-reached-an-asset-agreement-with-mit-7f86b1455826?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
