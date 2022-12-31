@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin 1.8 Boosts Reflection Speed](https://tomaszs2.medium.com/kotlin-1-8-boosts-reflection-speed-4ecb1c1f5b23?source=rss-114c2684cfef------2)
 - [️ Writing On Android Medium Is A Nightmare, And Here Is Why](https://tomaszs2.medium.com/%EF%B8%8F-writing-on-android-medium-is-a-nightmare-and-here-is-why-8ec730cda713?source=rss-114c2684cfef------2)
 - [5 Awesome Kotlin Projects: People Even Write Games In Kotlin!](https://tomaszs2.medium.com/5-awesome-kotlin-projects-people-even-write-games-in-kotlin-5c218211cf51?source=rss-114c2684cfef------2)
 - [5 Growth Marketing Tips For Programmers](https://tomaszs2.medium.com/growth-marketing-tips-for-programmers-f39826050643?source=rss-114c2684cfef------2)
-- [5 Awesome C# Projects: TODO, Password Manager, Steam, Nintendo Switch And Unity](https://tomaszs2.medium.com/5-awesome-c-projects-todo-password-manager-steam-nintendo-switch-and-unity-d5192f0fce71?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
