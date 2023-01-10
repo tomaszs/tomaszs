@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 15.1.0 Makes Coding A Bit Easier](https://tomaszs2.medium.com/angular-15-1-0-makes-coding-a-bit-easier-8680dbdea436?source=rss-114c2684cfef------2)
 - [OCaml 5 Is The Language Of The Future](https://tomaszs2.medium.com/ocaml-5-is-the-language-of-the-future-a000f6752c8a?source=rss-114c2684cfef------2)
 - [W3C Decided On CSS Nested Syntax](https://tomaszs2.medium.com/w3c-decided-on-css-nested-syntax-950bc13f3ce7?source=rss-114c2684cfef------2)
 - [Ruby 3.2.0 Is From Another Dimension](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9?source=rss-114c2684cfef------2)
-- [Rust Traits Introduction Part I](https://tomaszs2.medium.com/rust-traits-introduction-part-i-ab3ae001dfdf?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
