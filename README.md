@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OCaml 5 Is The Language Of The Future](https://tomaszs2.medium.com/ocaml-5-is-the-language-of-the-future-a000f6752c8a?source=rss-114c2684cfef------2)
 - [W3C Decided On CSS Nested Syntax](https://tomaszs2.medium.com/w3c-decided-on-css-nested-syntax-950bc13f3ce7?source=rss-114c2684cfef------2)
 - [Ruby 3.2.0 Is From Another Dimension](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9?source=rss-114c2684cfef------2)
 - [Rust Traits Introduction Part I](https://tomaszs2.medium.com/rust-traits-introduction-part-i-ab3ae001dfdf?source=rss-114c2684cfef------2)
-- [Python 3.11.1 Fixes A Lot Of Bugs](https://tomaszs2.medium.com/whats-new-in-python-3-11-1-5339cefcfdd9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
