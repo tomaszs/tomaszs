@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Svelte 3.55.1: Faster CSS Builds And No SVG Animation Quirks](https://tomaszs2.medium.com/%EF%B8%8F-svelte-3-55-1-faster-css-builds-and-no-svg-animation-quirks-25fed0939f0c?source=rss-114c2684cfef------2)
 - [Angular 15.1.0 Makes Coding A Bit Easier](https://tomaszs2.medium.com/angular-15-1-0-makes-coding-a-bit-easier-8680dbdea436?source=rss-114c2684cfef------2)
 - [OCaml 5 Is The Language Of The Future](https://tomaszs2.medium.com/ocaml-5-is-the-language-of-the-future-a000f6752c8a?source=rss-114c2684cfef------2)
 - [W3C Decided On CSS Nested Syntax](https://tomaszs2.medium.com/w3c-decided-on-css-nested-syntax-950bc13f3ce7?source=rss-114c2684cfef------2)
-- [Ruby 3.2.0 Is From Another Dimension](https://tomaszs2.medium.com/ruby-3-2-0-is-from-another-dimension-5249e3186ec9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
