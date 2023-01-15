@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Shopee Announced Exit Two Days Prior](https://tomaszs2.medium.com/shopee-announced-exit-two-days-prior-572cda4dc8b7?source=rss-114c2684cfef------2)
 - [Golang, Kotlin, Angular, Ruby, Rust And Other Flashcards](https://tomaszs2.medium.com/golang-kotlin-angular-ruby-rust-and-other-flashcards-bb5efd29ade7?source=rss-114c2684cfef------2)
 - [Ionic 6.4 With Better Sheet Modal, Calendar And Knobs](https://tomaszs2.medium.com/ionic-6-4-with-better-sheet-modal-calendar-and-knobs-e3f9c2c594a7?source=rss-114c2684cfef------2)
 - [️ Svelte 3.55.1: Faster CSS Builds And No SVG Animation Quirks](https://tomaszs2.medium.com/%EF%B8%8F-svelte-3-55-1-faster-css-builds-and-no-svg-animation-quirks-25fed0939f0c?source=rss-114c2684cfef------2)
-- [Angular 15.1.0 Makes Coding A Bit Easier](https://tomaszs2.medium.com/angular-15-1-0-makes-coding-a-bit-easier-8680dbdea436?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
