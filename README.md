@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⚛️ React 19? Should We Be Worried?](https://tomaszs2.medium.com/%EF%B8%8F-react-19-should-we-be-worried-638b9a713ca5?source=rss-114c2684cfef------2)
 - [People Shame Dutch Code That’s Perfectly Imperfect](https://tomaszs2.medium.com/people-shame-dutch-code-thats-perfect-4642726bbc59?source=rss-114c2684cfef------2)
 - [5 Awesome PHP Projects: MP3 Server And More](https://tomaszs2.medium.com/5-awesome-php-projects-mp3-server-and-more-a7b97ec1bb46?source=rss-114c2684cfef------2)
 - [5 Awesome Typescript Projects — Build Resume And More](https://tomaszs2.medium.com/5-awesome-typescript-projects-60a6872eb243?source=rss-114c2684cfef------2)
-- [Shopee Announced Exit Two Days Prior](https://tomaszs2.medium.com/shopee-announced-exit-two-days-prior-572cda4dc8b7?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
