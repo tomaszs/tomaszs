@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laid Off? Do This 5 Things Immediately!](https://tomaszs2.medium.com/laid-off-do-this-5-things-immediately-af288eaa2dc5?source=rss-114c2684cfef------2)
 - [5 Awesome Clojure Projects — UI Design Tool &amp; More](https://tomaszs2.medium.com/5-awesome-clojure-projects-interface-design-tool-more-9081e9dd0c67?source=rss-114c2684cfef------2)
 - [Human or ChatGPT? Prove You Are A Human With These Tips](https://tomaszs2.medium.com/human-or-chatgpt-prove-you-are-a-human-with-these-tips-12348f71e9ef?source=rss-114c2684cfef------2)
 - [5 Amazing C++ Projects — UIs, AIs, Movies, Music and Travels](https://tomaszs2.medium.com/5-amazing-c-projects-uis-ais-movies-music-and-travels-906583784e18?source=rss-114c2684cfef------2)
-- [⚛️ React 19? Should We Be Worried?](https://tomaszs2.medium.com/%EF%B8%8F-react-19-should-we-be-worried-638b9a713ca5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
