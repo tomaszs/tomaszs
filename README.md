@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 CSS &amp; JS Libraries For Your App Design](https://tomaszs2.medium.com/5-css-js-libraries-for-your-app-design-7c2a910a38ac?source=rss-114c2684cfef------2)
 - [✌️ Vue Options API To Composition API Migration Cheat Sheet](https://tomaszs2.medium.com/%EF%B8%8F-vue-options-api-to-composition-api-migration-cheat-sheet-2b9dc7a0fc93?source=rss-114c2684cfef------2)
 - [5 Awesome Dart Projects — Manga, Music, NoSQL and more](https://tomaszs2.medium.com/5-awesome-dart-projects-manga-music-nosql-and-more-efbcd66c3213?source=rss-114c2684cfef------2)
 - [Laid Off? Do This 5 Things Immediately!](https://tomaszs2.medium.com/laid-off-do-this-5-things-immediately-af288eaa2dc5?source=rss-114c2684cfef------2)
-- [5 Awesome Clojure Projects — UI Design Tool &amp; More](https://tomaszs2.medium.com/5-awesome-clojure-projects-interface-design-tool-more-9081e9dd0c67?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
