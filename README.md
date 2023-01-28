@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Svelte Games To Learn How To Code](https://tomaszs2.medium.com/five-svelte-games-to-learn-how-to-code-f36ae6e58923?source=rss-114c2684cfef------2)
 - [‍ There Is No One Rounding Standard In Programming](https://tomaszs2.medium.com/there-is-no-rounding-standard-41cd23731d53?source=rss-114c2684cfef------2)
 - [⚙️ Rust 1.67.0 Fixes Rounding](https://tomaszs2.medium.com/%EF%B8%8F-rust-1-67-0-fixes-rounding-562e1bc2768c?source=rss-114c2684cfef------2)
 - [Daniel Rosenwasser Announced TypeScript 5.0 Beta](https://tomaszs2.medium.com/typescript-5-0-beta-finally-makes-decorators-a-standard-feature-ef66c7acbad4?source=rss-114c2684cfef------2)
-- [♦️ Study Coding With The Code Of These 5 Angular Apps](https://tomaszs2.medium.com/%EF%B8%8F-5-open-inspirational-angular-apps-c5def72e0e41?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
