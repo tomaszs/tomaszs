@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Deletes Private Forks Leaving People Shocked](https://tomaszs2.medium.com/github-deletes-private-forks-leaving-people-shocked-56653b0b668d?source=rss-114c2684cfef------2)
 - [️ Go 1.20 Released - It’s Like Ayrton Senna Again](https://tomaszs2.medium.com/%EF%B8%8F-go-1-20-released-its-like-ayrton-senna-again-9687049d2b62?source=rss-114c2684cfef------2)
 - [They Blocked Users With 5 Char Passwords](https://tomaszs2.medium.com/they-blocked-users-with-5-char-passwords-86646b1e4063?source=rss-114c2684cfef------2)
 - [Learn Vue With Source Codes Of These 5 Vue Games](https://tomaszs2.medium.com/learn-vue-with-source-codes-of-these-5-vue-games-12a813e43f31?source=rss-114c2684cfef------2)
-- [Angular Was The Second Most Demanded Framework In 2022](https://tomaszs2.medium.com/angular-was-the-second-most-demanded-framework-in-2022-a7f060c387c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
