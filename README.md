@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.11.2 Leaks Info About A Humble Performance Improvement](https://tomaszs2.medium.com/python-3-11-2-leaks-info-about-a-humble-performance-improvement-c3d477b172d9?source=rss-114c2684cfef------2)
 - [PHP 8.2+ Boosts Memory Beasts On MacOS](https://tomaszs2.medium.com/php-8-2-boosts-memory-beasts-on-macos-824586f7f6d1?source=rss-114c2684cfef------2)
 - [Puter — Your Next Desktop In Javascript](https://tomaszs2.medium.com/puter-your-next-desktop-in-javascript-afdec4f5d2c7?source=rss-114c2684cfef------2)
 - [Someone’s Impersonating Notepad++ !](https://tomaszs2.medium.com/someones-impersonating-notepad-260c264878f0?source=rss-114c2684cfef------2)
-- [Maybe We Should Not Fire Unproductive Employees](https://tomaszs2.medium.com/maybe-we-should-not-fire-unproductive-people-9b3d48b4bd69?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
