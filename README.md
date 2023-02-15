@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Layoffs Don’t Affect Programmers So Much](https://tomaszs2.medium.com/layoffs-dont-affect-programmers-so-much-e1cf2a279b89?source=rss-114c2684cfef------2)
 - [How Is It To Write Daily About Programming For 6 Months?](https://tomaszs2.medium.com/how-is-it-to-write-daily-about-programming-for-6-months-5bc1de9fd3ed?source=rss-114c2684cfef------2)
 - [Next 13.1.6: Metadata Support Coming Soon](https://tomaszs2.medium.com/next-13-1-6-metadata-support-6872687464ff?source=rss-114c2684cfef------2)
 - [☕ 5 Amazingly Comfortable Java Libraries](https://tomaszs2.medium.com/5-amazingly-comfortable-java-libraries-887802e240de?source=rss-114c2684cfef------2)
-- [️ Angular 15.2.0-next.4 Let’s You Now Control CDN Images](https://tomaszs2.medium.com/%EF%B8%8F-angular-15-2-0-next-4-lets-you-now-control-cdn-images-ad90e1d710ce?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
