@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Next 13.1.6 Metadata Support](https://tomaszs2.medium.com/next-13-1-6-metadata-support-6872687464ff?source=rss-114c2684cfef------2)
+- [Next 13.1.6: Metadata Support Coming Soon](https://tomaszs2.medium.com/next-13-1-6-metadata-support-6872687464ff?source=rss-114c2684cfef------2)
 - [5 Amazingly Comfortable Java Libraries](https://tomaszs2.medium.com/5-amazingly-comfortable-java-libraries-887802e240de?source=rss-114c2684cfef------2)
 - [️ Angular 15.2.0-next.4 Let’s You Now Control CDN Images](https://tomaszs2.medium.com/%EF%B8%8F-angular-15-2-0-next-4-lets-you-now-control-cdn-images-ad90e1d710ce?source=rss-114c2684cfef------2)
 - [Python 3.11.2: The Trick For 11% Speedup](https://tomaszs2.medium.com/python-3-11-2-leaks-info-about-a-humble-performance-improvement-c3d477b172d9?source=rss-114c2684cfef------2)
