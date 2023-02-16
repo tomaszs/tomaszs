@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Install Vue-i18n on Vue 2.7.7?](https://tomaszs2.medium.com/how-to-install-vue-i18n-on-vue-2-7-7-8ca5fd66e5fd?source=rss-114c2684cfef------2)
+- [✌️ The Ultimate Guide To Vue-i18n on Vue 2.7.7](https://tomaszs2.medium.com/how-to-install-vue-i18n-on-vue-2-7-7-8ca5fd66e5fd?source=rss-114c2684cfef------2)
 - [Layoffs Don’t Affect Programmers So Much](https://tomaszs2.medium.com/layoffs-dont-affect-programmers-so-much-e1cf2a279b89?source=rss-114c2684cfef------2)
 - [How Is It To Write Daily About Programming For 6 Months?](https://tomaszs2.medium.com/how-is-it-to-write-daily-about-programming-for-6-months-5bc1de9fd3ed?source=rss-114c2684cfef------2)
 - [Next 13.1.6: Metadata Support Coming Soon](https://tomaszs2.medium.com/next-13-1-6-metadata-support-6872687464ff?source=rss-114c2684cfef------2)
