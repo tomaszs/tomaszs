@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ 10 Awesome Rust Projects, EP 2](https://tomaszs2.medium.com/%EF%B8%8F-10-awesome-rust-projects-ep-2-53d688c9174a?source=rss-114c2684cfef------2)
 - [Angular 15.2.0: Migration Will Become Ultra Fast](https://tomaszs2.medium.com/angular-15-2-0-migration-will-become-ultra-fast-3fa2d5fb2c69?source=rss-114c2684cfef------2)
 - [✌️ The Ultimate Guide To Vue-i18n on Vue 2.7.7](https://tomaszs2.medium.com/how-to-install-vue-i18n-on-vue-2-7-7-8ca5fd66e5fd?source=rss-114c2684cfef------2)
 - [Layoffs Don’t Affect Programmers So Much](https://tomaszs2.medium.com/layoffs-dont-affect-programmers-so-much-e1cf2a279b89?source=rss-114c2684cfef------2)
-- [How Is It To Write Daily About Programming For 6 Months?](https://tomaszs2.medium.com/how-is-it-to-write-daily-about-programming-for-6-months-5bc1de9fd3ed?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
