@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [✨ Visual Studio 2022 — 17.5 Released](https://tomaszs2.medium.com/visual-studio-2022-17-5-released-63811eda8e4e?source=rss-114c2684cfef------2)
 - [Benjamin Kosten Announced EffeKt — Revolutionary Reactive Kotlin Library](https://tomaszs2.medium.com/benjamin-kosten-announced-effekt-reactive-kotlin-6e3b57a25e3d?source=rss-114c2684cfef------2)
 - [Happy Birthday Python! You 32yo Bada**!](https://tomaszs2.medium.com/happy-birthday-python-you-31yo-bada-b94aaa59e15f?source=rss-114c2684cfef------2)
 - [⚙️ 10 Awesome Rust Projects, EP 2](https://tomaszs2.medium.com/%EF%B8%8F-10-awesome-rust-projects-ep-2-53d688c9174a?source=rss-114c2684cfef------2)
-- [Angular 15.2.0: Migration Will Become Ultra Fast](https://tomaszs2.medium.com/angular-15-2-0-migration-will-become-ultra-fast-3fa2d5fb2c69?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
