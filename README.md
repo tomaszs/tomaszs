@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Which Of Our Ancestors Saw Dinosaurs?](https://tomaszs2.medium.com/which-of-our-ancestors-saw-dinosaurs-ad8393e924ef?source=rss-114c2684cfef------2)
 - [14 Back Pain Methods I’ve Tried With The Results](https://tomaszs2.medium.com/14-back-pain-methods-ive-tried-with-the-results-2f37b9b88066?source=rss-114c2684cfef------2)
 - [✨ Visual Studio 2022 — 17.5 Released](https://tomaszs2.medium.com/visual-studio-2022-17-5-released-63811eda8e4e?source=rss-114c2684cfef------2)
 - [Benjamin Kosten Announced EffeKt — Revolutionary Reactive Kotlin Library](https://tomaszs2.medium.com/benjamin-kosten-announced-effekt-reactive-kotlin-6e3b57a25e3d?source=rss-114c2684cfef------2)
-- [Happy Birthday Python! You 32yo Bada**!](https://tomaszs2.medium.com/happy-birthday-python-you-31yo-bada-b94aaa59e15f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
