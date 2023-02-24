@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deno 1.31 Supports package.json Dependency File](https://tomaszs2.medium.com/deno-1-31-supports-package-json-2a1655f4778e?source=rss-114c2684cfef------2)
 - [5 Awesome Tools For Python Engineers EP 2](https://tomaszs2.medium.com/5-awesome-tools-for-python-engineers-ep-2-29991d48b816?source=rss-114c2684cfef------2)
 - [Which Of Our Ancestors Saw Dinosaurs?](https://tomaszs2.medium.com/which-of-our-ancestors-saw-dinosaurs-ad8393e924ef?source=rss-114c2684cfef------2)
 - [14 Back Pain Methods I’ve Tried With The Results](https://tomaszs2.medium.com/14-back-pain-methods-ive-tried-with-the-results-2f37b9b88066?source=rss-114c2684cfef------2)
-- [✨ Visual Studio 2022 — 17.5 Released](https://tomaszs2.medium.com/visual-studio-2022-17-5-released-63811eda8e4e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
