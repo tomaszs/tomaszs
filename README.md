@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8.3 Coming Soon: json_validate&lpar;&rpar;](https://tomaszs2.medium.com/php-8-3-coming-soon-json-validate-a5fa498d65c6?source=rss-114c2684cfef------2)
 - [Nokia Brings Back The 3310 Vibe With G22](https://tomaszs2.medium.com/nokia-brings-back-the-3310-vibe-with-g22-e87b20e9a0bb?source=rss-114c2684cfef------2)
 - [How To Follow My Programming Articles?](https://tomaszs2.medium.com/how-to-follow-my-programming-articles-875f58f764b2?source=rss-114c2684cfef------2)
 - [The Growing Number Of Non-Javascript Web Frameworks](https://tomaszs2.medium.com/the-growing-number-of-non-javascript-web-frameworks-28fc235e9dbe?source=rss-114c2684cfef------2)
-- [Deno 1.31 Supports package.json Dependency File](https://tomaszs2.medium.com/deno-1-31-supports-package-json-2a1655f4778e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
