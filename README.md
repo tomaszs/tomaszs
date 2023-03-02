@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Godot 4 —The Engine Of Your Next Favorite Game](https://tomaszs2.medium.com/godot-4-the-engine-of-your-next-favorite-game-20642464820?source=rss-114c2684cfef------2)
 - [How To Redesign Your Shopify Store?](https://tomaszs2.medium.com/how-to-redesign-your-shopify-store-25ccfba9e46e?source=rss-114c2684cfef------2)
 - [Pandas 2.0 Up To 32x Faster](https://tomaszs2.medium.com/pandas-2-0-up-to-32x-faster-57bbf03f002a?source=rss-114c2684cfef------2)
 - [PHP 8.3 Coming Soon: json_validate&lpar;&rpar;](https://tomaszs2.medium.com/php-8-3-coming-soon-json-validate-a5fa498d65c6?source=rss-114c2684cfef------2)
-- [Nokia Brings Back The 3310 Vibe With G22](https://tomaszs2.medium.com/nokia-brings-back-the-3310-vibe-with-g22-e87b20e9a0bb?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
