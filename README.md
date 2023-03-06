@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Reason Why CSS Inset Property Was Not Called Position](https://tomaszs2.medium.com/the-reason-why-css-inset-property-was-not-called-position-303960d27a6f?source=rss-114c2684cfef------2)
 - [She Rejected A Company Laptop Because Of Religious Beliefs](https://tomaszs2.medium.com/she-rejected-a-company-laptop-because-of-religious-beliefs-b40b9151aa1?source=rss-114c2684cfef------2)
 - [Godot 4 —The Engine Of Your Next Favorite Game](https://tomaszs2.medium.com/godot-4-the-engine-of-your-next-favorite-game-20642464820?source=rss-114c2684cfef------2)
 - [How To Redesign Your Shopify Store?](https://tomaszs2.medium.com/how-to-redesign-your-shopify-store-25ccfba9e46e?source=rss-114c2684cfef------2)
-- [Pandas 2.0 Up To 32x Faster](https://tomaszs2.medium.com/pandas-2-0-up-to-32x-faster-57bbf03f002a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
