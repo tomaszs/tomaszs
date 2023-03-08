@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SumatraPDF Was A Happy Little Accident](https://tomaszs2.medium.com/sumatrapdf-was-a-happy-little-accident-4f039eb0b89c?source=rss-114c2684cfef------2)
 - [Jest 29.5.0 Will Run Your Tests Randomly](https://tomaszs2.medium.com/jest-29-5-0-will-run-your-tests-randomly-ec39a27cf09c?source=rss-114c2684cfef------2)
 - [How To Use Custom Fonts In Shopify In 2023](https://tomaszs2.medium.com/how-to-use-custom-fonts-in-shopify-in-2023-dba137fc0957?source=rss-114c2684cfef------2)
 - [Rust’s Bevy 0.10 Catches Up To The Industrial 3D Game Engines](https://tomaszs2.medium.com/bevy-0-10-catches-up-to-the-industrial-game-engines-8dc7ea709a2c?source=rss-114c2684cfef------2)
-- [The Reason Why CSS Inset Property Was Not Called Position](https://tomaszs2.medium.com/the-reason-why-css-inset-property-was-not-called-position-303960d27a6f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
