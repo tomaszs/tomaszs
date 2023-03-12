@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Software Developer Strikes](https://tomaszs2.medium.com/the-software-developer-strikes-3e1106b6e8b2?source=rss-114c2684cfef------2)
 - [Svelte 3.56 Improves The Audiovisual Support](https://tomaszs2.medium.com/svelte-3-56-improves-the-audiovisual-support-ab55b233cc1f?source=rss-114c2684cfef------2)
 - [Battery-less Devices Are The Next Big Thing](https://tomaszs2.medium.com/battery-less-devices-are-the-next-big-thing-acaa8dccb71e?source=rss-114c2684cfef------2)
 - [SumatraPDF Was A Happy Little Accident](https://tomaszs2.medium.com/sumatrapdf-was-a-happy-little-accident-4f039eb0b89c?source=rss-114c2684cfef------2)
-- [Jest 29.5.0 Will Run Your Tests Randomly](https://tomaszs2.medium.com/jest-29-5-0-will-run-your-tests-randomly-ec39a27cf09c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
