@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Not Name Your Programming Language](https://tomaszs2.medium.com/how-to-not-name-your-programming-language-33233643fa6e?source=rss-114c2684cfef------2)
 - [Unleashing The Power Of C#11 String Literals: The Ultimate Guide](https://tomaszs2.medium.com/unleashing-the-power-of-c-11-string-literals-the-ultimate-guide-65c271cd6656?source=rss-114c2684cfef------2)
 - [Swift 5.8 Release: You Can Use Future Features Now](https://tomaszs2.medium.com/swift-5-8-release-you-can-use-future-features-now-8cf84f0d7967?source=rss-114c2684cfef------2)
 - [⏩ GHC 9.6.1 Announces Javascript Cross-Compilation](https://tomaszs2.medium.com/ghc-9-6-1-announces-javascript-cross-compilation-5ed7d42a7962?source=rss-114c2684cfef------2)
-- [The Software Developer Strikes](https://tomaszs2.medium.com/the-software-developer-strikes-3e1106b6e8b2?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
