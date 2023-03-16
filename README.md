@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [☎️ Ktor 2.2.4 Release: Takes On Communication Bugs](https://tomaszs2.medium.com/%EF%B8%8F-ktor-2-2-4-release-takes-on-communication-bugs-6d5c3b046bab?source=rss-114c2684cfef------2)
 - [5 Awesome Java Projects EP2: Microservices, iOT and More](https://tomaszs2.medium.com/5-awesome-java-projects-ep2-microservices-iot-and-more-12e45593a80a?source=rss-114c2684cfef------2)
 - [Go-Redis: The New Official Redis Client You Need to Know About](https://tomaszs2.medium.com/go-redis-the-new-official-redis-client-you-need-to-know-about-4889ac4c15b0?source=rss-114c2684cfef------2)
 - [How To Not Name Your Programming Language](https://tomaszs2.medium.com/how-to-not-name-your-programming-language-33233643fa6e?source=rss-114c2684cfef------2)
-- [Unleashing The Power Of C#11 String Literals: The Ultimate Guide](https://tomaszs2.medium.com/unleashing-the-power-of-c-11-string-literals-the-ultimate-guide-65c271cd6656?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
