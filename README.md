@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Angular 16.0.0-next.3 Input&lpar;&rpar; Can Be Required](https://tomaszs2.medium.com/%EF%B8%8F-angular-16-0-0-next-3-input-can-be-required-fc56df419d7d?source=rss-114c2684cfef------2)
 - [83% Burnout Rate Sounds Like Fake News To Me](https://tomaszs2.medium.com/83-burnout-rate-sounds-like-fake-news-to-me-2a84a209fe83?source=rss-114c2684cfef------2)
 - [Typescript 5.0 Is Here! Decorators Age](https://tomaszs2.medium.com/typescript-5-0-is-here-28c2bf8f2edc?source=rss-114c2684cfef------2)
 - [☎️ Ktor 2.2.4 Release: Takes On Communication Bugs](https://tomaszs2.medium.com/%EF%B8%8F-ktor-2-2-4-release-takes-on-communication-bugs-6d5c3b046bab?source=rss-114c2684cfef------2)
-- [5 Awesome Java Projects EP2: Microservices, iOT and More](https://tomaszs2.medium.com/5-awesome-java-projects-ep2-microservices-iot-and-more-12e45593a80a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
