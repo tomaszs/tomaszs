@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Typescript Devs Suffer For 5 Years Because Of This…](https://tomaszs2.medium.com/typescript-devs-suffer-for-5-years-because-of-this-e169ca4d26e7?source=rss-114c2684cfef------2)
+- [‍ Typescript Devs Suffer For 5 Years Because Of This…](https://tomaszs2.medium.com/typescript-devs-suffer-for-5-years-because-of-this-e169ca4d26e7?source=rss-114c2684cfef------2)
 - [Rust’s Glidesort Is 4x Faster On Random Data](https://tomaszs2.medium.com/rusts-glidesort-is-4x-faster-on-random-data-64244478b96f?source=rss-114c2684cfef------2)
 - [️ Angular 16.0.0-next.3 Input&lpar;&rpar; Can Be Required](https://tomaszs2.medium.com/%EF%B8%8F-angular-16-0-0-next-3-input-can-be-required-fc56df419d7d?source=rss-114c2684cfef------2)
 - [83% Burnout Rate Sounds Like Fake News To Me](https://tomaszs2.medium.com/83-burnout-rate-sounds-like-fake-news-to-me-2a84a209fe83?source=rss-114c2684cfef------2)
