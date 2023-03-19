@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⚛️ React Self Identifies As A Library, Reached It’s Goal](https://tomaszs2.medium.com/%EF%B8%8F-react-self-identifies-as-a-library-reached-its-goal-f2f1948645d5?source=rss-114c2684cfef------2)
 - [NumPy 1.24.0 Release: Improved Data Handling, Execution Speed, and Documentation](https://tomaszs2.medium.com/numpy-1-24-0-release-improved-data-handling-execution-speed-and-documentation-55a60ec9db97?source=rss-114c2684cfef------2)
 - [Why Nobody Reads Your Coding Articles?](https://tomaszs2.medium.com/why-nobody-reads-your-dev-articles-d37935cb33c3?source=rss-114c2684cfef------2)
 - [‍ Typescript Devs Suffer For 5 Years Because Of This…](https://tomaszs2.medium.com/typescript-devs-suffer-for-5-years-because-of-this-e169ca4d26e7?source=rss-114c2684cfef------2)
-- [Rust’s Glidesort Is 4x Faster On Random Data](https://tomaszs2.medium.com/rusts-glidesort-is-4x-faster-on-random-data-64244478b96f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
