@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gitea 1.19.0: Blender Devs Raised Their Tridents](https://tomaszs2.medium.com/gitea-1-19-0-blender-devs-raised-their-tridents-bd6993bb8646?source=rss-114c2684cfef------2)
 - [The DragonRuby Roadmap Announcement Overview](https://tomaszs2.medium.com/the-dragonruby-roadmap-announcement-overview-40ba594c25c?source=rss-114c2684cfef------2)
 - [⚛️ React Self Identifies As A Library, Reached It’s Goal](https://tomaszs2.medium.com/%EF%B8%8F-react-self-identifies-as-a-library-reached-its-goal-f2f1948645d5?source=rss-114c2684cfef------2)
 - [NumPy 1.24.0 Release: Improved Data Handling, Execution Speed, and Documentation](https://tomaszs2.medium.com/numpy-1-24-0-release-improved-data-handling-execution-speed-and-documentation-55a60ec9db97?source=rss-114c2684cfef------2)
-- [Why Nobody Reads Your Coding Articles?](https://tomaszs2.medium.com/why-nobody-reads-your-dev-articles-d37935cb33c3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
