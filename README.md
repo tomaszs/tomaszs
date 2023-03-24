@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 16.0.0-next.1: Deprecating Old TS and Node.js, Router Improvements](https://tomaszs2.medium.com/angular-16-0-0-next-1-deprecating-old-ts-and-node-js-router-improvements-f6522c344db8?source=rss-114c2684cfef------2)
+- [SvelteKit 1.8 Release: Elevating the Web Development Experience](https://tomaszs2.medium.com/sveltekit-1-8-release-elevating-the-web-development-experience-afc766b9bfd8?source=rss-114c2684cfef------2)
 - [⚗️ Core-js Runs Dry. Might Go Commercial Without Support](https://tomaszs2.medium.com/%EF%B8%8F-core-js-runs-dry-might-go-commercial-without-support-703a1061ad18?source=rss-114c2684cfef------2)
 - [Gitea 1.19.0: Blender Devs Raised Their Tridents](https://tomaszs2.medium.com/gitea-1-19-0-blender-devs-raised-their-tridents-bd6993bb8646?source=rss-114c2684cfef------2)
-- [The DragonRuby Roadmap Announcement Overview](https://tomaszs2.medium.com/the-dragonruby-roadmap-announcement-overview-40ba594c25c?source=rss-114c2684cfef------2)
-- [⚛️ React Self Identifies As A Library, Reached It’s Goal](https://tomaszs2.medium.com/%EF%B8%8F-react-self-identifies-as-a-library-reached-its-goal-f2f1948645d5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
