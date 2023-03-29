@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Select Tag — The Doomed HTML Arrival](https://tomaszs2.medium.com/select-tag-the-doomed-html-arrival-db3f6c318298?source=rss-114c2684cfef------2)
 - [☕ Java 20: Ruy López Sequence Is About To Be Executed](https://tomaszs2.medium.com/java-20-ruy-l%C3%B3pez-sequence-is-about-to-be-executed-a37c60456714?source=rss-114c2684cfef------2)
 - [People Can’t Push Changes To GitHub Are Left Confused](https://tomaszs2.medium.com/people-cant-push-changes-to-github-are-left-confused-d7d748624b53?source=rss-114c2684cfef------2)
 - [Angular 16.0.0-next.1: Deprecating Old TS and Node.js, Router Improvements](https://tomaszs2.medium.com/angular-16-0-0-next-1-deprecating-old-ts-and-node-js-router-improvements-f6522c344db8?source=rss-114c2684cfef------2)
-- [SvelteKit 1.8 Release: Elevating the Web Development Experience](https://tomaszs2.medium.com/sveltekit-1-8-release-elevating-the-web-development-experience-afc766b9bfd8?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
