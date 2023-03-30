@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Search Tag — The Doomed HTML Arrival](https://tomaszs2.medium.com/select-tag-the-doomed-html-arrival-db3f6c318298?source=rss-114c2684cfef------2)
-- [☕ Java 20: Ruy López Sequence Is About To Be Executed](https://tomaszs2.medium.com/java-20-ruy-l%C3%B3pez-sequence-is-about-to-be-executed-a37c60456714?source=rss-114c2684cfef------2)
-- [People Can’t Push Changes To GitHub Are Left Confused](https://tomaszs2.medium.com/people-cant-push-changes-to-github-are-left-confused-d7d748624b53?source=rss-114c2684cfef------2)
-- [Angular 16.0.0-next.1: Deprecating Old TS and Node.js, Router Improvements](https://tomaszs2.medium.com/angular-16-0-0-next-1-deprecating-old-ts-and-node-js-router-improvements-f6522c344db8?source=rss-114c2684cfef------2)
+- [Scientists Ask AI For 6 Months Pause](https://tomaszs2.medium.com/scientists-ask-ai-for-6-months-pause-7f441e696d93?source=rss-114c2684cfef------2)
+- [⚙️ Rust: once_cell Is Now Part Of Standard Library](https://tomaszs2.medium.com/%EF%B8%8F-rust-once-cell-is-now-part-of-standard-library-9613bfdc0c6e?source=rss-114c2684cfef------2)
+- [Twitter Announced New API Tiers](https://tomaszs2.medium.com/twitter-announced-new-api-tiers-da5ea32748dd?source=rss-114c2684cfef------2)
+- [⚠️ Vulnerability Alert: Update Your Ruby!](https://tomaszs2.medium.com/vulnerability-alert-update-your-ruby-3ec1e7b52645?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
