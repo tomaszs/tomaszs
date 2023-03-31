@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Algorithm For Humans Part 1: Authority](https://tomaszs2.medium.com/twitter-algorithm-for-humans-part-1-authority-d7540c15c218?source=rss-114c2684cfef------2)
 - [Scientists Ask AI For 6 Months Pause](https://tomaszs2.medium.com/scientists-ask-ai-for-6-months-pause-7f441e696d93?source=rss-114c2684cfef------2)
 - [⚙️ Rust: once_cell Is Now Part Of Standard Library](https://tomaszs2.medium.com/%EF%B8%8F-rust-once-cell-is-now-part-of-standard-library-9613bfdc0c6e?source=rss-114c2684cfef------2)
 - [Twitter Announced New API Tiers](https://tomaszs2.medium.com/twitter-announced-new-api-tiers-da5ea32748dd?source=rss-114c2684cfef------2)
-- [⚠️ Vulnerability Alert: Update Your Ruby!](https://tomaszs2.medium.com/vulnerability-alert-update-your-ruby-3ec1e7b52645?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
