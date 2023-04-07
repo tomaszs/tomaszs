@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Go Projects People Don’t Know About Vol. 2](https://tomaszs2.medium.com/5-go-projects-people-dont-know-about-vol-2-59d70ed45c23?source=rss-114c2684cfef------2)
 - [6 Ways AI Bots Ask For A Ban](https://tomaszs2.medium.com/6-ways-ai-bots-ask-for-a-ban-b4da38cf319f?source=rss-114c2684cfef------2)
 - [My Third Story On HackerNoon — How I Lost $1000 On One Pixel Is Live](https://tomaszs2.medium.com/my-third-story-on-hackernoon-how-i-lost-1000-on-one-pixel-is-live-92add53dd03?source=rss-114c2684cfef------2)
 - [115 Programming Articles [December 2022 — March 2023]](https://tomaszs2.medium.com/115-programming-articles-december-2022-march-2023-fef4aac07013?source=rss-114c2684cfef------2)
-- [Twitter Algorithm For Humans Part 1: Authority](https://tomaszs2.medium.com/twitter-algorithm-for-humans-part-1-authority-d7540c15c218?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
