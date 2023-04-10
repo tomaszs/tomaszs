@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C# 12 Released: Primary Constructors, Optional Lambda P’s and Using Anything](https://tomaszs2.medium.com/c-12-released-8ba80cb1fe61?source=rss-114c2684cfef------2)
 - [5 Swift Projects People Don’t Know About Vol 2](https://tomaszs2.medium.com/5-swift-projects-people-dont-know-about-vol-2-49525aa341f3?source=rss-114c2684cfef------2)
 - [✌️ 5 Vue.js Projects People Don’t Know About Vol. 2](https://tomaszs2.medium.com/%EF%B8%8F-5-vue-js-projects-people-dont-know-about-vol-2-d5a9b5a4b8b9?source=rss-114c2684cfef------2)
 - [5 Go Projects People Don’t Know About Vol. 2](https://tomaszs2.medium.com/5-go-projects-people-dont-know-about-vol-2-59d70ed45c23?source=rss-114c2684cfef------2)
-- [6 Ways AI Bots Ask For A Ban](https://tomaszs2.medium.com/6-ways-ai-bots-ask-for-a-ban-b4da38cf319f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
