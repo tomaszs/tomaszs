@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [C# 12 Released: Primary Constructors, Optional Lambda P’s and Using Anything](https://tomaszs2.medium.com/c-12-released-8ba80cb1fe61?source=rss-114c2684cfef------2)
+- [C# 12 Preview: Primary Constructors, Optional Lambda P’s and Using Anything](https://tomaszs2.medium.com/c-12-released-8ba80cb1fe61?source=rss-114c2684cfef------2)
 - [5 Swift Projects People Don’t Know About Vol 2](https://tomaszs2.medium.com/5-swift-projects-people-dont-know-about-vol-2-49525aa341f3?source=rss-114c2684cfef------2)
 - [✌️ 5 Vue.js Projects People Don’t Know About Vol. 2](https://tomaszs2.medium.com/%EF%B8%8F-5-vue-js-projects-people-dont-know-about-vol-2-d5a9b5a4b8b9?source=rss-114c2684cfef------2)
 - [5 Go Projects People Don’t Know About Vol. 2](https://tomaszs2.medium.com/5-go-projects-people-dont-know-about-vol-2-59d70ed45c23?source=rss-114c2684cfef------2)
