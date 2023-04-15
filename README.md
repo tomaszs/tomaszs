@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Genius Coders Don’t Help Others?](https://tomaszs2.medium.com/why-genius-coders-dont-help-others-b231d7dd1547?source=rss-114c2684cfef------2)
 - [People Build Solar-Powered Servers](https://tomaszs2.medium.com/people-build-solar-powered-servers-b99365eed5d8?source=rss-114c2684cfef------2)
 - [️ The History Of Javascript Performance Vol 1](https://tomaszs2.medium.com/the-history-of-javascript-performance-vol-1-c91c37634fda?source=rss-114c2684cfef------2)
 - [C# 12 Preview: Primary Constructors, Optional Lambda P’s and Using Anything](https://tomaszs2.medium.com/c-12-released-8ba80cb1fe61?source=rss-114c2684cfef------2)
-- [5 Swift Projects People Don’t Know About Vol 2](https://tomaszs2.medium.com/5-swift-projects-people-dont-know-about-vol-2-49525aa341f3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
