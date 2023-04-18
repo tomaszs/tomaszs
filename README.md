@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js 20 Released: Experimental Perms, new V8, and Single Executable Apps](https://tomaszs2.medium.com/next-js-20-released-experimental-perms-new-v8-and-single-executable-apps-8e5909375ee7?source=rss-114c2684cfef------2)
+- [️ Node.js 20 Released: Experimental Perms, new V8, and Single Executable Apps](https://tomaszs2.medium.com/next-js-20-released-experimental-perms-new-v8-and-single-executable-apps-8e5909375ee7?source=rss-114c2684cfef------2)
 - [Some Of The Best Ways To Learn Programming](https://tomaszs2.medium.com/some-of-the-best-ways-to-learn-programming-259861b423e7?source=rss-114c2684cfef------2)
 - [Why Genius Coders Don’t Help Others?](https://tomaszs2.medium.com/why-genius-coders-dont-help-others-b231d7dd1547?source=rss-114c2684cfef------2)
 - [People Build Solar-Powered Servers](https://tomaszs2.medium.com/people-build-solar-powered-servers-b99365eed5d8?source=rss-114c2684cfef------2)
