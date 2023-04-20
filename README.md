@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Awesome Open Source AI Projects](https://tomaszs2.medium.com/10-awesome-open-source-ai-projects-9847e7f291fe?source=rss-114c2684cfef------2)
 - [The Reason Why Some Big Websites Store Javascript In HTML](https://tomaszs2.medium.com/the-reason-why-some-big-websites-store-javascript-in-html-c56268a48e9d?source=rss-114c2684cfef------2)
 - [️ Node.js 20 Released: Experimental Perms, new V8, and Single Executable Apps](https://tomaszs2.medium.com/next-js-20-released-experimental-perms-new-v8-and-single-executable-apps-8e5909375ee7?source=rss-114c2684cfef------2)
 - [Some Of The Best Ways To Learn Programming](https://tomaszs2.medium.com/some-of-the-best-ways-to-learn-programming-259861b423e7?source=rss-114c2684cfef------2)
-- [Why Genius Coders Don’t Help Others?](https://tomaszs2.medium.com/why-genius-coders-dont-help-others-b231d7dd1547?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
