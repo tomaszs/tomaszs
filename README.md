@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Typescript 5.1 Beta Is Relaxed, Friendly And Fast](https://tomaszs2.medium.com/typescript-5-1-beta-is-relaxed-friendly-and-fast-9dd0e95e5e68?source=rss-114c2684cfef------2)
 - [☕ 5 Awesome Java Projects People Don’t Know About Vol 3 — Time Database, Microservices, A Game And…](https://tomaszs2.medium.com/5-awesome-java-projects-people-dont-know-about-vol-3-time-database-microservices-a-game-and-aa31daad3ff6?source=rss-114c2684cfef------2)
 - [10 Awesome Open Source AI Projects — Private AI, Code Healer And More](https://tomaszs2.medium.com/10-awesome-open-source-ai-projects-9847e7f291fe?source=rss-114c2684cfef------2)
 - [The Reason Why Some Big Websites Store Javascript In HTML](https://tomaszs2.medium.com/the-reason-why-some-big-websites-store-javascript-in-html-c56268a48e9d?source=rss-114c2684cfef------2)
-- [️ Node.js 20 Released: Experimental Perms, new V8, and Single Executable Apps](https://tomaszs2.medium.com/next-js-20-released-experimental-perms-new-v8-and-single-executable-apps-8e5909375ee7?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
