@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dominic Szablewski Announced Quite OK Audio Format](https://tomaszs2.medium.com/dominic-szablewski-announced-quite-ok-audio-format-2539e9df298?source=rss-114c2684cfef------2)
 - [️ Are Angular 16 Vite Support Rumors True With 57% Faster HMR?](https://tomaszs2.medium.com/%EF%B8%8F-are-angular-16-vite-support-true-with-57-faster-hmr-30fb7c7a8764?source=rss-114c2684cfef------2)
 - [Swift 5.9 Will Make Apps Faster And Safer](https://tomaszs2.medium.com/swift-5-9-will-make-apps-faster-and-safer-a88b33d54bd9?source=rss-114c2684cfef------2)
 - [Angular 16 RC2. The Revolution Is Near!](https://tomaszs2.medium.com/angular-16-rc2-the-revolution-is-near-d0f817a8933a?source=rss-114c2684cfef------2)
-- [How To Set Up Next.Js 13 Project](https://tomaszs2.medium.com/how-to-set-up-next-js-13-project-4ccf649ffd52?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
