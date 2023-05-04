@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vite 4.3 Release Up To 76% Faster Thanks To Own Resolver](https://tomaszs2.medium.com/vite-4-3-release-up-to-76-faster-thanks-to-own-resolver-8bb5560d775f?source=rss-114c2684cfef------2)
 - [Angular 16 Release Kills Two Stones With One Bird](https://tomaszs2.medium.com/angular-16-release-kills-two-stones-with-one-bird-659022879573?source=rss-114c2684cfef------2)
 - [{N} What’s Interesting In NativeScript?](https://tomaszs2.medium.com/n-whats-interesting-in-nativescript-cca1d37294b3?source=rss-114c2684cfef------2)
 - [Dominic Szablewski Announced Quite OK Audio Format](https://tomaszs2.medium.com/dominic-szablewski-announced-quite-ok-audio-format-2539e9df298?source=rss-114c2684cfef------2)
-- [️ Are Angular 16 Vite Support Rumors True With 57% Faster HMR?](https://tomaszs2.medium.com/%EF%B8%8F-are-angular-16-vite-support-true-with-57-faster-hmr-30fb7c7a8764?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
