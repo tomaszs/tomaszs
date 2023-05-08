@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [25 Awesome Open Source, End User Apps](https://tomaszs2.medium.com/25-awesome-open-source-end-uapps-948bb8aef27?source=rss-114c2684cfef------2)
 - [Next.js 13.4 Is A Great Gift For Cinco de Mayo](https://tomaszs2.medium.com/next-js-13-4-is-a-great-gift-for-cinco-de-mayo-e5ed5db1188b?source=rss-114c2684cfef------2)
 - [5 Awesome Go Projects To Know Before You Die](https://tomaszs2.medium.com/5-awesome-go-projects-to-know-before-you-die-b05355ed75e4?source=rss-114c2684cfef------2)
 - [Vite 4.3 Release Up To 76% Faster Thanks To Own Resolver](https://tomaszs2.medium.com/vite-4-3-release-up-to-76-faster-thanks-to-own-resolver-8bb5560d775f?source=rss-114c2684cfef------2)
-- [Angular 16 Release Kills Two Stones With One Bird](https://tomaszs2.medium.com/angular-16-release-kills-two-stones-with-one-bird-659022879573?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
