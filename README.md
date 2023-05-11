@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vue.js 3.3: Great DX and 10x Faster Builds](https://tomaszs2.medium.com/vue-js-3-3-great-dx-and-10x-faster-builds-17dbc1107cc9?source=rss-114c2684cfef------2)
 - [YouTube Tests Blocking Adblockers — What Does It Mean?](https://tomaszs2.medium.com/youtube-tests-blocking-adblockers-what-does-it-mean-48e8948fea98?source=rss-114c2684cfef------2)
 - [25 Awesome Open Source, End User Apps](https://tomaszs2.medium.com/25-awesome-open-source-end-uapps-948bb8aef27?source=rss-114c2684cfef------2)
 - [Next.js 13.4 Is A Great Gift For Cinco de Mayo](https://tomaszs2.medium.com/next-js-13-4-is-a-great-gift-for-cinco-de-mayo-e5ed5db1188b?source=rss-114c2684cfef------2)
-- [5 Awesome Go Projects To Know Before You Die](https://tomaszs2.medium.com/5-awesome-go-projects-to-know-before-you-die-b05355ed75e4?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
