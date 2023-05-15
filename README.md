@@ -19,7 +19,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Python Projects People Don’t Know About EP 3](https://tomaszs2.medium.com/5-python-projects-people-dont-know-about-ep-3-7124a28239a3?source=rss-114c2684cfef------2)
-- [EU Prepares Law For AI Monopolies](https://tomaszs2.medium.com/eu-prepares-law-for-ai-monopolies-23cdf9e69191?source=rss-114c2684cfef------2)
+- [EU Prepares A Law For AI Monopolies](https://tomaszs2.medium.com/eu-prepares-law-for-ai-monopolies-23cdf9e69191?source=rss-114c2684cfef------2)
 - [Better WebStorm Vue.js Supports Means Wider Adoption](https://tomaszs2.medium.com/better-webstorm-vue-js-supports-means-wider-adoption-5ebdd52e485?source=rss-114c2684cfef------2)
 - [StackOverflow Visitor Decline Is *Not* Caused By ChatGPT](https://tomaszs2.medium.com/stackoverflow-visitor-decline-is-not-caused-by-chatgpt-b31c139dc746?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
