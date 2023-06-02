@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NestJS Beats Rebuild Times To 180ms](https://tomaszs2.medium.com/nestjs-beats-rebuild-times-to-180ms-c624595606d4?source=rss-114c2684cfef------2)
 - [PyPI Will Require 2FA By The End Of 2023 Also From Dead People](https://tomaszs2.medium.com/pypi-will-require-2fa-by-the-end-of-2023-also-from-dead-people-19fb75f8b93a?source=rss-114c2684cfef------2)
 - [How I Got Tired Of Writing Python Tests. Now AI Writes Them For Me](https://tomaszs2.medium.com/how-i-got-tired-of-writing-python-tests-now-ai-writes-them-for-me-66ad676792e2?source=rss-114c2684cfef------2)
 - [When Was Django Born? [Research Tutorial]](https://tomaszs2.medium.com/where-was-django-born-research-tutorial-43b87418895d?source=rss-114c2684cfef------2)
-- [3 Awesome, Open Source Healtcare Apps — EMR, Private EMR And Supply Chain Monitor](https://tomaszs2.medium.com/3-awesome-open-source-healtcare-apps-emr-private-emr-and-supply-chain-monitor-3d9dcdb305b5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
