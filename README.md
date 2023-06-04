@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tom’s Coding News EP 1](https://tomaszs2.medium.com/toms-coding-news-ep-1-4f2e45f5b4d9?source=rss-114c2684cfef------2)
 - [⏰ 3 Ways To Store Time Duration](https://tomaszs2.medium.com/3-ways-to-store-time-duration-604d96d8800?source=rss-114c2684cfef------2)
 - [NestJS Beats Rebuild Times To 180ms](https://tomaszs2.medium.com/nestjs-beats-rebuild-times-to-180ms-c624595606d4?source=rss-114c2684cfef------2)
 - [PyPI Will Require 2FA By The End Of 2023 Also From Dead People](https://tomaszs2.medium.com/pypi-will-require-2fa-by-the-end-of-2023-also-from-dead-people-19fb75f8b93a?source=rss-114c2684cfef------2)
-- [How I Got Tired Of Writing Python Tests. Now AI Writes Them For Me](https://tomaszs2.medium.com/how-i-got-tired-of-writing-python-tests-now-ai-writes-them-for-me-66ad676792e2?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
