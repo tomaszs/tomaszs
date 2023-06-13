@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Your Code: CodiumAI’s Automated Analysis and Suggestions for Python and JavaScript](https://tomaszs2.medium.com/enhance-your-code-codiumais-automated-analysis-and-suggestions-for-python-and-javascript-eaa93390a5?source=rss-114c2684cfef------2)
 - [Is Million.js Really Making React 70% Faster?](https://tomaszs2.medium.com/is-million-js-really-making-react-70-faster-255356f6c179?source=rss-114c2684cfef------2)
 - [I’ve Reached Almost 50% Of My Goal With Tech Writing In 9 Months](https://tomaszs2.medium.com/ive-reached-almost-50-of-my-goal-with-tech-writing-in-9-months-3ebe73293dc4?source=rss-114c2684cfef------2)
 - [Tom’s Coding News EP 1](https://tomaszs2.medium.com/toms-coding-news-ep-1-4f2e45f5b4d9?source=rss-114c2684cfef------2)
-- [⏰ 3 Ways To Store Time Duration](https://tomaszs2.medium.com/3-ways-to-store-time-duration-604d96d8800?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
