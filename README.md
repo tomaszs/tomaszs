@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 16.0.1 —Typescript 5.1 And Boolean/Number Inputs](https://tomaszs2.medium.com/angular-16-0-1-typescript-5-1-and-boolean-number-inputs-79cfdf5b1108?source=rss-114c2684cfef------2)
 - [JupyterLab 4.0 Is Blazing Fast With Progressive Rendering](https://tomaszs2.medium.com/jupyterlab-4-0-is-blazing-fast-with-progressive-rendering-f1a3687e97eb?source=rss-114c2684cfef------2)
 - [Enhance Your Code: CodiumAI’s Automated Analysis and Suggestions for Python and JavaScript](https://tomaszs2.medium.com/enhance-your-code-codiumais-automated-analysis-and-suggestions-for-python-and-javascript-eaa93390a5?source=rss-114c2684cfef------2)
 - [Is Million.js Really Making React 70% Faster?](https://tomaszs2.medium.com/is-million-js-really-making-react-70-faster-255356f6c179?source=rss-114c2684cfef------2)
-- [I’ve Reached Almost 50% Of My Goal With Tech Writing In 9 Months](https://tomaszs2.medium.com/ive-reached-almost-50-of-my-goal-with-tech-writing-in-9-months-3ebe73293dc4?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
