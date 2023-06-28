@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Vite.js 4.4 Is The Spiderman In An Epic Rust-Related Crossover](https://tomaszs2.medium.com/%EF%B8%8F-vite-js-4-4-is-the-spiderman-in-an-epic-rust-related-crossover-c5c9dc22862c?source=rss-114c2684cfef------2)
 - [Ruby 3.3.0 And Rounding To Even That Rounds To Odd](https://tomaszs2.medium.com/ruby-3-3-0-and-rounding-to-even-that-rounds-to-odd-26373a76f2c?source=rss-114c2684cfef------2)
 - [7 Amazing Things About Go Standard Library](https://tomaszs2.medium.com/7-amazing-things-about-go-standard-library-152a8079e550?source=rss-114c2684cfef------2)
 - [A Teenager Runs Rust Code In A 32bit Computer Inside Terraria Game](https://tomaszs2.medium.com/a-teenager-runs-rust-code-in-a-32bit-computer-inside-terraria-game-484d1a58dc0a?source=rss-114c2684cfef------2)
-- [Angular 16.0.1 —Typescript 5.1 And Boolean/Number Inputs](https://tomaszs2.medium.com/angular-16-0-1-typescript-5-1-and-boolean-number-inputs-79cfdf5b1108?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
