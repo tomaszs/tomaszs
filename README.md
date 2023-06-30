@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Downloaded Almost 1000 Freepik Licenses At Once](https://tomaszs2.medium.com/how-i-downloaded-almost-1000-freepik-licenses-at-once-891f5c729733?source=rss-114c2684cfef------2)
 - [️ Vite.js 4.4 Is The Spiderman In An Epic Rust-Related Crossover](https://tomaszs2.medium.com/%EF%B8%8F-vite-js-4-4-is-the-spiderman-in-an-epic-rust-related-crossover-c5c9dc22862c?source=rss-114c2684cfef------2)
 - [Ruby 3.3.0 And Rounding To Even That Rounds To Odd](https://tomaszs2.medium.com/ruby-3-3-0-and-rounding-to-even-that-rounds-to-odd-26373a76f2c?source=rss-114c2684cfef------2)
 - [7 Amazing Things About Go Standard Library](https://tomaszs2.medium.com/7-amazing-things-about-go-standard-library-152a8079e550?source=rss-114c2684cfef------2)
-- [A Teenager Runs Rust Code In A 32bit Computer Inside Terraria Game](https://tomaszs2.medium.com/a-teenager-runs-rust-code-in-a-32bit-computer-inside-terraria-game-484d1a58dc0a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
