@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 May Be A Year Of TOML](https://tomaszs2.medium.com/2023-may-be-a-year-of-toml-b3c5f0e37efc?source=rss-114c2684cfef------2)
 - [Go And Rust Card Games Now Available](https://tomaszs2.medium.com/go-and-rust-card-games-now-available-6728001233e6?source=rss-114c2684cfef------2)
 - [Go, Rust And Python Are Completely Different In Returning Stuff](https://tomaszs2.medium.com/go-rust-and-python-are-completely-different-in-returning-stuff-6a75c00654cb?source=rss-114c2684cfef------2)
 - [How I Downloaded Almost 1000 Freepik Licenses At Once](https://tomaszs2.medium.com/how-i-downloaded-almost-1000-freepik-licenses-at-once-891f5c729733?source=rss-114c2684cfef------2)
-- [️ Vite.js 4.4 Is The Spiderman In An Epic Rust-Related Crossover](https://tomaszs2.medium.com/%EF%B8%8F-vite-js-4-4-is-the-spiderman-in-an-epic-rust-related-crossover-c5c9dc22862c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
