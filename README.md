@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin 1.9.0: K2 Beta, 10 Times Smaller Basic WebAssembly Build](https://tomaszs2.medium.com/kotlin-1-9-0-k2-beta-10-times-smaller-basic-webassembly-build-5f53fa332c29?source=rss-114c2684cfef------2)
 - [Deno 1.35: Faster, Easier, OMG](https://tomaszs2.medium.com/deno-1-35-faster-easier-omg-589ebcb3f1df?source=rss-114c2684cfef------2)
 - [All You Need To Know About Twitter Competitor From Facebook — Threads](https://tomaszs2.medium.com/all-you-need-to-know-about-twitter-competitor-from-facebook-threads-d2b25ab7c548?source=rss-114c2684cfef------2)
 - [2023 May Be A Year Of TOML](https://tomaszs2.medium.com/2023-may-be-a-year-of-toml-b3c5f0e37efc?source=rss-114c2684cfef------2)
-- [Go And Rust Card Games Now Available](https://tomaszs2.medium.com/go-and-rust-card-games-now-available-6728001233e6?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
