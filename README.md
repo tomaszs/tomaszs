@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Programmers To Follow On Threads Vol. 1](https://tomaszs2.medium.com/top-10-programmers-to-follow-on-threads-vol-1-9996a42abc02?source=rss-114c2684cfef------2)
 - [5 Amazing Ruby Projects: Code Inspector, Open-source Social Networking and Customer Support EP 1](https://tomaszs2.medium.com/5-amazing-ruby-projects-code-inspector-open-source-social-networking-and-customer-support-ep-1-40d8d95fef1b?source=rss-114c2684cfef------2)
 - [5 Amazing Swift Projects: Networking Libraries, Auto Layout and Data Visualization EP 3](https://tomaszs2.medium.com/5-amazing-swift-projects-networking-libraries-auto-layout-and-data-visualization-ep-3-2511a07d70f3?source=rss-114c2684cfef------2)
 - [⚙️ 5 Awesome Rust Projects: Analyze Your Code And Socialize With Your Peers EP 3](https://tomaszs2.medium.com/%EF%B8%8F-5-awesome-rust-projects-analyze-your-code-and-socialize-with-your-peers-ep-3-a504d2f4acb1?source=rss-114c2684cfef------2)
-- [5 Awesome Java Projects: API Testing and Secure Communication Vol. 4](https://tomaszs2.medium.com/5-awesome-java-projects-opensource-api-testing-and-secure-communication-vol-4-6e95470ea823?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
