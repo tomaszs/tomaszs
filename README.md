@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Awesome Typescript Projects: Home Automation, Open-source libraries and Task Automation EP 2](https://tomaszs2.medium.com/5-awesome-typescript-projects-home-automation-open-source-libraries-and-task-automation-ep-2-c3cef998f490?source=rss-114c2684cfef------2)
 - [5 Awesome PHP Projects: Simplified PHP Development and Time Tracking Tools EP 2](https://tomaszs2.medium.com/5-awesome-php-projects-simplified-php-development-and-time-tracking-tools-ep-2-4316c71d9eeb?source=rss-114c2684cfef------2)
 - [Top 10 Programmers To Follow On Threads Vol. 1](https://tomaszs2.medium.com/top-10-programmers-to-follow-on-threads-vol-1-9996a42abc02?source=rss-114c2684cfef------2)
 - [5 Amazing Ruby Projects: Code Inspector, Open-source Social Networking and Customer Support EP 1](https://tomaszs2.medium.com/5-amazing-ruby-projects-code-inspector-open-source-social-networking-and-customer-support-ep-1-40d8d95fef1b?source=rss-114c2684cfef------2)
-- [5 Amazing Swift Projects: Networking Libraries, Auto Layout and Data Visualization EP 3](https://tomaszs2.medium.com/5-amazing-swift-projects-networking-libraries-auto-layout-and-data-visualization-ep-3-2511a07d70f3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
