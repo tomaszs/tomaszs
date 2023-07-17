@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Awesome C# Projects: Scalable eCommerce, Cross-Platform Desktop Apps and Open-Source Projects…](https://tomaszs2.medium.com/5-awesome-c-projects-scalable-ecommerce-cross-platform-desktop-apps-and-open-source-projects-3e01186e508b?source=rss-114c2684cfef------2)
 - [5 Awesome Python Projects: Go Green, Build Scalable Systems, and Simplify PDF Extraction](https://tomaszs2.medium.com/5-awesome-python-projects-go-green-build-scalable-systems-and-simplify-pdf-extraction-3c730bea649f?source=rss-114c2684cfef------2)
 - [5 Awesome Typescript Projects: Home Automation, Open-source libraries and Task Automation EP 2](https://tomaszs2.medium.com/5-awesome-typescript-projects-home-automation-open-source-libraries-and-task-automation-ep-2-c3cef998f490?source=rss-114c2684cfef------2)
 - [5 Awesome PHP Projects: Simplified PHP Development and Time Tracking Tools EP 2](https://tomaszs2.medium.com/5-awesome-php-projects-simplified-php-development-and-time-tracking-tools-ep-2-4316c71d9eeb?source=rss-114c2684cfef------2)
-- [Top 10 Programmers To Follow On Threads Vol. 1](https://tomaszs2.medium.com/top-10-programmers-to-follow-on-threads-vol-1-9996a42abc02?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
