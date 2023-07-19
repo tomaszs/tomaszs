@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [‍ 5 Amazing AI Projects: Photos Manager, Chatbox, Deep Fakes, DocsGPT, WebChatGPT Vol. 1](https://tomaszs2.medium.com/5-amazing-ai-projects-photos-manager-chatbox-deep-fakes-docsgpt-webchatgpt-vol-1-584e12517180?source=rss-114c2684cfef------2)
 - [5 Great GO Projects: Safe Browsing Experience, Digital Wallet and Engaging Email Campaigns Vol.](https://tomaszs2.medium.com/5-great-go-projects-safe-browsing-experience-digital-wallet-and-engaging-email-campaigns-vol-c13f763fc491?source=rss-114c2684cfef------2)
 - [5 Awesome C# Projects: Scalable eCommerce, Cross-Platform Desktop Apps and Open-Source Projects…](https://tomaszs2.medium.com/5-awesome-c-projects-scalable-ecommerce-cross-platform-desktop-apps-and-open-source-projects-3e01186e508b?source=rss-114c2684cfef------2)
 - [5 Awesome Python Projects: Go Green, Build Scalable Systems, and Simplify PDF Extraction](https://tomaszs2.medium.com/5-awesome-python-projects-go-green-build-scalable-systems-and-simplify-pdf-extraction-3c730bea649f?source=rss-114c2684cfef------2)
-- [5 Awesome Typescript Projects: Home Automation, Open-source libraries and Task Automation EP 2](https://tomaszs2.medium.com/5-awesome-typescript-projects-home-automation-open-source-libraries-and-task-automation-ep-2-c3cef998f490?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
