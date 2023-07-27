@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why It’s 2023 And We Won’t Stop People From Recording Vertically](https://tomaszs2.medium.com/why-its-2023-and-we-won-t-stop-people-from-recording-vertically-399e94b4c592?source=rss-114c2684cfef------2)
 - [Invoice Dragon Is A Great React Open Source App](https://tomaszs2.medium.com/invoice-dragon-is-a-great-react-open-source-app-cda4d03eac19?source=rss-114c2684cfef------2)
 - [What People Forget About The Autonomous AI Trolley Problem](https://tomaszs2.medium.com/what-people-forget-about-the-autonomous-ai-trolley-problem-e4fd2aee3b2?source=rss-114c2684cfef------2)
 - [⚛️ Dan Abramov Quits Facebook’s Meta. What Will Happen To React?](https://tomaszs2.medium.com/dan-abramov-quits-facebooks-meta-what-will-happen-to-react-44c602396483?source=rss-114c2684cfef------2)
-- [‍ 5 Amazing AI Projects: Photos Manager, Chatbox, Deep Fakes, DocsGPT, WebChatGPT Vol. 1](https://tomaszs2.medium.com/5-amazing-ai-projects-photos-manager-chatbox-deep-fakes-docsgpt-webchatgpt-vol-1-584e12517180?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
