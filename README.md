@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Write A Game And Win $20,000](https://tomaszs2.medium.com/write-a-game-and-win-20-000-9d7a11f4fd8e?source=rss-114c2684cfef------2)
 - [5 Amazing GO Projects: Cybersecurity, Networking And Cloud Architecture](https://tomaszs2.medium.com/5-amazing-go-projects-cybersecurity-networking-and-cloud-architecture-7c4b68cc7f26?source=rss-114c2684cfef------2)
 - [What is Web Environment Integrity People Rage About?](https://tomaszs2.medium.com/what-is-web-environment-integrity-people-rage-about-f32a1b5b6b5b?source=rss-114c2684cfef------2)
 - [ʕ◔ϖ◔ʔ Go 1.21 Release: 20 New Emojis And Up To 7% Faster Apps](https://tomaszs2.medium.com/%CA%95-%CF%96-%CA%94-go-1-21-released-20-new-emojis-and-up-to-7-faster-apps-49655ea52719?source=rss-114c2684cfef------2)
-- [Brave Browser On Android — A Review Part 1](https://tomaszs2.medium.com/brave-browser-on-android-a-review-part-1-82e346e1f708?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
