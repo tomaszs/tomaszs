@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [One Click May Reveal Your Naughty Page](https://tomaszs2.medium.com/one-click-may-reveal-your-naughty-page-800136615f4f?source=rss-114c2684cfef------2)
 - [Scientists Join Artists In The Fight Against Digital Hamster Plagiarism](https://tomaszs2.medium.com/scientists-join-artists-in-the-fight-against-digital-hamster-plagiarism-3d14046060a8?source=rss-114c2684cfef------2)
 - [Write A Game And Win $20,000](https://tomaszs2.medium.com/write-a-game-and-win-20-000-9d7a11f4fd8e?source=rss-114c2684cfef------2)
 - [5 Amazing GO Projects: Cybersecurity, Networking And Cloud Architecture](https://tomaszs2.medium.com/5-amazing-go-projects-cybersecurity-networking-and-cloud-architecture-7c4b68cc7f26?source=rss-114c2684cfef------2)
-- [What is Web Environment Integrity People Rage About?](https://tomaszs2.medium.com/what-is-web-environment-integrity-people-rage-about-f32a1b5b6b5b?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
