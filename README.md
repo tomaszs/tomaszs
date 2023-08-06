@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The New React Documentation Ditches SPA Apps](https://tomaszs2.medium.com/the-new-react-documentation-ditches-spa-apps-1fc1a7c435ec?source=rss-114c2684cfef------2)
 - [Bram Moolenaar, The Creator Of Vim Died](https://tomaszs2.medium.com/bram-moolenaar-the-creator-of-vim-died-6451cf2f3f0a?source=rss-114c2684cfef------2)
 - [One Click May Reveal Your Naughty Page](https://tomaszs2.medium.com/one-click-may-reveal-your-naughty-page-800136615f4f?source=rss-114c2684cfef------2)
 - [Scientists Join Artists In The Fight Against Digital Hamster Plagiarism](https://tomaszs2.medium.com/scientists-join-artists-in-the-fight-against-digital-hamster-plagiarism-3d14046060a8?source=rss-114c2684cfef------2)
-- [Write A Game And Win $20,000](https://tomaszs2.medium.com/write-a-game-and-win-20-000-9d7a11f4fd8e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
