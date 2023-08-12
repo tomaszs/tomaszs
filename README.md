@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Did Slack *Really* Change?](https://tomaszs2.medium.com/how-did-slack-really-change-8b1bf7d417d9?source=rss-114c2684cfef------2)
 - [699 Solidity LOC That May Be Worth Over 1.25 Trillion Dollars](https://tomaszs2.medium.com/699-lines-of-code-that-may-be-worth-over-1-25-trillion-dollars-3f6ffd2d658a?source=rss-114c2684cfef------2)
 - [AI May Pirate Music And Movies](https://tomaszs2.medium.com/ai-may-pirate-music-and-movies-1e931402bd20?source=rss-114c2684cfef------2)
 - [5 Awesome Python Projects: Make Deep Fakes, Compose Videos, And Develop Frontends Vol. 6](https://tomaszs2.medium.com/5-awesome-python-projects-make-deep-fakes-compose-videos-and-develop-frontends-vol-6-83c97e25dcf5?source=rss-114c2684cfef------2)
-- [The New React Documentation Ditches SPA Apps](https://tomaszs2.medium.com/the-new-react-documentation-ditches-spa-apps-1fc1a7c435ec?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
