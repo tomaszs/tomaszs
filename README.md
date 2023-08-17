@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Angular 16.0.1–16.2.1 Is A Craftsmanship Effort](https://tomaszs2.medium.com/%EF%B8%8F-angular-16-0-1-16-2-1-is-a-craftsmanship-effort-337cf1435567?source=rss-114c2684cfef------2)
 - [⚙️ 5 Awesome Rust Projects: Scalable Databases and Remote Desktops Vol. 4](https://tomaszs2.medium.com/%EF%B8%8F-5-awesome-rust-projects-scalable-databases-and-remote-desktops-vol-4-25725b0f82a5?source=rss-114c2684cfef------2)
 - [Is Coding Really Least Stressful Job?](https://tomaszs2.medium.com/is-coding-really-least-stressful-job-28bdf5b67a86?source=rss-114c2684cfef------2)
 - [How Did Slack *Really* Change?](https://tomaszs2.medium.com/how-did-slack-really-change-8b1bf7d417d9?source=rss-114c2684cfef------2)
-- [699 Solidity LOC That May Be Worth Over 1.25 Trillion Dollars](https://tomaszs2.medium.com/699-lines-of-code-that-may-be-worth-over-1-25-trillion-dollars-3f6ffd2d658a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
