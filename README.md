@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Enforcing Date Format! It’s 2023!](https://tomaszs2.medium.com/stop-enforcing-date-format-its-2023-3af3c9266790?source=rss-114c2684cfef------2)
 - [Now You Can Override API Responses In Chrome](https://tomaszs2.medium.com/now-you-can-override-api-responses-in-chrome-1078caa0e582?source=rss-114c2684cfef------2)
 - [️ Angular 16.0.1–16.2.1 Is A Craftsmanship Effort](https://tomaszs2.medium.com/%EF%B8%8F-angular-16-0-1-16-2-1-is-a-craftsmanship-effort-337cf1435567?source=rss-114c2684cfef------2)
 - [⚙️ 5 Awesome Rust Projects: Scalable Databases and Remote Desktops Vol. 4](https://tomaszs2.medium.com/%EF%B8%8F-5-awesome-rust-projects-scalable-databases-and-remote-desktops-vol-4-25725b0f82a5?source=rss-114c2684cfef------2)
-- [Is Coding Really Least Stressful Job?](https://tomaszs2.medium.com/is-coding-really-least-stressful-job-28bdf5b67a86?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
