@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Awesome Python Projects: Create Interactive Dashboards, OCR, Go Paperless, Perform Data…](https://tomaszs2.medium.com/5-awesome-python-projects-create-interactive-dashboards-ocr-go-paperless-perform-data-7f04ef5936be?source=rss-114c2684cfef------2)
 - [Rust 1.68 — 1.72 In A Nutshell](https://tomaszs2.medium.com/rust-1-68-1-72-in-a-nutshell-7ef4a5600064?source=rss-114c2684cfef------2)
 - [Microsoft Announced Python In Excel. I knew it!](https://tomaszs2.medium.com/microsoft-announced-python-in-excel-c3f0663ba3b9?source=rss-114c2684cfef------2)
 - [5 Awesome GO Projects: PDF Processor, Portmaster, Shiori, Memos, K6 Vol. 4](https://tomaszs2.medium.com/5-awesome-go-projects-pdf-processor-portmaster-shiori-memos-k6-vol-4-76740c633e04?source=rss-114c2684cfef------2)
-- [Stop Enforcing Date Format! It’s 2023!](https://tomaszs2.medium.com/stop-enforcing-date-format-its-2023-3af3c9266790?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
