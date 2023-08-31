@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5KiB is pronounced 5 ki***bee***bytes](https://tomaszs2.medium.com/5kib-is-pronounced-5-ki-bee-bytes-8241b0215ecd?source=rss-114c2684cfef------2)
 - [Microsoft’s phasing out Visual Studio for MacOS, force moves developers to Visual Studio Code](https://tomaszs2.medium.com/microsofts-phasing-out-visual-studio-for-macos-force-moves-developers-to-visual-studio-code-16182121f609?source=rss-114c2684cfef------2)
 - [Pandas 2.1 Paves A Way For Predictable Data Analysis](https://tomaszs2.medium.com/pandas-2-1-paves-a-way-for-predictable-data-analysis-4d0d3d4e0b23?source=rss-114c2684cfef------2)
 - [5 Awesome Python Projects: Create Interactive Dashboards, OCR, Go Paperless, Perform Data…](https://tomaszs2.medium.com/5-awesome-python-projects-create-interactive-dashboards-ocr-go-paperless-perform-data-7f04ef5936be?source=rss-114c2684cfef------2)
-- [Rust 1.68 — 1.72 In A Nutshell](https://tomaszs2.medium.com/rust-1-68-1-72-in-a-nutshell-7ef4a5600064?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
