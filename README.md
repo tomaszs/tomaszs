@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Typescript 5.2 — No More Memory Leaks](https://tomaszs2.medium.com/typescript-5-2-no-more-memory-leaks-5ecdb7a822b?source=rss-114c2684cfef------2)
 - [25 Awesome Open Source, End User Apps Ep. 2](https://tomaszs2.medium.com/25-awesome-open-source-end-user-apps-ep-2-efdde55fbabf?source=rss-114c2684cfef------2)
 - [5KiB is pronounced 5 ki***bee***bytes](https://tomaszs2.medium.com/5kib-is-pronounced-5-ki-bee-bytes-8241b0215ecd?source=rss-114c2684cfef------2)
 - [Microsoft’s phasing out Visual Studio for MacOS, force moves developers to Visual Studio Code](https://tomaszs2.medium.com/microsofts-phasing-out-visual-studio-for-macos-force-moves-developers-to-visual-studio-code-16182121f609?source=rss-114c2684cfef------2)
-- [Pandas 2.1 Paves A Way For Predictable Data Analysis](https://tomaszs2.medium.com/pandas-2-1-paves-a-way-for-predictable-data-analysis-4d0d3d4e0b23?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
