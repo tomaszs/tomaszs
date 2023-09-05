@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Awesome Ruby Projects: Log Management, Blockchain Technology and Parallel Processing Vol. 2](https://tomaszs2.medium.com/5-awesome-ruby-projects-log-management-blockchain-technology-and-parallel-processing-vol-2-a6dd1db3decb?source=rss-114c2684cfef------2)
 - [That’s How New Emojis Are Born](https://tomaszs2.medium.com/thats-how-new-emojis-are-born-4e0b17392454?source=rss-114c2684cfef------2)
 - [Typescript 5.2 — No More Memory Leaks](https://tomaszs2.medium.com/typescript-5-2-no-more-memory-leaks-5ecdb7a822b?source=rss-114c2684cfef------2)
 - [25 Awesome Open Source, End User Apps Ep. 2](https://tomaszs2.medium.com/25-awesome-open-source-end-user-apps-ep-2-efdde55fbabf?source=rss-114c2684cfef------2)
-- [5KiB is pronounced 5 ki***bee***bytes](https://tomaszs2.medium.com/5kib-is-pronounced-5-ki-bee-bytes-8241b0215ecd?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
