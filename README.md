@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [20 React.js Tips From A Code Review EP. 1](https://tomaszs2.medium.com/20-react-js-tips-from-a-code-review-ep-1-39c81d2b5739?source=rss-114c2684cfef------2)
 - [Node.js 20.6.0 Now Supports .Env Files](https://tomaszs2.medium.com/node-js-20-6-0-now-supports-env-files-381dc61de63b?source=rss-114c2684cfef------2)
 - [4 Awesome Ruby Projects Vol. 2](https://tomaszs2.medium.com/5-awesome-ruby-projects-log-management-blockchain-technology-and-parallel-processing-vol-2-a6dd1db3decb?source=rss-114c2684cfef------2)
 - [That’s How New Emojis Are Born](https://tomaszs2.medium.com/thats-how-new-emojis-are-born-4e0b17392454?source=rss-114c2684cfef------2)
-- [Typescript 5.2 — No More Memory Leaks](https://tomaszs2.medium.com/typescript-5-2-no-more-memory-leaks-5ecdb7a822b?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
