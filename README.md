@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bun 1.0 Released — The Reason Coders Gossip About Bun](https://tomaszs2.medium.com/bun-1-0-released-what-is-it-610b56cb7a8b?source=rss-114c2684cfef------2)
 - [58 Summer Software Engineering Articles To Catch Up](https://tomaszs2.medium.com/58-summer-software-engineering-articles-to-catch-up-70be6b3700c5?source=rss-114c2684cfef------2)
 - [Contributors Angry After Turbo 8 Suddenly Drops Typescript](https://tomaszs2.medium.com/contributors-angry-after-turbo-8-suddenly-drops-typescript-4ffd4e0be7cd?source=rss-114c2684cfef------2)
 - [20 React.js Tips From A Code Review EP. 1](https://tomaszs2.medium.com/20-react-js-tips-from-a-code-review-ep-1-39c81d2b5739?source=rss-114c2684cfef------2)
-- [Node.js 20.6.0 Now Supports .Env Files](https://tomaszs2.medium.com/node-js-20-6-0-now-supports-env-files-381dc61de63b?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
