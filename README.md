@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ocaml 5.1 Released — 50% Smaller Installation Size](https://tomaszs2.medium.com/ocaml-5-1-released-50-smaller-installation-size-5b697f1d7693?source=rss-114c2684cfef------2)
 - [Noserver Enthusiasts Behind Quiet Make Microsoft Teams Go Brr](https://tomaszs2.medium.com/noserver-enthusiasts-make-microsoft-teams-go-brrrrrr-858385c0a39f?source=rss-114c2684cfef------2)
 - [5 Amazing Swift Projects: Game Covers, iOS Library and Window Management Vol. 4](https://tomaszs2.medium.com/5-amazing-swift-projects-game-covers-ios-library-and-window-management-vol-4-1567e90e88f4?source=rss-114c2684cfef------2)
 - [Bun 1.0 Released — The Reason Coders Gossip About Bun](https://tomaszs2.medium.com/bun-1-0-released-what-is-it-610b56cb7a8b?source=rss-114c2684cfef------2)
-- [58 Summer Software Engineering Articles To Catch Up](https://tomaszs2.medium.com/58-summer-software-engineering-articles-to-catch-up-70be6b3700c5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
