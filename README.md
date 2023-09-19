@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [XCode 15 Released: It’s An IDE You Won’t Sweat About](https://tomaszs2.medium.com/xcode-15-released-its-an-ide-you-won-t-sweat-about-84977a6b5cd9?source=rss-114c2684cfef------2)
 - [Is Lodash Really Dead? Where’s Lodash 5?](https://tomaszs2.medium.com/is-lodash-really-dead-wheres-lodash-5-cbdd79549565?source=rss-114c2684cfef------2)
 - [Rails 7.1 Beta Eases Docker Releases And Boosts Javascript With Bun](https://tomaszs2.medium.com/rails-7-1-beta-eases-docker-releases-and-boosts-javascript-with-bun-7a9418f6def8?source=rss-114c2684cfef------2)
 - [Ocaml 5.1 Released — 50% Smaller Installation Size](https://tomaszs2.medium.com/ocaml-5-1-released-50-smaller-installation-size-5b697f1d7693?source=rss-114c2684cfef------2)
-- [Noserver Enthusiasts Behind Quiet Make Microsoft Teams Go Brr](https://tomaszs2.medium.com/noserver-enthusiasts-make-microsoft-teams-go-brrrrrr-858385c0a39f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
