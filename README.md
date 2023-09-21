@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React Released New Typescript Documentation](https://tomaszs2.medium.com/react-released-new-typescript-documentation-d87e9cfe0454?source=rss-114c2684cfef------2)
 - [⚙️ 5 Awesome Rust Projects Vol. 4](https://tomaszs2.medium.com/%EF%B8%8F-5-awesome-rust-projects-develop-blockchains-and-process-images-efficiently-vol-4-90371bbef278?source=rss-114c2684cfef------2)
 - [XCode 15 Released: It’s An IDE You Won’t Sweat About](https://tomaszs2.medium.com/xcode-15-released-its-an-ide-you-won-t-sweat-about-84977a6b5cd9?source=rss-114c2684cfef------2)
 - [Is Lodash Really Dead? Where’s Lodash 5?](https://tomaszs2.medium.com/is-lodash-really-dead-wheres-lodash-5-cbdd79549565?source=rss-114c2684cfef------2)
-- [Rails 7.1 Beta Eases Docker Releases And Boosts Javascript With Bun](https://tomaszs2.medium.com/rails-7-1-beta-eases-docker-releases-and-boosts-javascript-with-bun-7a9418f6def8?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
