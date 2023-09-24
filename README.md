@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ember.js 5.3 Supports pnpm](https://tomaszs2.medium.com/ember-5-3-supports-pnpm-a5f9d716457c?source=rss-114c2684cfef------2)
 - [Svelte 5 Introduces Runes Streamlining Reactivity](https://tomaszs2.medium.com/svelte-5-introduces-runes-streamlining-reactivity-b99c5f619024?source=rss-114c2684cfef------2)
 - [React Released New Typescript Documentation](https://tomaszs2.medium.com/react-released-new-typescript-documentation-d87e9cfe0454?source=rss-114c2684cfef------2)
 - [⚙️ 5 Awesome Rust Projects Vol. 4](https://tomaszs2.medium.com/%EF%B8%8F-5-awesome-rust-projects-develop-blockchains-and-process-images-efficiently-vol-4-90371bbef278?source=rss-114c2684cfef------2)
-- [XCode 15 Released: It’s An IDE You Won’t Sweat About](https://tomaszs2.medium.com/xcode-15-released-its-an-ide-you-won-t-sweat-about-84977a6b5cd9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
