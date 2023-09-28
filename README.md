@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Are We Already Safe From The WebP Vulnerability?](https://tomaszs2.medium.com/are-we-already-safe-from-the-webp-vulnerability-6557d13a6cc9?source=rss-114c2684cfef------2)
 - [No More “git push — set-upstream origin new-branch”](https://tomaszs2.medium.com/no-more-git-push-set-upstream-origin-new-branch-2c09c632aa1d?source=rss-114c2684cfef------2)
 - [5 Awesome Java Projects: Develop low-code Apps, Recommendation System, Testing with JUnit 5…](https://tomaszs2.medium.com/5-awesome-java-projects-develop-low-code-apps-recommendation-system-testing-with-junit-5-b702d081668d?source=rss-114c2684cfef------2)
 - [Write In Go, Run With Rust. WASI Decouples Language Design From Performance](https://tomaszs2.medium.com/write-in-go-run-with-rust-wasi-decouples-language-design-from-performance-8652084e5455?source=rss-114c2684cfef------2)
-- [Ember.js 5.3 Supports pnpm](https://tomaszs2.medium.com/ember-5-3-supports-pnpm-a5f9d716457c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
