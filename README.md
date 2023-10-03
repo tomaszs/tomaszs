@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prestashop 8.1.2: Easier Product Reordering](https://tomaszs2.medium.com/prestashop-8-1-2-easier-product-reordering-6bd6bfca1b0e?source=rss-114c2684cfef------2)
 - [Local-only projects coming back to Insomnia 8.3](https://tomaszs2.medium.com/local-only-projects-coming-back-to-insomnia-8-3-f1141ea3644a?source=rss-114c2684cfef------2)
 - [Fact check: Is Cypress Really Dying?](https://tomaszs2.medium.com/fact-check-is-cypress-really-dying-da010b566a6?source=rss-114c2684cfef------2)
 - [Insomnia 8 Users Are Furious After The New Release](https://tomaszs2.medium.com/insomnia-8-users-are-furious-after-the-new-release-99d05fc80a22?source=rss-114c2684cfef------2)
-- [Are We Already Safe From The WebP Vulnerability?](https://tomaszs2.medium.com/are-we-already-safe-from-the-webp-vulnerability-6557d13a6cc9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
