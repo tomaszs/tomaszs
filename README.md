@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi Is Now Available On iPhones And iPads](https://tomaszs2.medium.com/vivaldi-is-now-available-on-iphones-and-ipads-ba3d279e670b?source=rss-114c2684cfef------2)
 - [A Complete Guide On How To Build A React Library With Vite](https://tomaszs2.medium.com/a-complete-guide-on-how-to-build-a-react-library-with-vite-1ce8507c922e?source=rss-114c2684cfef------2)
 - [️ What’s New In Upcoming Angular 17?](https://tomaszs2.medium.com/%EF%B8%8F-whats-new-in-upcoming-angular-17-816672535a33?source=rss-114c2684cfef------2)
 - [5 Amazing JavaScript Projects: Take Notes, Stunning Code Snippets, Create UI, Slate, and Plyr Vol.](https://tomaszs2.medium.com/5-amazing-javascript-projects-take-notes-stunning-code-snippets-create-ui-slate-and-plyr-vol-ed8bbbc952dc?source=rss-114c2684cfef------2)
-- [Prestashop 8.1.2: Easier Product Reordering](https://tomaszs2.medium.com/prestashop-8-1-2-easier-product-reordering-6bd6bfca1b0e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
