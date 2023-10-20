@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 17 Will Update Your Templates Control Flow Automatically](https://tomaszs2.medium.com/angular-17-will-update-your-templates-control-flow-automatically-e7aa91d91dcb?source=rss-114c2684cfef------2)
 - [Hired! Nail STAR On The Coding Job Interview](https://tomaszs2.medium.com/hired-nail-star-on-the-coding-job-interview-fe0e5c973ac1?source=rss-114c2684cfef------2)
 - [What’s Happening In Coding EP2: Cypress + Currents =  Bennu =](https://tomaszs2.medium.com/whats-happening-in-coding-ep2-ff8866a17405?source=rss-114c2684cfef------2)
 - [Vivaldi Browser Is Now Available On iPhones And iPads](https://tomaszs2.medium.com/vivaldi-is-now-available-on-iphones-and-ipads-ba3d279e670b?source=rss-114c2684cfef------2)
-- [A Complete Guide On How To Build A React Library With Vite](https://tomaszs2.medium.com/a-complete-guide-on-how-to-build-a-react-library-with-vite-1ce8507c922e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
