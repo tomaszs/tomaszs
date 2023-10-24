@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Perfect Car Temperature Is Closer Than You Think](https://tomaszs2.medium.com/the-perfect-car-temperature-is-closer-than-you-think-19e6182761c2?source=rss-114c2684cfef------2)
 - [Java 21 JDK Prepares Developers For Permission Based Instrumentation](https://tomaszs2.medium.com/java-21-jdk-prepares-developers-for-permission-based-instrumentation-106a9e331c99?source=rss-114c2684cfef------2)
 - [Vue 3.3.6 Faster Thanks To WeakMaps](https://tomaszs2.medium.com/vue-3-3-6-faster-thanks-to-weakmaps-93d06e81dcb0?source=rss-114c2684cfef------2)
 - [Angular 17 Will Update Your Templates Control Flow Automatically](https://tomaszs2.medium.com/angular-17-will-update-your-templates-control-flow-automatically-e7aa91d91dcb?source=rss-114c2684cfef------2)
-- [Hired! Nail STAR On The Coding Job Interview](https://tomaszs2.medium.com/hired-nail-star-on-the-coding-job-interview-fe0e5c973ac1?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
