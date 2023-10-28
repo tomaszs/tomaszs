@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Next 14: Turbopack Isn’t Turbopacking](https://tomaszs2.medium.com/next-14-turbopack-isnt-turbopacking-10d2ef483da0?source=rss-114c2684cfef------2)
+- [Next.js 14: Turbopack Isn’t Turbopacking](https://tomaszs2.medium.com/next-14-turbopack-isnt-turbopacking-10d2ef483da0?source=rss-114c2684cfef------2)
 - [Python 3.13 Will Let You Deprecate Functions](https://tomaszs2.medium.com/python-3-13-will-let-you-deprecate-functions-61ed43fdf866?source=rss-114c2684cfef------2)
 - [The Perfect Car Temperature Is Closer Than You Think](https://tomaszs2.medium.com/the-perfect-car-temperature-is-closer-than-you-think-19e6182761c2?source=rss-114c2684cfef------2)
 - [Java 21 JDK Prepares Developers For Permission Based Instrumentation](https://tomaszs2.medium.com/java-21-jdk-prepares-developers-for-permission-based-instrumentation-106a9e331c99?source=rss-114c2684cfef------2)
