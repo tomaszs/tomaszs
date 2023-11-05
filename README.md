@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Will Soon Support Diamond Casting](https://tomaszs2.medium.com/java-will-soon-support-diamond-casting-4f29bee50d13?source=rss-114c2684cfef------2)
 - [Java JEP 461 Custom Stream Operators Reach Preview](https://tomaszs2.medium.com/java-jep-461-custom-stream-operators-reach-preview-921a041b6fe2?source=rss-114c2684cfef------2)
 - [How Rust Was Born? The Story Of A Mistake](https://tomaszs2.medium.com/how-rust-was-born-the-story-of-a-mistake-e9aa3e8e8871?source=rss-114c2684cfef------2)
 - [Next.js 14: Turbopack Isn’t Turbopacking](https://tomaszs2.medium.com/next-14-turbopack-isnt-turbopacking-10d2ef483da0?source=rss-114c2684cfef------2)
-- [Python 3.13 Will Let You Deprecate Functions](https://tomaszs2.medium.com/python-3-13-will-let-you-deprecate-functions-61ed43fdf866?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
