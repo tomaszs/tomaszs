@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [[LIVE] Angular Renaissance Live Relation](https://tomaszs2.medium.com/angular-renaissance-live-relation-001a7d062713?source=rss-114c2684cfef------2)
+- [[LIVE] Angular 17 Renaissance Live Relation](https://tomaszs2.medium.com/angular-renaissance-live-relation-001a7d062713?source=rss-114c2684cfef------2)
 - [Swift.org Now With A Community Package Index](https://tomaszs2.medium.com/swift-org-now-with-a-community-package-index-4b3c7cceae64?source=rss-114c2684cfef------2)
 - [Java Will Soon Support Diamond Casting](https://tomaszs2.medium.com/java-will-soon-support-diamond-casting-4f29bee50d13?source=rss-114c2684cfef------2)
 - [Java JEP 461 Custom Stream Operators Reach Preview](https://tomaszs2.medium.com/java-jep-461-custom-stream-operators-reach-preview-921a041b6fe2?source=rss-114c2684cfef------2)
