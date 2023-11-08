@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Command Line Tools Raised 6 Million Dollars](https://tomaszs2.medium.com/golang-command-line-tools-raised-6-million-dollars-b84392dd3af2?source=rss-114c2684cfef------2)
 - [Improve Your App With These 9 WCAG 2.2 Criteria](https://tomaszs2.medium.com/improve-your-app-with-these-9-wcag-2-2-criteria-d78ed266926a?source=rss-114c2684cfef------2)
 - [[LIVE] Angular 17 Renaissance Live Relation](https://tomaszs2.medium.com/angular-renaissance-live-relation-001a7d062713?source=rss-114c2684cfef------2)
 - [Swift.org Now With A Community Package Index](https://tomaszs2.medium.com/swift-org-now-with-a-community-package-index-4b3c7cceae64?source=rss-114c2684cfef------2)
-- [Java Will Soon Support Diamond Casting](https://tomaszs2.medium.com/java-will-soon-support-diamond-casting-4f29bee50d13?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
