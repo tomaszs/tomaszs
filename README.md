@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [All Creators Should Move Behind Paywalls, And They Will!](https://tomaszs2.medium.com/all-creators-should-move-behind-paywalls-and-they-will-fa2fbd30f35d?source=rss-114c2684cfef------2)
 - [.NET 8: Standalone .NET Apps Now 50% Smaller On Linux](https://tomaszs2.medium.com/net-8-standalone-net-apps-now-50-smaller-on-linux-861fde887415?source=rss-114c2684cfef------2)
 - [CSS Nesting Without  Ampersand Is Coming](https://tomaszs2.medium.com/css-nesting-without-ampersand-is-coming-208a138f569e?source=rss-114c2684cfef------2)
 - [Golang Command Line Tools Raised 6 Million Dollars](https://tomaszs2.medium.com/golang-command-line-tools-raised-6-million-dollars-b84392dd3af2?source=rss-114c2684cfef------2)
-- [Improve Your App With These 9 WCAG 2.2 Criteria](https://tomaszs2.medium.com/improve-your-app-with-these-9-wcag-2-2-criteria-d78ed266926a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
