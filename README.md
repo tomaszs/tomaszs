@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New PHP Runners Are Built In Go Language](https://tomaszs2.medium.com/new-php-runners-are-built-in-go-language-451755d32199?source=rss-114c2684cfef------2)
 - [❤️‍ 5 Svelte Component Libraries Ready For 2024](https://tomaszs2.medium.com/%EF%B8%8F-5-svelte-component-libraries-ready-for-2024-ca7f2e23387f?source=rss-114c2684cfef------2)
 - [VMWare Released Spring Shell 3.2.0 M3. Build Terminal Apps In Java](https://tomaszs2.medium.com/vmware-released-spring-shell-3-2-0-m3-build-terminal-apps-in-java-16e746c841af?source=rss-114c2684cfef------2)
 - [All Creators Should Move Behind Paywalls, And They Will!](https://tomaszs2.medium.com/all-creators-should-move-behind-paywalls-and-they-will-fa2fbd30f35d?source=rss-114c2684cfef------2)
-- [.NET 8: Standalone .NET Apps Now 50% Smaller On Linux](https://tomaszs2.medium.com/net-8-standalone-net-apps-now-50-smaller-on-linux-861fde887415?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
