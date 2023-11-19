@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping The Web And Social Media By AI Companies Will Destroy The Internet](https://tomaszs2.medium.com/scraping-the-web-and-social-media-by-ai-companies-will-destroy-the-internet-dba508604278?source=rss-114c2684cfef------2)
 - [️ Fact check: Is Angular 17 Really Like Warp 10?](https://tomaszs2.medium.com/fact-check-is-angular-17-really-like-warp-10-f828b4e7a6ff?source=rss-114c2684cfef------2)
 - [New PHP Runners Are Built In Go Language](https://tomaszs2.medium.com/new-php-runners-are-built-in-go-language-451755d32199?source=rss-114c2684cfef------2)
 - [❤️‍ 5 Svelte Component Libraries Ready For 2024](https://tomaszs2.medium.com/%EF%B8%8F-5-svelte-component-libraries-ready-for-2024-ca7f2e23387f?source=rss-114c2684cfef------2)
-- [VMWare Released Spring Shell 3.2.0 M3. Build Terminal Apps In Java](https://tomaszs2.medium.com/vmware-released-spring-shell-3-2-0-m3-build-terminal-apps-in-java-16e746c841af?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
