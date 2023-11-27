@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [4 New Rounding Methods Likely In PHP 8.4](https://tomaszs2.medium.com/4-new-rounding-methods-likely-in-php-8-4-bdbfc534c0c1?source=rss-114c2684cfef------2)
 - [How To Make Björn Staal-Like Animations?](https://tomaszs2.medium.com/how-to-make-bj%C3%B6rn-staal-like-animations-0b52df7f4054?source=rss-114c2684cfef------2)
 - [Firefox 120 Released: Dark Mode, LH and Okloch Colors](https://tomaszs2.medium.com/firefox-120-released-dark-mode-lh-and-okloch-colors-f8b70b7d6171?source=rss-114c2684cfef------2)
 - [7 Surprising Coding Facts  Revealed By JetBrains 2023 Survey](https://tomaszs2.medium.com/7-surprising-coding-facts-revealed-by-jetbrains-2023-survey-473d1d78860e?source=rss-114c2684cfef------2)
-- [React Jam Fall 2023 Results Announced](https://tomaszs2.medium.com/react-jam-fall-2023-results-announced-f61ad47c1524?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
