@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [FacebooStyleX Is A Terrible Solution](https://tomaszs2.medium.com/faceboostylex-is-a-terrible-solution-94cd5f651fb3?source=rss-114c2684cfef------2)
+- [Facebook’s StyleX Is A Terrible Solution](https://tomaszs2.medium.com/faceboostylex-is-a-terrible-solution-94cd5f651fb3?source=rss-114c2684cfef------2)
 - [⛔ Stop Coding Spreadsheet Imports In JavaScript — Open Source Impler.io Does It For You](https://tomaszs2.medium.com/stop-coding-spreadsheet-imports-in-javascript-open-source-impler-io-does-it-for-you-7ac34da74f9d?source=rss-114c2684cfef------2)
 - [The Best Gift For Programmer In 2023?](https://tomaszs2.medium.com/the-best-gift-for-programmer-in-2023-df5036796400?source=rss-114c2684cfef------2)
 - [5 Best Chairs For Programmers](https://tomaszs2.medium.com/5-best-chairs-for-programmers-8f4c0604226b?source=rss-114c2684cfef------2)
