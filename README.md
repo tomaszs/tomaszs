@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Crazy Angular 17.1.0 Released. Tickets Get Closed Before Being Submitted](https://tomaszs2.medium.com/angular-17-0-1-17-1-0-improvements-4d964db9f198?source=rss-114c2684cfef------2)
+- [Crazy Angular 17.1.0 Release Comming Up. Tickets Get Closed Before Being Submitted](https://tomaszs2.medium.com/angular-17-0-1-17-1-0-improvements-4d964db9f198?source=rss-114c2684cfef------2)
 - [Facebook’s StyleX Is A Terrible Solution](https://tomaszs2.medium.com/faceboostylex-is-a-terrible-solution-94cd5f651fb3?source=rss-114c2684cfef------2)
 - [⛔ Stop Coding Spreadsheet Imports In JavaScript — Open Source Impler.io Does It For You](https://tomaszs2.medium.com/stop-coding-spreadsheet-imports-in-javascript-open-source-impler-io-does-it-for-you-7ac34da74f9d?source=rss-114c2684cfef------2)
 - [The Best Gift For Programmer In 2023?](https://tomaszs2.medium.com/the-best-gift-for-programmer-in-2023-df5036796400?source=rss-114c2684cfef------2)
