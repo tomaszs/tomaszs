@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How OCaml Was Born: The Story Of Wine Chateux](https://tomaszs2.medium.com/how-ocaml-was-born-the-story-of-wine-chateux-ca685011b390?source=rss-114c2684cfef------2)
 - [Young You Wrote A Bank Software Thanks To AI](https://tomaszs2.medium.com/young-you-wrote-a-bank-software-thanks-to-ai-c08659596a5a?source=rss-114c2684cfef------2)
 - [Kotlin 1.9.20 Improves Object Swarm Garbage Collection](https://tomaszs2.medium.com/kotlin-1-9-20-improves-object-swarm-garbage-collection-cb9c57779997?source=rss-114c2684cfef------2)
 - [Crazy Angular 17.1.0 Release Comming Up. Tickets Get Closed Before Being Submitted](https://tomaszs2.medium.com/angular-17-0-1-17-1-0-improvements-4d964db9f198?source=rss-114c2684cfef------2)
-- [Facebook’s StyleX Is A Terrible Solution](https://tomaszs2.medium.com/faceboostylex-is-a-terrible-solution-94cd5f651fb3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
