@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Text-wrap: balance Opens An Arbitrarity Hell](https://tomaszs2.medium.com/text-wrap-balance-opens-an-arbitrarity-hell-8e217d49264c?source=rss-114c2684cfef------2)
 - [Top 10 Surprising Insights From CloudFlare Radar Analysis 2023](https://tomaszs2.medium.com/top-10-surprising-insights-from-cloudflare-radar-analysis-2023-7477d7c9989c?source=rss-114c2684cfef------2)
 - [How OCaml Was Born: The Story Of Wine Chateux](https://tomaszs2.medium.com/how-ocaml-was-born-the-story-of-wine-chateux-ca685011b390?source=rss-114c2684cfef------2)
 - [Young You Wrote A Bank Software Thanks To AI](https://tomaszs2.medium.com/young-you-wrote-a-bank-software-thanks-to-ai-c08659596a5a?source=rss-114c2684cfef------2)
-- [Kotlin 1.9.20 Improves Object Swarm Garbage Collection](https://tomaszs2.medium.com/kotlin-1-9-20-improves-object-swarm-garbage-collection-cb9c57779997?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
