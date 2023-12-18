@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Awesome Python Open Source Projects EP 7](https://tomaszs2.medium.com/10-awesome-python-open-source-projects-ep-7-a21405b3070e?source=rss-114c2684cfef------2)
 - [⚙️ 10 Awesome Rust Projects EP 6](https://tomaszs2.medium.com/10-awesome-rust-projects-ep-6-8c55f56cc561?source=rss-114c2684cfef------2)
 - [Text-wrap: balance Opens An Arbitrarity Hell](https://tomaszs2.medium.com/text-wrap-balance-opens-an-arbitrarity-hell-8e217d49264c?source=rss-114c2684cfef------2)
 - [Top 10 Surprising Insights From CloudFlare Radar Analysis 2023](https://tomaszs2.medium.com/top-10-surprising-insights-from-cloudflare-radar-analysis-2023-7477d7c9989c?source=rss-114c2684cfef------2)
-- [How OCaml Was Born: The Story Of Wine Chateux](https://tomaszs2.medium.com/how-ocaml-was-born-the-story-of-wine-chateux-ca685011b390?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
