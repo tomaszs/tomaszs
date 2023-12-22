@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Rust] Appflowy — Your Fantastic Task List, JIRA, Calendar, Word And AI Safely In One](https://tomaszs2.medium.com/appflowy-your-fantastic-task-list-jira-calendar-word-and-ai-safely-in-one-ccfe60f7638d?source=rss-114c2684cfef------2)
 - [10 Awesome Go Projects #7 — HTML In Go](https://tomaszs2.medium.com/10-awesome-go-projects-7-html-in-go-92cd59bd4361?source=rss-114c2684cfef------2)
 - [10 Awesome Python Open Source Projects EP 7](https://tomaszs2.medium.com/10-awesome-python-open-source-projects-ep-7-a21405b3070e?source=rss-114c2684cfef------2)
 - [⚙️ 10 Awesome Rust Projects EP 6](https://tomaszs2.medium.com/10-awesome-rust-projects-ep-6-8c55f56cc561?source=rss-114c2684cfef------2)
-- [Text-wrap: balance Opens An Arbitrarity Hell](https://tomaszs2.medium.com/text-wrap-balance-opens-an-arbitrarity-hell-8e217d49264c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
