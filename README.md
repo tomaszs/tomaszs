@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [☕ 10 Awesome Java Open Source Projects EP 6](https://tomaszs2.medium.com/10-awesome-java-open-source-projects-ep-6-702b96b08fb0?source=rss-114c2684cfef------2)
 - [&lt;b&gt; or &lt;strong&gt;? Treat &lt;b&gt; Tag As Companies Treat Programmers!](https://tomaszs2.medium.com/b-or-strong-treat-b-tag-as-companies-treat-programmers-a18c7cd7e539?source=rss-114c2684cfef------2)
 - [[Rust] Appflowy — Your Fantastic Task List, JIRA, Calendar, Word And AI Safely In One](https://tomaszs2.medium.com/appflowy-your-fantastic-task-list-jira-calendar-word-and-ai-safely-in-one-ccfe60f7638d?source=rss-114c2684cfef------2)
 - [10 Awesome Go Projects #7 — HTML In Go](https://tomaszs2.medium.com/10-awesome-go-projects-7-html-in-go-92cd59bd4361?source=rss-114c2684cfef------2)
-- [10 Awesome Python Open Source Projects EP 7](https://tomaszs2.medium.com/10-awesome-python-open-source-projects-ep-7-a21405b3070e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
