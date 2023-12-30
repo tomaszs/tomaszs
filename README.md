@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [✌️ Vue.js 3.4 Released: 20% Faster Parsing, Two Way Binding And More](https://tomaszs2.medium.com/%EF%B8%8F-vue-js-3-4-released-20-faster-parsing-two-way-binding-and-more-64bf77c38f0f?source=rss-114c2684cfef------2)
 - [I’ve Created Friendly LinkedIn Groups For Java, Rust, Go &lpar;Golang&rpar; and Python Programmers](https://tomaszs2.medium.com/ive-created-friendly-linkedin-groups-for-java-rust-go-golang-and-python-bc2c7c128c3c?source=rss-114c2684cfef------2)
 - [☕ 10 Awesome Java Open Source Projects EP 6](https://tomaszs2.medium.com/10-awesome-java-open-source-projects-ep-6-702b96b08fb0?source=rss-114c2684cfef------2)
 - [&lt;b&gt; or &lt;strong&gt;? Treat &lt;b&gt; Tag As Companies Treat Programmers!](https://tomaszs2.medium.com/b-or-strong-treat-b-tag-as-companies-treat-programmers-a18c7cd7e539?source=rss-114c2684cfef------2)
-- [[Rust] Appflowy — Your Fantastic Task List, JIRA, Calendar, Word And AI Safely In One](https://tomaszs2.medium.com/appflowy-your-fantastic-task-list-jira-calendar-word-and-ai-safely-in-one-ccfe60f7638d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
