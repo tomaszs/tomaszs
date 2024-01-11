@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Handle Poor Communicators At Work? Meet Nicer!](https://tomaszs2.medium.com/how-to-handle-poor-communicators-at-work-meet-nicer-817f0bd78295?source=rss-114c2684cfef------2)
 - [Rude Messages From Boss? Fix it with Nicer!](https://tomaszs2.medium.com/rude-messages-from-coworkers-fix-it-with-nicer-feb11101a04f?source=rss-114c2684cfef------2)
 - [You Can Now Join New Angular, C#, C++, CSS and Git Groups On LinkedIn](https://tomaszs2.medium.com/you-can-now-join-new-angular-c-c-css-and-git-groups-on-linkedin-40bd0a876012?source=rss-114c2684cfef------2)
 - [✌️ Vue.js 3.4 Released: 20% Faster Parsing, Two Way Binding And More](https://tomaszs2.medium.com/%EF%B8%8F-vue-js-3-4-released-20-faster-parsing-two-way-binding-and-more-64bf77c38f0f?source=rss-114c2684cfef------2)
-- [I’ve Created Friendly LinkedIn Groups For Java, Rust, Go &lpar;Golang&rpar; and Python Programmers](https://tomaszs2.medium.com/ive-created-friendly-linkedin-groups-for-java-rust-go-golang-and-python-bc2c7c128c3c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
