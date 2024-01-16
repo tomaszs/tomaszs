@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [40 Java Apps You Should Know Megapack EP1](https://tomaszs2.medium.com/40-java-apps-you-should-know-megapack-ep1-052b34ec30fe?source=rss-114c2684cfef------2)
 - [Why Do Big Companies Ask Unrealistic Software Engineering Interview Questions?](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0?source=rss-114c2684cfef------2)
 - [41 Rust Apps You Should Know Megapack EP 1](https://tomaszs2.medium.com/41-rust-apps-you-should-know-megapack-ep-1-e0596c06cca2?source=rss-114c2684cfef------2)
 - [I got a rude email. AI fixed it for me!](https://tomaszs2.medium.com/i-got-a-rude-email-ai-fixed-it-for-me-25f7cd7c6756?source=rss-114c2684cfef------2)
-- [How Java Was Born — Two Fails And A Win](https://tomaszs2.medium.com/how-java-was-born-two-fails-and-a-win-4149aca804e0?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
