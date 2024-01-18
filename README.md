@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do pro software developers memorize programming?](https://tomaszs2.medium.com/do-pro-software-developers-memorize-programming-00b282d0b1a4?source=rss-114c2684cfef------2)
 - [How to learn programming from scratch?](https://tomaszs2.medium.com/how-to-learn-programming-from-scratch-92a2094511a1?source=rss-114c2684cfef------2)
 - [40 Java Apps You Should Know Megapack EP1](https://tomaszs2.medium.com/40-java-apps-you-should-know-megapack-ep1-052b34ec30fe?source=rss-114c2684cfef------2)
 - [Why Do Big Companies Ask Unrealistic Software Engineering Interview Questions?](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0?source=rss-114c2684cfef------2)
-- [41 Rust Apps You Should Know Megapack EP 1](https://tomaszs2.medium.com/41-rust-apps-you-should-know-megapack-ep-1-e0596c06cca2?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
