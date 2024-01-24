@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Source Code I’ve Ever Seen](https://tomaszs2.medium.com/the-best-source-code-ive-ever-seen-e5b21e9b1602?source=rss-114c2684cfef------2)
 - [I’ve Designed 10 XXL Mousepads For Programmers](https://tomaszs2.medium.com/ive-designed-10-xxl-mousepads-for-programmers-dba235a9f21f?source=rss-114c2684cfef------2)
 - [The next Megapack will be about C#](https://tomaszs2.medium.com/the-next-megapack-will-be-about-c-159abc309f6f?source=rss-114c2684cfef------2)
 - [Bulgaria Went Open Source: The Revisit After 7 Years](https://tomaszs2.medium.com/bulgaria-went-open-source-the-revisit-after-7-years-03e90a9cb0ec?source=rss-114c2684cfef------2)
-- [How can programmers be lazy if coding is hard?](https://tomaszs2.medium.com/how-can-programmers-be-lazy-if-coding-is-hard-927c08b41780?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
