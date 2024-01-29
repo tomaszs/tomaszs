@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Surprising Ways Coding Changed In The Last 10 Years](https://tomaszs2.medium.com/7-surprising-ways-coding-changed-in-the-last-10-years-549a8cb0d3c6?source=rss-114c2684cfef------2)
 - [10 C# Apps You Should Know](https://tomaszs2.medium.com/10-c-apps-you-should-know-eb2beb9292e3?source=rss-114c2684cfef------2)
 - [I Went 50 Versions Of React Back To Fix A Project](https://tomaszs2.medium.com/i-went-50-versions-of-react-back-to-fix-a-project-0c21472ad713?source=rss-114c2684cfef------2)
 - [The Best Source Code I’ve Ever Seen](https://tomaszs2.medium.com/the-best-source-code-ive-ever-seen-e5b21e9b1602?source=rss-114c2684cfef------2)
-- [I’ve Designed 10 XXL Mousepads For Programmers](https://tomaszs2.medium.com/ive-designed-10-xxl-mousepads-for-programmers-dba235a9f21f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
