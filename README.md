@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Visual Studio Code Shortcuts To Boost Productivity EP1](https://tomaszs2.medium.com/10-visual-studio-code-shortcuts-to-boost-productivity-ep1-85ce2e624063?source=rss-114c2684cfef------2)
 - [My Laptop’s Crash Made A Reality Check On Me](https://tomaszs2.medium.com/my-laptops-crash-made-a-reality-check-on-me-39df523369d8?source=rss-114c2684cfef------2)
 - [7 Surprising Ways Coding Changed In The Last 10 Years](https://tomaszs2.medium.com/7-surprising-ways-coding-changed-in-the-last-10-years-549a8cb0d3c6?source=rss-114c2684cfef------2)
 - [10 C# Apps You Should Know](https://tomaszs2.medium.com/10-c-apps-you-should-know-eb2beb9292e3?source=rss-114c2684cfef------2)
-- [I Went 50 Versions Of React Back To Fix A Project](https://tomaszs2.medium.com/i-went-50-versions-of-react-back-to-fix-a-project-0c21472ad713?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
