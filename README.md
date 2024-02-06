@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Space Industry Job Offers For Engineers EP 1. The Industry Escapes Recession Gravity](https://tomaszs2.medium.com/10-space-industry-job-offers-for-engineers-ep-1-the-industry-escapes-recession-gravity-4e847d8e77bf?source=rss-114c2684cfef------2)
 - [49 Go Projects You Should Know Megapack EP1](https://tomaszs2.medium.com/49-go-projects-you-should-know-megapack-ep1-37655ed11399?source=rss-114c2684cfef------2)
 - [10 Visual Studio Code Shortcuts To Boost Productivity EP1](https://tomaszs2.medium.com/10-visual-studio-code-shortcuts-to-boost-productivity-ep1-85ce2e624063?source=rss-114c2684cfef------2)
 - [My Laptop’s Crash Made A Reality Check On Me](https://tomaszs2.medium.com/my-laptops-crash-made-a-reality-check-on-me-39df523369d8?source=rss-114c2684cfef------2)
-- [7 Surprising Ways Coding Changed In The Last 10 Years](https://tomaszs2.medium.com/7-surprising-ways-coding-changed-in-the-last-10-years-549a8cb0d3c6?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
