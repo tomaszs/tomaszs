@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Start To Like Users And Enjoy Software Engineering](https://tomaszs2.medium.com/how-to-start-to-like-users-and-enjoy-software-engineering-a1d18c7d1a7e?source=rss-114c2684cfef------2)
 - [40 Python Apps You Should Know Megapack EP1](https://tomaszs2.medium.com/40-python-apps-you-should-know-megapack-ep1-b6e5068e3960?source=rss-114c2684cfef------2)
 - [Go 1.22 Improves CPU Performance By 1–3%](https://tomaszs2.medium.com/go-1-22-improves-cpu-performance-by-1-3-bb04ad71e667?source=rss-114c2684cfef------2)
 - [Angular’s NgOptimizedImage Soon Will Show Placeholders](https://tomaszs2.medium.com/angulars-ngoptimizedimage-soon-will-show-placeholders-be217533e60a?source=rss-114c2684cfef------2)
-- [Your Lists Won’t Hang In Vue.js 3.4.15](https://tomaszs2.medium.com/your-lists-wont-hang-in-vue-js-3-4-15-044581558206?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
