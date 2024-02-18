@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide To Build A Successful Design System PART 1](https://tomaszs2.medium.com/the-complete-guide-to-build-a-successful-design-system-part-1-9ab530fe6311?source=rss-114c2684cfef------2)
 - [VSCode Sticky Scroll Didn’t Stick With Programmers](https://tomaszs2.medium.com/vscode-sticky-scroll-didnt-stick-with-programmers-fddf162565ce?source=rss-114c2684cfef------2)
 - [Express.js Got Flooded With Pull Requests. An Idea To Ban India Strongly Rejected](https://tomaszs2.medium.com/express-js-got-flooded-with-pull-requests-an-idea-to-ban-india-strongly-rejected-96a9ec554661?source=rss-114c2684cfef------2)
 - [Smartphone Camera Doesn’t Work During Local Development](https://tomaszs2.medium.com/smartphone-camera-doesnt-work-during-local-development-bc640c73bacc?source=rss-114c2684cfef------2)
-- [How To Start To Like Users And Enjoy Software Engineering](https://tomaszs2.medium.com/how-to-start-to-like-users-and-enjoy-software-engineering-a1d18c7d1a7e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
