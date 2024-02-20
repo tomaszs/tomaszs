@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 17.2.0 With Netlify Image CDN Support](https://tomaszs2.medium.com/angular-17-2-0-with-netlify-image-cdn-support-f782e38e4e04?source=rss-114c2684cfef------2)
 - [20 Awesome Open Source, End User Apps EP 3](https://tomaszs2.medium.com/20-awesome-open-source-end-user-apps-ep-3-b07de3227dac?source=rss-114c2684cfef------2)
 - [Ember.js Did It Again. Single File Components Ahead Of The Competition](https://tomaszs2.medium.com/ember-js-did-it-again-single-file-components-ahead-of-the-competition-e0e4cf1a8c4b?source=rss-114c2684cfef------2)
 - [The Complete Guide To Build A Successful Design System PART 1](https://tomaszs2.medium.com/the-complete-guide-to-build-a-successful-design-system-part-1-9ab530fe6311?source=rss-114c2684cfef------2)
-- [VSCode Sticky Scroll Didn’t Stick With Programmers](https://tomaszs2.medium.com/vscode-sticky-scroll-didnt-stick-with-programmers-fddf162565ce?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
