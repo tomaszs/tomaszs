@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A $104000 Netlify Bill: The Story About The Shrimp Bar](https://tomaszs2.medium.com/a-104000-netlify-bill-the-story-about-the-shrimp-bar-9764f290cd3c?source=rss-114c2684cfef------2)
 - [AI Responder 1.0 Released!!!](https://tomaszs2.medium.com/ai-responder-1-0-released-11ff075163bf?source=rss-114c2684cfef------2)
 - [Storybook.js  — The Story Of Not Today](https://tomaszs2.medium.com/storybook-js-the-story-of-not-today-300e93035bec?source=rss-114c2684cfef------2)
 - [15 Places To Find A Dream Programming Job](https://tomaszs2.medium.com/15-places-to-find-a-dream-programming-job-36f7c0d0bf30?source=rss-114c2684cfef------2)
-- [Angular 17.2.0 With Netlify Image CDN Support](https://tomaszs2.medium.com/angular-17-2-0-with-netlify-image-cdn-support-f782e38e4e04?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
