@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction To JavaScript Unit Testing: Jest and ES6 Part 1](https://tomaszs2.medium.com/introduction-to-jest-unit-testing-part-1-9da4f20edcdf?source=rss-114c2684cfef------2)
 - [How To Respond To Gmail Emails With AI For Free?](https://tomaszs2.medium.com/how-to-respond-to-gmail-emails-with-ai-for-free-94a3eaa4e89e?source=rss-114c2684cfef------2)
 - [A Shocked Programmer Got A $104k Bill](https://tomaszs2.medium.com/a-104000-netlify-bill-the-story-about-the-shrimp-bar-9764f290cd3c?source=rss-114c2684cfef------2)
 - [AI Responder 1.0 Released!!!](https://tomaszs2.medium.com/ai-responder-1-0-released-11ff075163bf?source=rss-114c2684cfef------2)
-- [Storybook.js  — The Story Of Not Today](https://tomaszs2.medium.com/storybook-js-the-story-of-not-today-300e93035bec?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
