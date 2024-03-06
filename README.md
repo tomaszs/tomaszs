@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Prepare For Coding Job Hunting PART 1](https://tomaszs2.medium.com/how-to-prepare-for-coding-job-hunting-part-1-7628fca71b10?source=rss-114c2684cfef------2)
 - [4 Successful Design System Stories That Teach Us Something PART 2](https://tomaszs2.medium.com/4-successful-design-system-stories-that-teach-us-something-part-2-d491cf537606?source=rss-114c2684cfef------2)
 - [Introduction To JavaScript Unit Testing: Jest and ES6 Part 1](https://tomaszs2.medium.com/introduction-to-jest-unit-testing-part-1-9da4f20edcdf?source=rss-114c2684cfef------2)
 - [How To Respond To Gmail Emails With AI For Free?](https://tomaszs2.medium.com/how-to-respond-to-gmail-emails-with-ai-for-free-94a3eaa4e89e?source=rss-114c2684cfef------2)
-- [A Shocked Programmer Got A $104k Bill](https://tomaszs2.medium.com/a-104000-netlify-bill-the-story-about-the-shrimp-bar-9764f290cd3c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
