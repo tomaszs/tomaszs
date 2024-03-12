@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Spring Effect With CSS](https://tomaszs2.medium.com/how-to-create-a-spring-effect-with-css-b3b9578e91ee?source=rss-114c2684cfef------2)
 - [Programming Flashcards Discounted To $41.99 Now](https://tomaszs2.medium.com/programming-flashcards-discounted-to-41-99-now-eac21e25de80?source=rss-114c2684cfef------2)
 - [How To Prepare For Coding Job Hunting PART 1](https://tomaszs2.medium.com/how-to-prepare-for-coding-job-hunting-part-1-7628fca71b10?source=rss-114c2684cfef------2)
 - [4 Successful Design System Stories That Teach Us Something PART 2](https://tomaszs2.medium.com/4-successful-design-system-stories-that-teach-us-something-part-2-d491cf537606?source=rss-114c2684cfef------2)
-- [Introduction To JavaScript Unit Testing: Jest and ES6 Part 1](https://tomaszs2.medium.com/introduction-to-jest-unit-testing-part-1-9da4f20edcdf?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
