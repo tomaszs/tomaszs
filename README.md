@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Devs Shocked! Multithreading Ahead!](https://tomaszs2.medium.com/python-devs-shocked-multithreading-ahead-261ef20e8016?source=rss-114c2684cfef------2)
 - [Angular Team Started Preparations For 18 Release](https://tomaszs2.medium.com/angular-team-started-preparations-for-18-release-a404bdc2609f?source=rss-114c2684cfef------2)
 - [The Best Tool To Mockup an API For Frontend Developers](https://tomaszs2.medium.com/the-best-tool-to-mockup-an-api-for-frontend-developers-ff644900d46f?source=rss-114c2684cfef------2)
 - [Ditch Public AI, Use Private One!](https://tomaszs2.medium.com/ditch-public-ai-use-private-one-b955770d1f2a?source=rss-114c2684cfef------2)
-- [How To Create A Spring Effect With CSS](https://tomaszs2.medium.com/how-to-create-a-spring-effect-with-css-b3b9578e91ee?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
