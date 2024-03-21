@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Trick To Read Medium For Free](https://tomaszs2.medium.com/the-trick-to-read-medium-for-free-9226807f0638?source=rss-114c2684cfef------2)
 - [‍ Nobody Expected C++ Memory Safety. Rust In Trouble](https://tomaszs2.medium.com/nobody-expected-c-memory-safety-rust-in-trouble-cefb39166923?source=rss-114c2684cfef------2)
 - [Python Devs Shocked! Multithreading Ahead!](https://tomaszs2.medium.com/python-devs-shocked-multithreading-ahead-261ef20e8016?source=rss-114c2684cfef------2)
 - [Angular Team Started Preparations For 18 Release](https://tomaszs2.medium.com/angular-team-started-preparations-for-18-release-a404bdc2609f?source=rss-114c2684cfef------2)
-- [The Best Tool To Mockup an API For Frontend Developers](https://tomaszs2.medium.com/the-best-tool-to-mockup-an-api-for-frontend-developers-ff644900d46f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
