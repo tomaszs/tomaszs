@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ditch Building Native Apps For These 10 Reasons!](https://tomaszs2.medium.com/ditch-building-native-apps-for-these-10-reasons-86ed2ae34f4c?source=rss-114c2684cfef------2)
 - [Blazor Takes Over The Web Hidden From JavaScript Developers](https://tomaszs2.medium.com/blazor-takes-over-the-web-hidden-from-javascript-developers-954aa7679499?source=rss-114c2684cfef------2)
 - [Go Reached 1.96s In One Billion Row Challenge](https://tomaszs2.medium.com/go-reached-1-96s-in-one-billion-row-challenge-ea9ffd0eba36?source=rss-114c2684cfef------2)
 - [AI Can Make A Code Review For Free!](https://tomaszs2.medium.com/ai-can-make-a-code-review-for-free-a559cf74efa5?source=rss-114c2684cfef------2)
-- [Rust 2023 Survey Results: DX Kills The Joy, Rust 1.77 Released](https://tomaszs2.medium.com/rust-2023-survey-results-dx-kills-the-joy-rust-1-77-released-abcad9bede88?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
