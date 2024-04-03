@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Experts Terrified By SSH Vulnerability. Here’s What We Know](https://tomaszs2.medium.com/security-experts-terrified-by-ssh-vulnerability-heres-what-we-know-6ad45d9c0a1a?source=rss-114c2684cfef------2)
 - [The Evolution Of Bridges — Are Bridges Safe?](https://tomaszs2.medium.com/the-evolution-of-bridges-are-bridges-safe-e933f09b06d2?source=rss-114c2684cfef------2)
 - [Signals To Become Part Of Javascript](https://tomaszs2.medium.com/signals-to-become-part-of-javascript-64ce72009f69?source=rss-114c2684cfef------2)
 - [Ditch Building Native Apps For These 10 Reasons!](https://tomaszs2.medium.com/ditch-building-native-apps-for-these-10-reasons-86ed2ae34f4c?source=rss-114c2684cfef------2)
-- [Blazor Takes Over The Web Hidden From JavaScript Developers](https://tomaszs2.medium.com/blazor-takes-over-the-web-hidden-from-javascript-developers-954aa7679499?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
