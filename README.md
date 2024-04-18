@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Absolutely Worst Way To Fail A Job Interview](https://tomaszs2.medium.com/the-absolutely-worst-way-to-fail-a-job-interview-c4959bc43295?source=rss-114c2684cfef------2)
 - [During Last 12 Years Go Got Up To 24x Faster](https://tomaszs2.medium.com/during-last-12-years-go-got-up-to-24x-faster-4967ed8bec15?source=rss-114c2684cfef------2)
 - [OpenTofu: Terraform Accusations Are Invalid. We Use Properly Licenced Code](https://tomaszs2.medium.com/opentofu-terraform-accusations-are-invalid-we-use-properly-licenced-code-ec54adbf0ae5?source=rss-114c2684cfef------2)
 - [Guido Van Rossum And A Bat Ray. I Was Really Worried!](https://tomaszs2.medium.com/where-is-guido-van-rossum-i-was-really-worried-16210feaf952?source=rss-114c2684cfef------2)
-- [It’s About Time To Ditch Captcha In 2024](https://tomaszs2.medium.com/its-about-time-to-ditch-captcha-in-2024-393a5d0469b9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
