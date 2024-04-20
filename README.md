@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boston Dynamics 3D Renders Made Robots More Approachable](https://tomaszs2.medium.com/boston-dynamics-3d-renders-made-robots-more-approachable-f9210196c065?source=rss-114c2684cfef------2)
 - [The Absolutely Worst Way To Fail A Job Interview](https://tomaszs2.medium.com/the-absolutely-worst-way-to-fail-a-job-interview-c4959bc43295?source=rss-114c2684cfef------2)
 - [During Last 12 Years Go Got Up To 24x Faster](https://tomaszs2.medium.com/during-last-12-years-go-got-up-to-24x-faster-4967ed8bec15?source=rss-114c2684cfef------2)
 - [OpenTofu: Terraform Accusations Are Invalid. We Use Properly Licenced Code](https://tomaszs2.medium.com/opentofu-terraform-accusations-are-invalid-we-use-properly-licenced-code-ec54adbf0ae5?source=rss-114c2684cfef------2)
-- [Guido Van Rossum And A Bat Ray. I Was Really Worried!](https://tomaszs2.medium.com/where-is-guido-van-rossum-i-was-really-worried-16210feaf952?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
