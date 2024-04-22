@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 23 — Devs Frustrated Waiting For The Vector API](https://tomaszs2.medium.com/java-23-devs-frustrated-waiting-for-the-vector-api-3a2116532668?source=rss-114c2684cfef------2)
 - [Boston Dynamics 3D Renders Made Robots More Approachable](https://tomaszs2.medium.com/boston-dynamics-3d-renders-made-robots-more-approachable-f9210196c065?source=rss-114c2684cfef------2)
 - [The Absolutely Worst Way To Fail A Job Interview](https://tomaszs2.medium.com/the-absolutely-worst-way-to-fail-a-job-interview-c4959bc43295?source=rss-114c2684cfef------2)
 - [During Last 12 Years Go Got Up To 24x Faster](https://tomaszs2.medium.com/during-last-12-years-go-got-up-to-24x-faster-4967ed8bec15?source=rss-114c2684cfef------2)
-- [OpenTofu: Terraform Accusations Are Invalid. We Use Properly Licenced Code](https://tomaszs2.medium.com/opentofu-terraform-accusations-are-invalid-we-use-properly-licenced-code-ec54adbf0ae5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
