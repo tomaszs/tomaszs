@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [I’ve Designed Golang And Rust Mugs!](https://tomaszs2.medium.com/ive-designed-golang-and-rust-mugs-a91ad6cc1327?source=rss-114c2684cfef------2)
+- [Former MSer: Windows 11 Menu Start Speed Is Comically Bad](https://tomaszs2.medium.com/former-mser-windows-11-menu-start-speed-is-comically-bad-c7344bb0520e?source=rss-114c2684cfef------2)
 - [Java 23 — Devs Frustrated Waiting For The Vector API](https://tomaszs2.medium.com/java-23-devs-frustrated-waiting-for-the-vector-api-3a2116532668?source=rss-114c2684cfef------2)
 - [Boston Dynamics 3D Renders Made Robots More Approachable](https://tomaszs2.medium.com/boston-dynamics-3d-renders-made-robots-more-approachable-f9210196c065?source=rss-114c2684cfef------2)
 - [The Absolutely Worst Way To Fail A Job Interview](https://tomaszs2.medium.com/the-absolutely-worst-way-to-fail-a-job-interview-c4959bc43295?source=rss-114c2684cfef------2)
