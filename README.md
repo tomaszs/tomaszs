@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [He Got Banned For Mentioning Other Programming Language](https://tomaszs2.medium.com/he-got-banned-for-mentioning-other-programming-language-acf87bfa05bf?source=rss-114c2684cfef------2)
 - [⌨️ 3 Fascinating Ergonomic Keyboards For Programmers](https://tomaszs2.medium.com/%EF%B8%8F-3-fascinating-ergonomic-keyboards-for-programmers-b83a43031ce0?source=rss-114c2684cfef------2)
 - [Developers Confused Over React 19 Beta Release](https://tomaszs2.medium.com/developers-confused-over-react-19-beta-release-e63e31558a9f?source=rss-114c2684cfef------2)
 - [Microsoft Open Sourced MS DOS](https://tomaszs2.medium.com/microsoft-open-sourced-ms-dos-c4fceb7e9a56?source=rss-114c2684cfef------2)
-- [Former MSer: Windows 11 Menu Start Speed Is Comically Bad](https://tomaszs2.medium.com/former-mser-windows-11-menu-start-speed-is-comically-bad-c7344bb0520e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
