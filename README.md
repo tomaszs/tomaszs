@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ Rust Summer Program For Students Offers A $1100 Bonus](https://tomaszs2.medium.com/%EF%B8%8F-rust-summer-program-for-students-offers-a-1100-bonus-0a58b3889ec9?source=rss-114c2684cfef------2)
 - [StackOverflow &amp; OpenAI: Two Nemesis Join Forces](https://tomaszs2.medium.com/stackoverflow-openai-two-nemesis-join-forces-1e7e59e5541d?source=rss-114c2684cfef------2)
 - [It’s Official. We’ve Reached The Seed Ground For The Next Big Thing](https://tomaszs2.medium.com/its-official-we-ve-reached-the-seed-ground-for-the-next-big-thing-89647bf75539?source=rss-114c2684cfef------2)
 - [He Got Banned For Mentioning Other Programming Language](https://tomaszs2.medium.com/he-got-banned-for-mentioning-other-programming-language-acf87bfa05bf?source=rss-114c2684cfef------2)
-- [⌨️ 3 Fascinating Ergonomic Keyboards For Programmers](https://tomaszs2.medium.com/%EF%B8%8F-3-fascinating-ergonomic-keyboards-for-programmers-b83a43031ce0?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
