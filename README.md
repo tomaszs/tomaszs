@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Decommissioned! An Unformatted Hate Email Was Enought For A Popular Node.js Project](https://tomaszs2.medium.com/decommissioned-an-unformatted-hate-email-was-enought-for-a-popular-node-js-project-c24fd287f582?source=rss-114c2684cfef------2)
 - [Germany To Protect Ffmpeg At All Cost](https://tomaszs2.medium.com/germany-to-protect-ffmpeg-at-all-cost-ab796f20360b?source=rss-114c2684cfef------2)
 - [$1000/mo For Rust Contributors To Be Announced Soon](https://tomaszs2.medium.com/1000-mo-for-rust-contributors-to-be-announced-soon-94dd12a42195?source=rss-114c2684cfef------2)
 - [Set Up A Cloud Hard Budget Limit To Avoid $100k Bills](https://tomaszs2.medium.com/set-up-a-cloud-hard-budget-limit-to-avoid-100k-bills-b2c06aa5e6fa?source=rss-114c2684cfef------2)
-- [️ 2024 Go Developer Survey: 5 Interesting Facts](https://tomaszs2.medium.com/2024-go-developer-survey-5-interesting-facts-5b7580f2b20f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
