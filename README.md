@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft With Recall Will Become A Mesh Megadata &amp; AI Behemoth](https://tomaszs2.medium.com/microsoft-with-recall-will-become-a-mesh-megadata-ai-behemoth-c9454b026483?source=rss-114c2684cfef------2)
 - [What Is The Best Age To Create A Programming Language?](https://tomaszs2.medium.com/what-is-the-best-age-to-create-a-programming-language-90b11138140d?source=rss-114c2684cfef------2)
 - [Decommissioned! An Unformatted Hate Email Was Enought For A Popular Node.js Project](https://tomaszs2.medium.com/decommissioned-an-unformatted-hate-email-was-enought-for-a-popular-node-js-project-c24fd287f582?source=rss-114c2684cfef------2)
 - [Germany To Protect Ffmpeg At All Cost](https://tomaszs2.medium.com/germany-to-protect-ffmpeg-at-all-cost-ab796f20360b?source=rss-114c2684cfef------2)
-- [$1000/mo For Rust Contributors To Be Announced Soon](https://tomaszs2.medium.com/1000-mo-for-rust-contributors-to-be-announced-soon-94dd12a42195?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
