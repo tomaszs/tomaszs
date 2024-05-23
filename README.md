@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 18 Released: Finally You Can Remove Zone.js](https://tomaszs2.medium.com/angular-18-released-finally-you-can-remove-zone-js-c76b380c2aec?source=rss-114c2684cfef------2)
 - [Kotlin 2.0 Relesed: Faster And More Reliable](https://tomaszs2.medium.com/kotlin-2-0-relesed-faster-and-more-reliable-4a55105de032?source=rss-114c2684cfef------2)
 - [Microsoft With Recall Will Become A Mesh Megadata &amp; AI Behemoth](https://tomaszs2.medium.com/microsoft-with-recall-will-become-a-mesh-megadata-ai-behemoth-c9454b026483?source=rss-114c2684cfef------2)
 - [What Is The Best Age To Create A Programming Language?](https://tomaszs2.medium.com/what-is-the-best-age-to-create-a-programming-language-90b11138140d?source=rss-114c2684cfef------2)
-- [Decommissioned! An Unformatted Hate Email Was Enought For A Popular Node.js Project](https://tomaszs2.medium.com/decommissioned-an-unformatted-hate-email-was-enought-for-a-popular-node-js-project-c24fd287f582?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
