@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Storybook 8.1 Brings Easier Story And Test Creation](https://tomaszs2.medium.com/storybook-8-1-brings-easier-story-and-test-creation-4026c8131d26?source=rss-114c2684cfef------2)
 - [Angular 18 Released: Finally You Can Remove Zone.js](https://tomaszs2.medium.com/angular-18-released-finally-you-can-remove-zone-js-c76b380c2aec?source=rss-114c2684cfef------2)
-- [Kotlin 2.0 Relesed: Faster And More Reliable](https://tomaszs2.medium.com/kotlin-2-0-relesed-faster-and-more-reliable-4a55105de032?source=rss-114c2684cfef------2)
+- [Kotlin 2.0 Released: Faster And More Reliable](https://tomaszs2.medium.com/kotlin-2-0-relesed-faster-and-more-reliable-4a55105de032?source=rss-114c2684cfef------2)
 - [Microsoft With Recall Will Become A Mesh Megadata &amp; AI Behemoth](https://tomaszs2.medium.com/microsoft-with-recall-will-become-a-mesh-megadata-ai-behemoth-c9454b026483?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
