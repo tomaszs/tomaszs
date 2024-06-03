@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Awesome Java Open Source Projects EP 7](https://tomaszs2.medium.com/10-awesome-java-open-source-projects-ep-7-7b54e036e2be?source=rss-114c2684cfef------2)
 - [Are 52% Of ChatGPT Coding Answers Incorrect?](https://tomaszs2.medium.com/are-52-of-chatgpt-coding-answers-incorrect-5e8c7ac0d355?source=rss-114c2684cfef------2)
 - [Storybook 8.1 Brings Easier Story And Test Creation](https://tomaszs2.medium.com/storybook-8-1-brings-easier-story-and-test-creation-4026c8131d26?source=rss-114c2684cfef------2)
 - [Angular 18 Released: Finally You Can Remove Zone.js](https://tomaszs2.medium.com/angular-18-released-finally-you-can-remove-zone-js-c76b380c2aec?source=rss-114c2684cfef------2)
-- [Kotlin 2.0 Released: Faster And More Reliable](https://tomaszs2.medium.com/kotlin-2-0-relesed-faster-and-more-reliable-4a55105de032?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
