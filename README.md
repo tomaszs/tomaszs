@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why There Are No New Articles?](https://tomaszs2.medium.com/why-there-are-no-new-articles-aec60d1750b8?source=rss-114c2684cfef------2)
 - [Adobe’s New Terms Of Service Enraged Graphic Designers](https://tomaszs2.medium.com/adobes-new-terms-of-service-enraged-graphic-designers-2ab4bdb53570?source=rss-114c2684cfef------2)
 - [10 Awesome Java Open Source Projects EP 7](https://tomaszs2.medium.com/10-awesome-java-open-source-projects-ep-7-7b54e036e2be?source=rss-114c2684cfef------2)
 - [Are 52% Of ChatGPT Coding Answers Incorrect?](https://tomaszs2.medium.com/are-52-of-chatgpt-coding-answers-incorrect-5e8c7ac0d355?source=rss-114c2684cfef------2)
-- [Storybook 8.1 Brings Easier Story And Test Creation](https://tomaszs2.medium.com/storybook-8-1-brings-easier-story-and-test-creation-4026c8131d26?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
