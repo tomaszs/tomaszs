@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ VSCode Macros Saved Me From 1000s Of Seconds Of Misery](https://tomaszs2.medium.com/vscode-macros-saved-me-1000s-of-seconds-of-misery-f1946696ec94?source=rss-114c2684cfef------2)
 - [Typescript 5.5 With RegEx Syntax Checking](https://tomaszs2.medium.com/typescript-5-5-with-regex-syntax-checking-4b9e8e9c94b3?source=rss-114c2684cfef------2)
 - [VSCode Fonts Now Sharper On UHD And OLED Displays With One Flag](https://tomaszs2.medium.com/vscode-now-sharper-on-uhd-and-oled-displays-5dd655e02632?source=rss-114c2684cfef------2)
 - [Shattered Pixel Dungeon Is An Open Source Masterpiece. I Hate It!](https://tomaszs2.medium.com/shattered-pixel-dungeon-is-an-open-source-masterpiece-i-hate-it-b43e8204daea?source=rss-114c2684cfef------2)
-- [Why There Are No New Articles?](https://tomaszs2.medium.com/why-there-are-no-new-articles-aec60d1750b8?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
