@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Node Modules Now Faster On Windows With Dev Drive](https://tomaszs2.medium.com/node-modules-now-faster-on-windows-with-dev-drive-a7eadfbd5662?source=rss-114c2684cfef------2)
 - [James Gosling, Founder Of Java Is Retiring](https://tomaszs2.medium.com/james-gosling-founder-of-java-is-retiring-2ef6166baf4a?source=rss-114c2684cfef------2)
 - [️ VSCode Macros Saved Me From 1000s Of Seconds Of Misery](https://tomaszs2.medium.com/vscode-macros-saved-me-1000s-of-seconds-of-misery-f1946696ec94?source=rss-114c2684cfef------2)
 - [Typescript 5.5 With RegEx Syntax Checking](https://tomaszs2.medium.com/typescript-5-5-with-regex-syntax-checking-4b9e8e9c94b3?source=rss-114c2684cfef------2)
-- [VSCode Fonts Now Sharper On UHD And OLED Displays With One Flag](https://tomaszs2.medium.com/vscode-now-sharper-on-uhd-and-oled-displays-5dd655e02632?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
