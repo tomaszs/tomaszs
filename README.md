@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [All You Need To Know About Windows &amp; CrowdStrike BSOD Outage](https://tomaszs2.medium.com/all-you-need-to-know-about-windows-crowdstrike-bsod-outage-f61910ebb606?source=rss-114c2684cfef------2)
 - [⚔️ 21 Tips To Win Shattered Pixel Dungeon As A Warrior](https://tomaszs2.medium.com/%EF%B8%8F-21-tips-to-win-shattered-pixel-dungeon-as-a-warrior-65ec65094856?source=rss-114c2684cfef------2)
 - [‍ Are HTML’s Self-Closing Tags Discouraged?](https://tomaszs2.medium.com/are-htmls-self-closing-tags-discouraged-f02a72809415?source=rss-114c2684cfef------2)
 - [Node Modules Now Faster On Windows With Dev Drive](https://tomaszs2.medium.com/node-modules-now-faster-on-windows-with-dev-drive-a7eadfbd5662?source=rss-114c2684cfef------2)
-- [James Gosling, Founder Of Java Is Retiring](https://tomaszs2.medium.com/james-gosling-founder-of-java-is-retiring-2ef6166baf4a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
