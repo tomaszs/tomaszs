@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Truth About Node.js Typescript Support](https://tomaszs2.medium.com/the-truth-about-node-js-typescript-support-8602f690ee69?source=rss-114c2684cfef------2)
 - [️Overture Maps Released With 54 Million Places Of Interest](https://tomaszs2.medium.com/%EF%B8%8Fovertures-maps-released-with-54-million-places-of-interest-51f85296eed7?source=rss-114c2684cfef------2)
 - [Should Angular Directives Have Styles?](https://tomaszs2.medium.com/should-angular-directives-have-styles-62cd7e566542?source=rss-114c2684cfef------2)
 - [Switzerland Goes Open Source](https://tomaszs2.medium.com/switzerland-goes-open-source-58a58046024f?source=rss-114c2684cfef------2)
-- [All You Need To Know About Windows &amp; CrowdStrike BSOD Outage](https://tomaszs2.medium.com/all-you-need-to-know-about-windows-crowdstrike-bsod-outage-f61910ebb606?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
