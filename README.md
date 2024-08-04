@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You Forget About All Coding Rules? Hinty For VSCode Will Help You!](https://tomaszs2.medium.com/you-forget-about-all-coding-rules-hinty-for-vscode-will-help-you-3bbfb213bae5?source=rss-114c2684cfef------2)
 - [️ Logitech CEO Considers A Mouse In Subscription Model](https://tomaszs2.medium.com/logitech-ceo-considers-a-mouse-in-subscription-model-ecce5bef8976?source=rss-114c2684cfef------2)
 - [StackOverflow 2024 Results: Ditch Complex Stacks](https://tomaszs2.medium.com/stackoverflow-2024-results-ditch-complex-stacks-07af5a0ffe23?source=rss-114c2684cfef------2)
 - [DevOps Shocked. AWS Kills It’s Own GitHub Competitor — CodeCommit](https://tomaszs2.medium.com/devops-shocked-aws-kills-its-own-github-competitor-codecommit-8fcf6f9c2de4?source=rss-114c2684cfef------2)
-- [The Truth About Node.js Typescript Support](https://tomaszs2.medium.com/the-truth-about-node-js-typescript-support-8602f690ee69?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
