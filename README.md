@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⌨️ Apple Wants To Squeeze A Computer Into Something… Again](https://tomaszs2.medium.com/%EF%B8%8F-apple-wants-to-squeeze-a-computer-into-something-again-154c2b5c7f9b?source=rss-114c2684cfef------2)
 - [Autonomous Cars: 10 Awesome Open Source Projects](https://tomaszs2.medium.com/autonomous-cars-10-awesome-open-source-projects-3b315f6b591c?source=rss-114c2684cfef------2)
 - [You Forget About All Coding Rules? Hinty For VSCode Will Help You!](https://tomaszs2.medium.com/you-forget-about-all-coding-rules-hinty-for-vscode-will-help-you-3bbfb213bae5?source=rss-114c2684cfef------2)
 - [️ Logitech CEO Considers A Mouse In Subscription Model](https://tomaszs2.medium.com/logitech-ceo-considers-a-mouse-in-subscription-model-ecce5bef8976?source=rss-114c2684cfef------2)
-- [StackOverflow 2024 Results: Ditch Complex Stacks](https://tomaszs2.medium.com/stackoverflow-2024-results-ditch-complex-stacks-07af5a0ffe23?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
