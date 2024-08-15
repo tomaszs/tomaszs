@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Community Anguished: Core Developer Banned For A Dan Akroyd Reference](https://tomaszs2.medium.com/python-community-anguished-core-developer-banned-for-a-dan-akroyd-reference-1c17b2ff1568?source=rss-114c2684cfef------2)
 - [Unkle Bob Martin Announces Clearer Clean Code 2 Is Coming!](https://tomaszs2.medium.com/unkle-bob-martin-announces-clearer-clean-code-2-is-coming-c817ba2d33d8?source=rss-114c2684cfef------2)
 - [⌨️ Apple Wants To Squeeze A Computer Into Something… Again](https://tomaszs2.medium.com/%EF%B8%8F-apple-wants-to-squeeze-a-computer-into-something-again-154c2b5c7f9b?source=rss-114c2684cfef------2)
 - [Autonomous Cars: 10 Awesome Open Source Projects](https://tomaszs2.medium.com/autonomous-cars-10-awesome-open-source-projects-3b315f6b591c?source=rss-114c2684cfef------2)
-- [You Forget About All Coding Rules? Hinty For VSCode Will Help You!](https://tomaszs2.medium.com/you-forget-about-all-coding-rules-hinty-for-vscode-will-help-you-3bbfb213bae5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
