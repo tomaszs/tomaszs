@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [8, 16, 32, 64 GB? The Is Best RAM Size For Frontend Development?](https://tomaszs2.medium.com/8-16-32-64-gb-the-is-best-ram-size-for-frontend-development-3215f1680da9?source=rss-114c2684cfef------2)
 - [Hinty 1.0.8 Released With 116 Web Development Hints Collected Over Four Years](https://tomaszs2.medium.com/hinty-1-0-8-released-with-116-web-development-hints-collected-over-four-years-e38c2a89417a?source=rss-114c2684cfef------2)
 - [This Is My $8000 Coding Office Setup](https://tomaszs2.medium.com/this-is-my-8000-coding-office-setup-7a56e4406560?source=rss-114c2684cfef------2)
 - [️ Stop Using Margin Top. Use Margin Bottom And Gap Instead](https://tomaszs2.medium.com/%EF%B8%8F-stop-using-margin-top-use-margin-bottom-and-gap-instead-0f13c84c14a2?source=rss-114c2684cfef------2)
-- [⭕ CSS Now Supports Vertical Alignment In Normal Flow](https://tomaszs2.medium.com/css-now-supports-vertical-alignment-in-normal-flow-13a85f06adb1?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
