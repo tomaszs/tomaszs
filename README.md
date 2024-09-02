@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover These Six VSCode 1.92 Sigma Features](https://tomaszs2.medium.com/discover-these-six-vscode-1-92-sigma-features-7a578ea4ec45?source=rss-114c2684cfef------2)
 - [AI Code Review Tool — CodeRabbit Replaces Me And I Like It](https://tomaszs2.medium.com/ai-code-review-tool-coderabbit-replaces-me-and-i-like-it-b1350a9cda58?source=rss-114c2684cfef------2)
 - [8, 16, 32, 64 GB? The Is Best RAM Size For Frontend Development?](https://tomaszs2.medium.com/8-16-32-64-gb-the-is-best-ram-size-for-frontend-development-3215f1680da9?source=rss-114c2684cfef------2)
 - [Hinty 1.0.8 Released With 116 Web Development Hints Collected Over Four Years](https://tomaszs2.medium.com/hinty-1-0-8-released-with-116-web-development-hints-collected-over-four-years-e38c2a89417a?source=rss-114c2684cfef------2)
-- [This Is My $8000 Coding Office Setup](https://tomaszs2.medium.com/this-is-my-8000-coding-office-setup-7a56e4406560?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
