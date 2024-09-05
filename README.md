@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Smart Appliances Are Quietly Taking Control of Our Lives](https://tomaszs2.medium.com/appliances-take-over-control-over-people-and-what-we-can-do-about-it-0ed76c094dc1?source=rss-114c2684cfef------2)
 - [Should CSS Grid Be Your Default Choice Over Flexbox In 2024?](https://tomaszs2.medium.com/should-css-grid-be-your-default-choice-over-flexbox-in-2024-f3bb5ce9f28a?source=rss-114c2684cfef------2)
 - [3 Awesome Java Open Source Projects EP 8](https://tomaszs2.medium.com/3-awesome-java-open-source-projects-ep-8-6cc884437af0?source=rss-114c2684cfef------2)
 - [Discover These Six VSCode 1.92 Sigma Features](https://tomaszs2.medium.com/discover-these-six-vscode-1-92-sigma-features-7a578ea4ec45?source=rss-114c2684cfef------2)
-- [AI Code Review Tool — CodeRabbit Replaces Me And I Like It](https://tomaszs2.medium.com/ai-code-review-tool-coderabbit-replaces-me-and-i-like-it-b1350a9cda58?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
