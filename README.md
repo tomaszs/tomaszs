@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA 2024.2: A Stunning New UI, Smarter Git, and AI-Driven Conflict Resolution!](https://tomaszs2.medium.com/intellij-idea-2024-2-a-stunning-new-ui-smarter-git-and-ai-driven-conflict-resolution-0a3cb74da92d?source=rss-114c2684cfef------2)
 - [Vote To Improve VSCode File Search. It’s Just One Click](https://tomaszs2.medium.com/vote-to-improve-vscode-file-search-its-just-one-click-b9a05b9408a6?source=rss-114c2684cfef------2)
 - [How Devices Are  Taking Control of Our Lives In An Unexpected Way](https://tomaszs2.medium.com/appliances-take-over-control-over-people-and-what-we-can-do-about-it-0ed76c094dc1?source=rss-114c2684cfef------2)
 - [Should CSS Grid Be Your Default Choice Over Flexbox In 2024?](https://tomaszs2.medium.com/should-css-grid-be-your-default-choice-over-flexbox-in-2024-f3bb5ce9f28a?source=rss-114c2684cfef------2)
-- [3 Awesome Java Open Source Projects EP 8](https://tomaszs2.medium.com/3-awesome-java-open-source-projects-ep-8-6cc884437af0?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
