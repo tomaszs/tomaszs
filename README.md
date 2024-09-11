@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [‍ KVision 8 Released: Build Web Apps in Kotlin, Ditch the JavaScript](https://tomaszs2.medium.com/kvision-8-released-build-web-apps-in-kotlin-ditch-the-javascript-dbd9ae520d37?source=rss-114c2684cfef------2)
 - [VSCode 1.93: Share Settings with Ease and Sort Comments Like a Pro](https://tomaszs2.medium.com/vscode-1-93-share-settings-with-ease-and-sort-comments-like-a-pro-552437a474f0?source=rss-114c2684cfef------2)
 - [IntelliJ IDEA 2024.2: A Stunning New UI, Smarter Git, and AI-Driven Conflict Resolution!](https://tomaszs2.medium.com/intellij-idea-2024-2-a-stunning-new-ui-smarter-git-and-ai-driven-conflict-resolution-0a3cb74da92d?source=rss-114c2684cfef------2)
 - [Vote To Improve VSCode File Search. It’s Just One Click](https://tomaszs2.medium.com/vote-to-improve-vscode-file-search-its-just-one-click-b9a05b9408a6?source=rss-114c2684cfef------2)
-- [How Devices Are  Taking Control of Our Lives In An Unexpected Way](https://tomaszs2.medium.com/appliances-take-over-control-over-people-and-what-we-can-do-about-it-0ed76c094dc1?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
