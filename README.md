@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [✨ Vue 3.5: A Leap Forward with Performance Boosts and New Features](https://tomaszs2.medium.com/vue-3-5-a-leap-forward-with-performance-boosts-and-new-features-9818e76c0a5b?source=rss-114c2684cfef------2)
 - [Stop Using CSS Margin And Padding Shorthands. Use This Instead](https://tomaszs2.medium.com/stop-using-css-margin-and-padding-shorthands-use-this-instead-57659cf9cc20?source=rss-114c2684cfef------2)
 - [‍ KVision 8 Released: Build Web Apps in Kotlin, Ditch the JavaScript](https://tomaszs2.medium.com/kvision-8-released-build-web-apps-in-kotlin-ditch-the-javascript-dbd9ae520d37?source=rss-114c2684cfef------2)
 - [VSCode 1.93: Share Settings with Ease and Sort Comments Like a Pro](https://tomaszs2.medium.com/vscode-1-93-share-settings-with-ease-and-sort-comments-like-a-pro-552437a474f0?source=rss-114c2684cfef------2)
-- [IntelliJ IDEA 2024.2: A Stunning New UI, Smarter Git, and AI-Driven Conflict Resolution!](https://tomaszs2.medium.com/intellij-idea-2024-2-a-stunning-new-ui-smarter-git-and-ai-driven-conflict-resolution-0a3cb74da92d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
