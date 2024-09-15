@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Intl Supports Word and Sentence Segmentation](https://tomaszs2.medium.com/javascript-intl-supports-word-and-sentence-segmentation-1a027c02efaa?source=rss-114c2684cfef------2)
 - [Go 1.23 Extends For-Range Loops with New Range Types](https://tomaszs2.medium.com/go-1-23-extends-for-range-loops-with-new-range-types-c1f17dc5ceb8?source=rss-114c2684cfef------2)
 - [Angular 19 Shifts to Standalone Components by Default — A Major Simplification](https://tomaszs2.medium.com/angular-19-shifts-to-standalone-components-by-default-a-major-simplification-77577057c7a6?source=rss-114c2684cfef------2)
 - [✨ Vue 3.5: A Leap Forward with Performance Boosts and New Features](https://tomaszs2.medium.com/vue-3-5-a-leap-forward-with-performance-boosts-and-new-features-9818e76c0a5b?source=rss-114c2684cfef------2)
-- [Stop Using CSS Margin And Padding Shorthands. Use This Instead](https://tomaszs2.medium.com/stop-using-css-margin-and-padding-shorthands-use-this-instead-57659cf9cc20?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
