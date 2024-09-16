@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 5.6 Release Candidate: No More Condition Errors. You Can Skip Type Checking Too](https://tomaszs2.medium.com/typescript-5-6-release-candidate-no-more-condition-errors-you-can-skip-type-checking-too-169a782ae30b?source=rss-114c2684cfef------2)
+- [TypeScript 5.6: No More Condition Errors. You Can Skip Type Checking Too](https://tomaszs2.medium.com/typescript-5-6-release-candidate-no-more-condition-errors-you-can-skip-type-checking-too-169a782ae30b?source=rss-114c2684cfef------2)
 - [JavaScript Intl Supports Word and Sentence Segmentation](https://tomaszs2.medium.com/javascript-intl-supports-word-and-sentence-segmentation-1a027c02efaa?source=rss-114c2684cfef------2)
 - [Go 1.23 Extends For-Range Loops with New Range Types](https://tomaszs2.medium.com/go-1-23-extends-for-range-loops-with-new-range-types-c1f17dc5ceb8?source=rss-114c2684cfef------2)
 - [Angular 19 Shifts to Standalone Components by Default — A Major Simplification](https://tomaszs2.medium.com/angular-19-shifts-to-standalone-components-by-default-a-major-simplification-77577057c7a6?source=rss-114c2684cfef------2)
