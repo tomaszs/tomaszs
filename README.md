@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP’s Revival: Against All Odds, It’s Thriving](https://tomaszs2.medium.com/phps-revival-against-all-odds-it-s-thriving-44c928c0d7f4?source=rss-114c2684cfef------2)
 - [Unconventional Rust Web Optimization: How WebP Transformed Alisa Sireneva’s Blog](https://tomaszs2.medium.com/unconventional-rust-web-optimization-how-webp-transformed-alisa-sirenevas-blog-8fbb3a848055?source=rss-114c2684cfef------2)
 - [️ Ditch Margin-Block And Margin-Inline If You Don’t Do That](https://tomaszs2.medium.com/%EF%B8%8F-ditch-margin-block-and-margin-inline-if-you-dont-do-that-b4fd9be57ae9?source=rss-114c2684cfef------2)
 - [TypeScript 5.6: No More Condition Errors. You Can Skip Type Checking Too](https://tomaszs2.medium.com/typescript-5-6-release-candidate-no-more-condition-errors-you-can-skip-type-checking-too-169a782ae30b?source=rss-114c2684cfef------2)
-- [JavaScript Intl Supports Word and Sentence Segmentation](https://tomaszs2.medium.com/javascript-intl-supports-word-and-sentence-segmentation-1a027c02efaa?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
