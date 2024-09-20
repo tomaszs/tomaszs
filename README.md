@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover Git Repo Insights With Onefetch: The Ultimate Command-Line Tool](https://tomaszs2.medium.com/discover-git-repo-insights-with-onefetch-the-ultimate-command-line-tool-120b2836c4fe?source=rss-114c2684cfef------2)
 - [Microsoft Unveils Proxy 3: Revolutionizing C++ Polymorphism](https://tomaszs2.medium.com/microsoft-unveils-proxy-3-revolutionizing-c-polymorphism-85f90ea1e313?source=rss-114c2684cfef------2)
 - [PHP’s Revival: Against All Odds, It’s Thriving](https://tomaszs2.medium.com/phps-revival-against-all-odds-it-s-thriving-44c928c0d7f4?source=rss-114c2684cfef------2)
 - [Unconventional Rust Web Optimization: How WebP Transformed Alisa Sireneva’s Blog](https://tomaszs2.medium.com/unconventional-rust-web-optimization-how-webp-transformed-alisa-sirenevas-blog-8fbb3a848055?source=rss-114c2684cfef------2)
-- [️ Ditch Margin-Block And Margin-Inline If You Don’t Do That](https://tomaszs2.medium.com/%EF%B8%8F-ditch-margin-block-and-margin-inline-if-you-dont-do-that-b4fd9be57ae9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
