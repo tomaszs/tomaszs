@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C# 13 Drops With Param Collections and Cool New Features](https://tomaszs2.medium.com/c-13-drops-with-param-collections-and-cool-new-features-4c114aa1e300?source=rss-114c2684cfef------2)
 - [☕️ Did You Know You Can Code in Java with VSCode?](https://tomaszs2.medium.com/%EF%B8%8F-did-you-know-you-can-code-in-java-with-vscode-1d997da477a7?source=rss-114c2684cfef------2)
 - [⚡ React Fiber Reconciler — Discover How It Works](https://tomaszs2.medium.com/react-fiber-reconciler-discover-how-it-works-49d2099df509?source=rss-114c2684cfef------2)
 - [Discover Git Repo Insights With Onefetch: The Ultimate Command-Line Tool](https://tomaszs2.medium.com/discover-git-repo-insights-with-onefetch-the-ultimate-command-line-tool-120b2836c4fe?source=rss-114c2684cfef------2)
-- [Microsoft Unveils Proxy 3: Revolutionizing C++ Polymorphism](https://tomaszs2.medium.com/microsoft-unveils-proxy-3-revolutionizing-c-polymorphism-85f90ea1e313?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
