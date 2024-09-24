@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Can You Really Write Games in Python?](https://tomaszs2.medium.com/can-you-really-write-games-in-python-4086f8d8bed4?source=rss-114c2684cfef------2)
 - [Prettier Jest Unit Test Messages for Angular And React](https://tomaszs2.medium.com/prettier-jest-unit-test-messages-for-angular-79c14cb19dba?source=rss-114c2684cfef------2)
 - [C# 13 Drops With Param Collections and Cool New Features](https://tomaszs2.medium.com/c-13-drops-with-param-collections-and-cool-new-features-4c114aa1e300?source=rss-114c2684cfef------2)
 - [☕️ Did You Know You Can Code in Java with VSCode?](https://tomaszs2.medium.com/%EF%B8%8F-did-you-know-you-can-code-in-java-with-vscode-1d997da477a7?source=rss-114c2684cfef------2)
-- [⚡ React Fiber Reconciler — Discover How It Works](https://tomaszs2.medium.com/react-fiber-reconciler-discover-how-it-works-49d2099df509?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
