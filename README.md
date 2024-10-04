@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI Changed My Work As A Programmer](https://tomaszs2.medium.com/how-ai-changed-my-work-as-a-programmer-32231ac599c5?source=rss-114c2684cfef------2)
 - [A Ruby Written Personal Finance Open Source Tool You Can Contribute To](https://tomaszs2.medium.com/a-ruby-written-personal-finance-open-source-tool-you-can-contribute-to-9a8b2747df84?source=rss-114c2684cfef------2)
 - [️ Speed Up Your Color Manipulations with This JavaScript Library](https://tomaszs2.medium.com/%EF%B8%8F-speed-up-your-color-manipulations-with-this-javascript-library-4606647e0acd?source=rss-114c2684cfef------2)
 - [Can You Really Write Games in Python?](https://tomaszs2.medium.com/can-you-really-write-games-in-python-4086f8d8bed4?source=rss-114c2684cfef------2)
-- [Prettier Jest Unit Test Messages for Angular And React](https://tomaszs2.medium.com/prettier-jest-unit-test-messages-for-angular-79c14cb19dba?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
