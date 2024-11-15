@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Git Branch Cleanup with Python: Say Goodbye to Manual Tidying](https://tomaszs2.medium.com/automate-git-branch-cleanup-with-python-say-goodbye-to-manual-tidying-e79e8a2e3155?source=rss-114c2684cfef------2)
 - [Effortless Image Cropping with Python: Automate Your Workflow in Minute](https://tomaszs2.medium.com/effortless-image-cropping-with-python-automate-your-workflow-in-minute-987fbec9c3e8?source=rss-114c2684cfef------2)
 - [A 5-Minute Python Script That Would Take 11 Hours in Corporate Development](https://tomaszs2.medium.com/a-5-minute-python-script-that-would-take-11-hours-in-corporate-development-4ea854bd3a53?source=rss-114c2684cfef------2)
 - [Why Facebook Ads Aren&#39;t For Indie Developers](https://tomaszs2.medium.com/why-facebook-ads-arent-for-indie-developers-45cfe6c85daa?source=rss-114c2684cfef------2)
-- [How To Choose Job As A Young Person](https://tomaszs2.medium.com/how-to-choose-job-as-a-young-person-a16205df0df5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
