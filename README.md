@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Summon The JSON: From Fantasy to Functionality — The Evolution of Coding Decks](https://tomaszs2.medium.com/summon-the-json-from-fantasy-to-functionality-the-evolution-of-coding-decks-9de9392ff754?source=rss-114c2684cfef------2)
 - [Remove Backgrounds for Free with Python by Just Creating a Folder — Why Don’t Operating Systems…](https://tomaszs2.medium.com/why-operating-systems-are-failing-us-and-how-python-saves-the-day-167d9c093de7?source=rss-114c2684cfef------2)
 - [Automate Git Branch Cleanup with Python: Say Goodbye to Manual Tidying](https://tomaszs2.medium.com/automate-git-branch-cleanup-with-python-say-goodbye-to-manual-tidying-e79e8a2e3155?source=rss-114c2684cfef------2)
 - [Effortless Image Cropping with Python: Automate Your Workflow in Minute](https://tomaszs2.medium.com/effortless-image-cropping-with-python-automate-your-workflow-in-minute-987fbec9c3e8?source=rss-114c2684cfef------2)
-- [A 5-Minute Python Script That Would Take 11 Hours in Corporate Development](https://tomaszs2.medium.com/a-5-minute-python-script-that-would-take-11-hours-in-corporate-development-4ea854bd3a53?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
