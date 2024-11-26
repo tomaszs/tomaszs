@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix ChatGPT Scrolling Issues: Make PageUp, PageDown, Home, and End Work Like a Charm &lpar;Take 2&rpar;](https://tomaszs2.medium.com/fix-chatgpt-scrolling-issues-make-pageup-pagedown-home-and-end-work-like-a-charm-take-2-b1d26243361c?source=rss-114c2684cfef------2)
 - [How ChatGPT Fixed ChatGPT: Enabling Page Down And Page Up Support](https://tomaszs2.medium.com/how-chatgpt-fixed-chatgpt-enabling-page-down-and-page-up-support-649a3def121e?source=rss-114c2684cfef------2)
 - [Summon The JSON: From Fantasy to Functionality — The Evolution of Coding Decks](https://tomaszs2.medium.com/summon-the-json-from-fantasy-to-functionality-the-evolution-of-coding-decks-9de9392ff754?source=rss-114c2684cfef------2)
 - [Remove Backgrounds for Free with Python by Just Creating a Folder — Why Don’t Operating Systems…](https://tomaszs2.medium.com/why-operating-systems-are-failing-us-and-how-python-saves-the-day-167d9c093de7?source=rss-114c2684cfef------2)
-- [Automate Git Branch Cleanup with Python: Say Goodbye to Manual Tidying](https://tomaszs2.medium.com/automate-git-branch-cleanup-with-python-say-goodbye-to-manual-tidying-e79e8a2e3155?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
