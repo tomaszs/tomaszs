@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Fantasy Decks to Furry Masterpieces: How I Used AI, Tech, and Blender to Create Custom Dog…](https://tomaszs2.medium.com/from-fantasy-decks-to-furry-masterpieces-how-i-used-ai-tech-and-blender-to-create-custom-dog-9c8165b666b2?source=rss-114c2684cfef------2)
 - [Why AI Struggles With Our Code &lpar;And Why It’s Our Fault&rpar;](https://tomaszs2.medium.com/why-ai-struggles-with-our-code-and-why-its-our-fault-abf627a8ed3c?source=rss-114c2684cfef------2)
 - [Why I Decided To Buy This Adjustable Monitor Arm?](https://tomaszs2.medium.com/why-i-decided-to-buy-this-adjustable-monitor-arm-094d73bc17ec?source=rss-114c2684cfef------2)
 - [Fix ChatGPT Scrolling Issues: Make PageUp, PageDown, Home, and End Work Like a Charm &lpar;Take 2&rpar;](https://tomaszs2.medium.com/fix-chatgpt-scrolling-issues-make-pageup-pagedown-home-and-end-work-like-a-charm-take-2-b1d26243361c?source=rss-114c2684cfef------2)
-- [How ChatGPT Fixed ChatGPT: Enabling Page Down And Page Up Support](https://tomaszs2.medium.com/how-chatgpt-fixed-chatgpt-enabling-page-down-and-page-up-support-649a3def121e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
