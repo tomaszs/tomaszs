@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Please Remember About Forum Moderators](https://tomaszs2.medium.com/please-remember-about-forum-moderators-3022a4f96102?source=rss-114c2684cfef------2)
 - [A ChatGPT Prompt That Saved My Christmas](https://tomaszs2.medium.com/a-chatgpt-prompt-that-saved-my-christmas-504f86118f81?source=rss-114c2684cfef------2)
 - [From Fantasy Decks to Furry Masterpieces: How I Used AI, Tech, and Blender to Create Custom Dog…](https://tomaszs2.medium.com/from-fantasy-decks-to-furry-masterpieces-how-i-used-ai-tech-and-blender-to-create-custom-dog-9c8165b666b2?source=rss-114c2684cfef------2)
 - [Why AI Struggles With Our Code &lpar;And Why It’s Our Fault&rpar;](https://tomaszs2.medium.com/why-ai-struggles-with-our-code-and-why-its-our-fault-abf627a8ed3c?source=rss-114c2684cfef------2)
-- [Why I Decided To Buy This Adjustable Monitor Arm?](https://tomaszs2.medium.com/why-i-decided-to-buy-this-adjustable-monitor-arm-094d73bc17ec?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
