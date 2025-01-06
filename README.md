@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Research Demand For Your SaaS, Product or AndroidGame](https://tomaszs2.medium.com/how-to-research-demand-for-your-saas-product-or-androidgame-66a6c8e22948?source=rss-114c2684cfef------2)
+- [How To Research Demand For Your SaaS, Product or Android Strategy Game](https://tomaszs2.medium.com/how-to-research-demand-for-your-saas-product-or-androidgame-66a6c8e22948?source=rss-114c2684cfef------2)
 - [Please Remember About Forum Moderators](https://tomaszs2.medium.com/please-remember-about-forum-moderators-3022a4f96102?source=rss-114c2684cfef------2)
 - [A ChatGPT Prompt That Saved My Christmas](https://tomaszs2.medium.com/a-chatgpt-prompt-that-saved-my-christmas-504f86118f81?source=rss-114c2684cfef------2)
 - [From Fantasy Decks to Furry Masterpieces: How I Used AI, Tech, and Blender to Create Custom Dog…](https://tomaszs2.medium.com/from-fantasy-decks-to-furry-masterpieces-how-i-used-ai-tech-and-blender-to-create-custom-dog-9c8165b666b2?source=rss-114c2684cfef------2)
