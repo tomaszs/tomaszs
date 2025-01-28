@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything We Know About DeepSeek — ChatGPT Competitor](https://tomaszs2.medium.com/everything-we-know-about-deepseek-chatgpt-competitor-169157a8566d?source=rss-114c2684cfef------2)
 - [7 Red Flags During  A Software Engineering Job Interview](https://tomaszs2.medium.com/7-red-flags-during-a-software-engineering-job-interview-e3a77153ff1a?source=rss-114c2684cfef------2)
 - [Junior Developer Title Disappeared Before the Rise of AI](https://tomaszs2.medium.com/junior-developer-title-disappeared-before-the-rise-of-ai-a25ec029b818?source=rss-114c2684cfef------2)
 - [How To Research Demand For Your SaaS, Product or Android Strategy Game](https://tomaszs2.medium.com/how-to-research-demand-for-your-saas-product-or-androidgame-66a6c8e22948?source=rss-114c2684cfef------2)
-- [Please Remember About Forum Moderators](https://tomaszs2.medium.com/please-remember-about-forum-moderators-3022a4f96102?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
