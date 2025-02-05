@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Rage Clickers Will Hate Angular 19 Event Reply](https://tomaszs2.medium.com/rage-clickers-will-hate-angular-19-event-reply-023522a8a7f9?source=rss-114c2684cfef------2)
+- [Rage Clickers Will Hate Angular 19 Event Replay](https://tomaszs2.medium.com/rage-clickers-will-hate-angular-19-event-reply-023522a8a7f9?source=rss-114c2684cfef------2)
 - [Everything We Know About DeepSeek — ChatGPT Competitor](https://tomaszs2.medium.com/everything-we-know-about-deepseek-chatgpt-competitor-169157a8566d?source=rss-114c2684cfef------2)
 - [7 Red Flags During  A Software Engineering Job Interview](https://tomaszs2.medium.com/7-red-flags-during-a-software-engineering-job-interview-e3a77153ff1a?source=rss-114c2684cfef------2)
 - [Junior Developer Title Disappeared Before the Rise of AI](https://tomaszs2.medium.com/junior-developer-title-disappeared-before-the-rise-of-ai-a25ec029b818?source=rss-114c2684cfef------2)
