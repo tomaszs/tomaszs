@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching VerifyBefore.Click: A Startup to Protect Your Family from Online Scams](https://tomaszs2.medium.com/launching-verifybefore-click-a-startup-to-protect-your-family-from-online-scams-5a3c2b3cd04b?source=rss-114c2684cfef------2)
 - [6 Questions To Ask During Software Engineering Job Interviews](https://tomaszs2.medium.com/6-questions-to-ask-during-software-engineering-job-interviews-9e5ba07934df?source=rss-114c2684cfef------2)
 - [Angular Functions Could Start With  Emoji. Here’s Why They Don’t](https://tomaszs2.medium.com/angular-functions-could-start-with-emoji-heres-why-they-don-t-2fcc8af0ca55?source=rss-114c2684cfef------2)
 - [Rage Clickers Will Hate Angular 19 Event Replay](https://tomaszs2.medium.com/rage-clickers-will-hate-angular-19-event-reply-023522a8a7f9?source=rss-114c2684cfef------2)
-- [Everything We Know About DeepSeek — ChatGPT Competitor](https://tomaszs2.medium.com/everything-we-know-about-deepseek-chatgpt-competitor-169157a8566d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
