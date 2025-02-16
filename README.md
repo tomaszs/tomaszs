@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Coder Shirts For 2025 Commenting The World We Live in](https://tomaszs2.medium.com/10-best-coder-shirts-for-2025-20808c426ff1?source=rss-114c2684cfef------2)
 - [AI Will Make Us Ultra Dumb If We Won’t Do These Six Things](https://tomaszs2.medium.com/ai-will-make-us-ultra-dumb-if-we-wont-do-these-six-things-9813f7fb5e45?source=rss-114c2684cfef------2)
 - [The Dark Side of Best Practices: How Misconceptions Kills Frontend Scalability](https://tomaszs2.medium.com/the-dark-side-of-best-practices-how-misconceptions-kills-frontend-scalability-e17e487407e7?source=rss-114c2684cfef------2)
 - [Launching VerifyBefore.Click: A Startup to Protect Your Family from Online Scams](https://tomaszs2.medium.com/launching-verifybefore-click-a-startup-to-protect-your-family-from-online-scams-5a3c2b3cd04b?source=rss-114c2684cfef------2)
-- [6 Questions To Ask During Software Engineering Job Interviews](https://tomaszs2.medium.com/6-questions-to-ask-during-software-engineering-job-interviews-9e5ba07934df?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
