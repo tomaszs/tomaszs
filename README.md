@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [‍Shaving In A Hot Tub: 5 Ways Coding Ruins Our Brains](https://tomaszs2.medium.com/shaving-in-a-hot-tub-5-ways-coding-ruins-our-brains-5dbf272ed045?source=rss-114c2684cfef------2)
 - [Adjusting Your Resume For Every Job Offer Is Dreadful —Here’s A Fix](https://tomaszs2.medium.com/adjusting-your-resume-for-every-job-offer-is-dreadful-heres-a-fix-110f71d8df7a?source=rss-114c2684cfef------2)
 - [Microsoft Majorana 1 Is A Superposition Of Marketing Stunt And A Major Science Breakthrough](https://tomaszs2.medium.com/microsoft-majorana-1-is-a-superposition-of-marketing-stunt-and-a-major-science-breakthrough-36911c88890d?source=rss-114c2684cfef------2)
 - [A Day In Life Of An Unemployed Software Engineer](https://tomaszs2.medium.com/a-day-in-life-of-an-unemployed-software-engineer-9dcbc3e1c535?source=rss-114c2684cfef------2)
-- [Measuring What Matters: How to Prove Your Design System’s Business Impact](https://tomaszs2.medium.com/measuring-what-matters-how-to-prove-your-design-systems-business-impact-3c93b7f855a8?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
