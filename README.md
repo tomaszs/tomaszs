@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Companies Want You Back in the Office to Protect Their Sweet, Sweet Investments!](https://tomaszs2.medium.com/companies-want-you-back-in-the-office-to-protect-their-sweet-sweet-investments-bcf98f17902a?source=rss-114c2684cfef------2)
 - [Developers Shocked. Microsoft Disabled VSCode Theme On 3 Million Devices](https://tomaszs2.medium.com/developers-shocked-microsoft-disabled-vscode-theme-on-3-million-devices-b04480b68e63?source=rss-114c2684cfef------2)
 - [Download Spotify Playlist With This Open Source Python App](https://tomaszs2.medium.com/download-spotify-playlist-with-this-open-source-python-app-e7d35f8634ac?source=rss-114c2684cfef------2)
 - [Angular TimePicker Component Redefined Part 1](https://tomaszs2.medium.com/angular-timepicker-component-redefined-part-1-6103aeb59ee3?source=rss-114c2684cfef------2)
-- [‍Shaving In A Hot Tub: 5 Ways Coding Ruins Our Brains](https://tomaszs2.medium.com/shaving-in-a-hot-tub-5-ways-coding-ruins-our-brains-5dbf272ed045?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
