@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Switch Now To Angular Standalone Components](https://tomaszs2.medium.com/switch-now-to-angular-standalone-components-37cee6e70ddd?source=rss-114c2684cfef------2)
 - [Parrot Rock Test Of ChatGPT, Gemini, Copilot, Claude and Le Chat](https://tomaszs2.medium.com/parrot-rock-test-of-chatgpt-gemini-copilot-claude-and-le-chat-3ff80121ac14?source=rss-114c2684cfef------2)
 - [Companies Want You Back in the Office to Protect Their Sweet, Sweet Investments!](https://tomaszs2.medium.com/companies-want-you-back-in-the-office-to-protect-their-sweet-sweet-investments-bcf98f17902a?source=rss-114c2684cfef------2)
 - [Developers Shocked. Microsoft Disabled VSCode Theme On 3 Million Devices](https://tomaszs2.medium.com/developers-shocked-microsoft-disabled-vscode-theme-on-3-million-devices-b04480b68e63?source=rss-114c2684cfef------2)
-- [Download Spotify Playlist With This Open Source Python App](https://tomaszs2.medium.com/download-spotify-playlist-with-this-open-source-python-app-e7d35f8634ac?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
