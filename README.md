@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tom’s Coding Music Collection Part 1 - Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-1-3aca1d769858?source=rss-114c2684cfef------2)
 - [Webdevs Are Melting  Typescript Will Be 10x Faster. Thanks To Go Language, Not Rust Nor C#](https://tomaszs2.medium.com/webdevs-are-melting-typescript-will-be-10x-faster-thanks-to-go-language-376a933ae486?source=rss-114c2684cfef------2)
 - [Switch Now To Angular Standalone Components](https://tomaszs2.medium.com/switch-now-to-angular-standalone-components-37cee6e70ddd?source=rss-114c2684cfef------2)
 - [Parrot Rock Test Of ChatGPT, Gemini, Copilot, Claude and Le Chat](https://tomaszs2.medium.com/parrot-rock-test-of-chatgpt-gemini-copilot-claude-and-le-chat-3ff80121ac14?source=rss-114c2684cfef------2)
-- [Companies Want You Back in the Office to Protect Their Sweet, Sweet Investments!](https://tomaszs2.medium.com/companies-want-you-back-in-the-office-to-protect-their-sweet-sweet-investments-bcf98f17902a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
