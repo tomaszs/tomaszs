@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scalability Essentials: Angular Accessibility Has Bigger Impact Than You Think](https://tomaszs2.medium.com/scalability-essentials-angular-accessibility-has-bigger-impact-than-you-think-9106307de6c1?source=rss-114c2684cfef------2)
 - [Python Just Rejected Argument Shorthands](https://tomaszs2.medium.com/python-just-rejected-argument-shorthands-6f7e9afbbc3d?source=rss-114c2684cfef------2)
 - [Signals Are A Game Change For Scalable Angular Apps That Shouldn’t Memory-Leak](https://tomaszs2.medium.com/signals-are-a-game-change-for-scalable-angular-apps-that-shouldnt-memory-leak-b468242ce36f?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 1 - Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-1-3aca1d769858?source=rss-114c2684cfef------2)
-- [Webdevs Are Melting  Typescript Will Be 10x Faster. Thanks To Go Language, Not Rust Nor C#](https://tomaszs2.medium.com/webdevs-are-melting-typescript-will-be-10x-faster-thanks-to-go-language-376a933ae486?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
