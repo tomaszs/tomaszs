@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Modules Dark Side: The Black Sheep Of Enterprise Apps. Ditch Them](https://tomaszs2.medium.com/angular-modules-dark-side-the-black-sheep-of-enterprise-apps-ditch-them-dd3bbaacef65?source=rss-114c2684cfef------2)
 - [AI Won’t Replace Programmers — Stop Falling for the Same Stupid Predictions](https://tomaszs2.medium.com/ai-wont-replace-programmers-stop-falling-for-the-same-stupid-predictions-7d7628f2d8f7?source=rss-114c2684cfef------2)
 - [Scalability Essentials: Angular Accessibility Has Bigger Impact Than You Think](https://tomaszs2.medium.com/scalability-essentials-angular-accessibility-has-bigger-impact-than-you-think-9106307de6c1?source=rss-114c2684cfef------2)
 - [Python Just Rejected Argument Shorthands](https://tomaszs2.medium.com/python-just-rejected-argument-shorthands-6f7e9afbbc3d?source=rss-114c2684cfef------2)
-- [Signals Are A Game Changer For Scalable Angular Apps That Shouldn’t Memory-Leak](https://tomaszs2.medium.com/signals-are-a-game-change-for-scalable-angular-apps-that-shouldnt-memory-leak-b468242ce36f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
