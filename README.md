@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Angular Crushes React When It Comes to Scaling Enterprise Apps](https://tomaszs2.medium.com/why-angular-crushes-react-when-it-comes-to-scaling-enterprise-apps-d7de44332a1e?source=rss-114c2684cfef------2)
 - [3 MacOs Apps I Can’t Live Without](https://tomaszs2.medium.com/3-macos-apps-i-cant-live-without-fd6b08a8f57f?source=rss-114c2684cfef------2)
 - [More Work For Coders. Java 24 Ends With The Strictest Security Model](https://tomaszs2.medium.com/more-work-for-coders-java-24-ends-with-the-strictest-security-model-9bbc0720af42?source=rss-114c2684cfef------2)
 - [Angular Modules Dark Side: The Black Sheep Of Enterprise Apps. Ditch Them](https://tomaszs2.medium.com/angular-modules-dark-side-the-black-sheep-of-enterprise-apps-ditch-them-dd3bbaacef65?source=rss-114c2684cfef------2)
-- [AI Won’t Replace Programmers — Stop Falling for the Same Stupid Predictions](https://tomaszs2.medium.com/ai-wont-replace-programmers-stop-falling-for-the-same-stupid-predictions-7d7628f2d8f7?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
