@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prepare For A Coding Tech Interview Part 1](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-1-c1eceadca575?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 2: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-2-code-in-the-zone-d5a153ee9e90?source=rss-114c2684cfef------2)
 - [Why Angular Crushes React When It Comes to Scaling Enterprise Apps](https://tomaszs2.medium.com/why-angular-crushes-react-when-it-comes-to-scaling-enterprise-apps-d7de44332a1e?source=rss-114c2684cfef------2)
 - [3 MacOs Apps I Can’t Live Without](https://tomaszs2.medium.com/3-macos-apps-i-cant-live-without-fd6b08a8f57f?source=rss-114c2684cfef------2)
-- [More Work For Coders. Java 24 Ends With The Strictest Security Model](https://tomaszs2.medium.com/more-work-for-coders-java-24-ends-with-the-strictest-security-model-9bbc0720af42?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
