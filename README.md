@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prepare For A Coding Tech Interview Part 2](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-2-ad0faf30d87a?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 3: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-3-code-in-the-zone-054cac12074f?source=rss-114c2684cfef------2)
 - [Stop Losing Users to Typos — Use Fuzzy Search In Your Angular And Vue Apps!](https://tomaszs2.medium.com/stop-losing-users-to-typos-use-fuzzy-search-in-your-angular-and-vue-apps-35a3e761b322?source=rss-114c2684cfef------2)
 - [‍ Go 1.24 Swiss Tables Contribute To 2% CPU Usage Drop](https://tomaszs2.medium.com/go-1-24-swiss-tables-contribute-to-2-cpu-usage-drop-4fd441d0be8d?source=rss-114c2684cfef------2)
-- [Vibe Coding Takes Social Media by Storm: Trials, Errors, and a Whole Lot of Enthusiasm for a Fresh…](https://tomaszs2.medium.com/vibe-coding-takes-social-media-by-storm-trials-errors-and-a-whole-lot-of-enthusiasm-for-a-fresh-ca292966a9d7?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
