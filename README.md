@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Things I Learned While Vibe Coding So You Don’t Have To](https://tomaszs2.medium.com/5-things-i-learned-while-vibe-coding-f8cb825245a1?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 5: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-5-code-in-the-zone-aa8834953684?source=rss-114c2684cfef------2)
 - [Gumroad Just Open-Sourced Its Code — A Masterclass in Building Pro React Apps](https://tomaszs2.medium.com/gumroad-just-open-sourced-its-code-a-masterclass-in-building-pro-react-apps-e59e1eae65ea?source=rss-114c2684cfef------2)
 - [Microsoft Quietly Blocked Cursor from Using Its VSCode Extension — Here’s the Line of Code That…](https://tomaszs2.medium.com/microsoft-quietly-blocked-cursor-from-using-its-vscode-extension-heres-the-line-of-code-that-8d664caf0de5?source=rss-114c2684cfef------2)
-- [Prepare For A Coding Tech Interview Part 3](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-3-c9af30f53e7a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
