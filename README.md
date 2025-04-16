@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Figma Trademarked “Dev Mode.” Lovable Gets Slammed With a Cease and Desist](https://tomaszs2.medium.com/figma-trademarked-dev-mode-lovable-gets-slammed-with-a-cease-and-desist-a81b27ec602c?source=rss-114c2684cfef------2)
 - [5 Things I Learned While Vibe Coding So You Don’t Have To](https://tomaszs2.medium.com/5-things-i-learned-while-vibe-coding-f8cb825245a1?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 5: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-5-code-in-the-zone-aa8834953684?source=rss-114c2684cfef------2)
 - [Gumroad Just Open-Sourced Its Code — A Masterclass in Building Pro React Apps](https://tomaszs2.medium.com/gumroad-just-open-sourced-its-code-a-masterclass-in-building-pro-react-apps-e59e1eae65ea?source=rss-114c2684cfef------2)
-- [Microsoft Quietly Blocked Cursor from Using Its VSCode Extension — Here’s the Line of Code That…](https://tomaszs2.medium.com/microsoft-quietly-blocked-cursor-from-using-its-vscode-extension-heres-the-line-of-code-that-8d664caf0de5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
