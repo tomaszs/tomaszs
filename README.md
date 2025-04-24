@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tom’s Coding Music Collection Part 7: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-7-code-in-the-zone-fab771805eb9?source=rss-114c2684cfef------2)
 - [I Wrote a 459-Page Book on Vibe Coding. It’s Not What You Think](https://tomaszs2.medium.com/i-wrote-a-459-page-book-on-vibe-coding-its-not-what-you-think-800bce3d98f2?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 4 — SOLID](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-4-solid-5496202161ea?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 6: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-6-code-in-the-zone-756a00a411e2?source=rss-114c2684cfef------2)
-- [Figma Trademarked “Dev Mode.” Lovable Gets Slammed With a Cease and Desist](https://tomaszs2.medium.com/figma-trademarked-dev-mode-lovable-gets-slammed-with-a-cease-and-desist-a81b27ec602c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
