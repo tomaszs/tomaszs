@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tom’s Coding Music Collection Part 8: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-8-code-in-the-zone-fd9d0385fbbf?source=rss-114c2684cfef------2)
 - [“Continue” Is My Favorite Vibe Coding Windsurf Feature](https://tomaszs2.medium.com/continue-is-my-favorite-vibe-coding-windsurf-feature-fa530dbf4f08?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 5 — DRY, KISS, YAGNI](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-5-dry-kiss-yagni-088f334d986d?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 7: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-7-code-in-the-zone-fab771805eb9?source=rss-114c2684cfef------2)
-- [I Wrote a 459-Page Book on Vibe Coding. It’s Not What You Think](https://tomaszs2.medium.com/i-wrote-a-459-page-book-on-vibe-coding-its-not-what-you-think-800bce3d98f2?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
