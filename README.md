@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prepare For A Coding Tech Interview Part 6 — CI/CD, MVC, REST](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-6-ci-cd-mvc-rest-16f5c0dcfc52?source=rss-114c2684cfef------2)
 - [Vibe Coding Is the Future — But It Can Wreck Your Codebase if You’re Not Careful](https://tomaszs2.medium.com/vibe-coding-is-the-future-but-it-can-wreck-your-codebase-if-youre-not-careful-a5f3ea3a4f15?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 8: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-8-code-in-the-zone-fd9d0385fbbf?source=rss-114c2684cfef------2)
 - [“Continue” Is My Favorite Vibe Coding Windsurf Feature](https://tomaszs2.medium.com/continue-is-my-favorite-vibe-coding-windsurf-feature-fa530dbf4f08?source=rss-114c2684cfef------2)
-- [Prepare For A Coding Tech Interview Part 5 — DRY, KISS, YAGNI](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-5-dry-kiss-yagni-088f334d986d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
