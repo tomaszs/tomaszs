@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Buys Windsurf to Sit by the River of Developer Thought](https://tomaszs2.medium.com/openai-buys-windsurf-to-sit-by-the-river-of-developer-thought-95486b51619d?source=rss-114c2684cfef------2)
 - [Tailwind Is A Technical Debt: Why Component-Based CSS Leaves It Behind](https://tomaszs2.medium.com/tailwind-is-a-technical-debt-why-component-based-css-leaves-it-behind-ccc840f76a96?source=rss-114c2684cfef------2)
 - [Windows 11 Encryption Won’t Secure Recall Feature But May Lock You Out From Your Data](https://tomaszs2.medium.com/windows-11-will-encrypt-your-data-watch-out-b304389a36bc?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 6 — CI/CD, MVC, REST](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-6-ci-cd-mvc-rest-16f5c0dcfc52?source=rss-114c2684cfef------2)
-- [Vibe Coding Is the Future — But It Can Wreck Your Codebase if You’re Not Careful](https://tomaszs2.medium.com/vibe-coding-is-the-future-but-it-can-wreck-your-codebase-if-youre-not-careful-a5f3ea3a4f15?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
