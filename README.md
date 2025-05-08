@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Angular 20 Will Warn About Missing Custom Structural Directives](https://tomaszs2.medium.com/angular-20-will-warn-about-missing-custom-structural-directives-c4a0b3425001?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 9: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-9-code-in-the-zone-902ea596f492?source=rss-114c2684cfef------2)
 - [OpenAI Buys Windsurf to Sit by the River of Developer Thought](https://tomaszs2.medium.com/openai-buys-windsurf-to-sit-by-the-river-of-developer-thought-95486b51619d?source=rss-114c2684cfef------2)
 - [Tailwind Is A Technical Debt: Why Component-Based CSS Leaves It Behind](https://tomaszs2.medium.com/tailwind-is-a-technical-debt-why-component-based-css-leaves-it-behind-ccc840f76a96?source=rss-114c2684cfef------2)
-- [Windows 11 Encryption Won’t Secure Recall Feature But May Lock You Out From Your Data](https://tomaszs2.medium.com/windows-11-will-encrypt-your-data-watch-out-b304389a36bc?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
