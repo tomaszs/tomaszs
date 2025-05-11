@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams Will Block Screenshots Of Meetings](https://tomaszs2.medium.com/microsoft-teams-will-block-screenshots-of-meetings-2feac59ead37?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 7 — CRUD, JWT, OOP](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-7-crud-jwt-oop-62136997c4ae?source=rss-114c2684cfef------2)
 - [️ Angular 20 Will Warn About Missing Custom Structural Directives](https://tomaszs2.medium.com/angular-20-will-warn-about-missing-custom-structural-directives-c4a0b3425001?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 9: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-9-code-in-the-zone-902ea596f492?source=rss-114c2684cfef------2)
-- [OpenAI Buys Windsurf to Sit by the River of Developer Thought](https://tomaszs2.medium.com/openai-buys-windsurf-to-sit-by-the-river-of-developer-thought-95486b51619d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
