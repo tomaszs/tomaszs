@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prepare For A Coding Tech Interview Part 8 — Design Patterns](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-8-design-patterns-60ca9238057a?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 10: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-10-code-in-the-zone-431fcfadbe2a?source=rss-114c2684cfef------2)
 - [Windsurf 1.8.2 Drops — 5 Upgrades That’ll Make Vibe Coders Scream “Aye!”](https://tomaszs2.medium.com/windsurf-1-8-2-drops-5-upgrades-thatll-make-vibe-coders-scream-aye-b06dddb3c5d7?source=rss-114c2684cfef------2)
 - [Microsoft Teams Will Block Screenshots Of Meetings](https://tomaszs2.medium.com/microsoft-teams-will-block-screenshots-of-meetings-2feac59ead37?source=rss-114c2684cfef------2)
-- [Prepare For A Coding Tech Interview Part 7 — CRUD, JWT, OOP](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-7-crud-jwt-oop-62136997c4ae?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
