@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote a 81-Page E-Book With 100 AI Tools to Build Your Startup](https://tomaszs2.medium.com/i-wrote-a-81-page-e-book-with-100-ai-tools-to-build-your-startup-535daecf2802?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 8 — Design Patterns](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-8-design-patterns-60ca9238057a?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 10: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-10-code-in-the-zone-431fcfadbe2a?source=rss-114c2684cfef------2)
 - [Windsurf 1.8.2 Drops — 5 Upgrades That’ll Make Vibe Coders Scream “Aye!”](https://tomaszs2.medium.com/windsurf-1-8-2-drops-5-upgrades-thatll-make-vibe-coders-scream-aye-b06dddb3c5d7?source=rss-114c2684cfef------2)
-- [Microsoft Teams Will Block Screenshots Of Meetings](https://tomaszs2.medium.com/microsoft-teams-will-block-screenshots-of-meetings-2feac59ead37?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
