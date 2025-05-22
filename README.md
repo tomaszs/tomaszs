@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tom’s Coding Music Collection Part 11: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-11-code-in-the-zone-94fdb77ce6e9?source=rss-114c2684cfef------2)
 - [Cursor 0.5 Release Steps Up In Vibe Coding](https://tomaszs2.medium.com/cursor-0-5-release-steps-up-in-vibe-coding-f2cb9dc4a60b?source=rss-114c2684cfef------2)
 - [What Is Vibe Coding?](https://tomaszs2.medium.com/what-is-vibe-coding-5511ff0c29ff?source=rss-114c2684cfef------2)
 - [I Wrote a 81-Page E-Book With 100 AI Tools to Build Your Startup](https://tomaszs2.medium.com/i-wrote-a-81-page-e-book-with-100-ai-tools-to-build-your-startup-535daecf2802?source=rss-114c2684cfef------2)
-- [Prepare For A Coding Tech Interview Part 8 — Design Patterns](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-8-design-patterns-60ca9238057a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
