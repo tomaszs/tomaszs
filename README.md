@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tom’s Coding Music Collection Part 12: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-12-code-in-the-zone-c3e47fbfa883?source=rss-114c2684cfef------2)
 - [This Is The Biggest Problem With Vibe Coding](https://tomaszs2.medium.com/this-is-the-biggest-problem-with-vibe-coding-aeaad2c8cdcb?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 8 — Strategy](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-8-strategy-79df53b3c15a?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 11: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-11-code-in-the-zone-94fdb77ce6e9?source=rss-114c2684cfef------2)
-- [Cursor 0.5 Release Steps Up In Vibe Coding](https://tomaszs2.medium.com/cursor-0-5-release-steps-up-in-vibe-coding-f2cb9dc4a60b?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
