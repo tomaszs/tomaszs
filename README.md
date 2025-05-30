@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Start Mentoring Software Developers &lpar;and Why Now’s the Perfect Time&rpar;](https://tomaszs2.medium.com/how-to-start-mentoring-software-developers-and-why-nows-the-perfect-time-34fabca65aaf?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 12: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-12-code-in-the-zone-c3e47fbfa883?source=rss-114c2684cfef------2)
 - [This Is The Biggest Problem With Vibe Coding](https://tomaszs2.medium.com/this-is-the-biggest-problem-with-vibe-coding-aeaad2c8cdcb?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 8 — Strategy](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-8-strategy-79df53b3c15a?source=rss-114c2684cfef------2)
-- [Tom’s Coding Music Collection Part 11: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-11-code-in-the-zone-94fdb77ce6e9?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
