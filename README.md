@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Proven Tips to Master Vibe Coding &lpar;Without Wrecking Your App&rpar;](https://tomaszs2.medium.com/10-proven-tips-to-master-vibe-coding-without-wrecking-your-app-497bfa53e3ff?source=rss-114c2684cfef------2)
 - [Prepare For A Coding Tech Interview Part 10— Adapter And Decorator](https://tomaszs2.medium.com/prepare-for-a-coding-tech-interview-part-10-adapter-and-decorator-99737fa2e628?source=rss-114c2684cfef------2)
 - [How to Start Mentoring Software Developers &lpar;and Why Now’s the Perfect Time&rpar;](https://tomaszs2.medium.com/how-to-start-mentoring-software-developers-and-why-nows-the-perfect-time-34fabca65aaf?source=rss-114c2684cfef------2)
 - [Tom’s Coding Music Collection Part 12: Code In The Zone](https://tomaszs2.medium.com/toms-coding-music-collection-part-12-code-in-the-zone-c3e47fbfa883?source=rss-114c2684cfef------2)
-- [This Is The Biggest Problem With Vibe Coding](https://tomaszs2.medium.com/this-is-the-biggest-problem-with-vibe-coding-aeaad2c8cdcb?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
