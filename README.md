@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Validate Your Startup Idea for Free in 2025 &lpar;No Tech Skills Needed&rpar;](https://tomaszs2.medium.com/how-to-validate-your-startup-idea-for-free-in-2025-no-tech-skills-needed-93c7a3071d06?source=rss-114c2684cfef------2)
 - [Cursor 1.0 Just Dropped: Can It Finally Compete with Windsurf?](https://tomaszs2.medium.com/cursor-1-0-just-dropped-can-it-finally-compete-with-windsurf-abe16b0f67e1?source=rss-114c2684cfef------2)
 - [React Native ARIA Package Exposed Developers To Trojan](https://tomaszs2.medium.com/react-native-aria-package-exposed-developers-to-trojan-34b6745aa5ba?source=rss-114c2684cfef------2)
 - [Angular Silently Released AI Guidelines](https://tomaszs2.medium.com/angular-silently-released-ai-guidelines-78ec9cd1e698?source=rss-114c2684cfef------2)
-- [Windsurf Model Benchmark: Which AI Builds a Vue TODO App Fastest?](https://tomaszs2.medium.com/windsurf-model-benchmark-which-ai-builds-a-vue-todo-app-fastest-c9b7d95c0c85?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
