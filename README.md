@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [16 Billion Passwords Leaked: If You’ve Reused a Password Since 2012, Assume It’s Compromised](https://tomaszs2.medium.com/16-billion-passwords-leaked-if-youve-reused-a-password-since-2012-assume-it-s-compromised-89693d6cd846?source=rss-114c2684cfef------2)
 - [The Supabase RLS Trap: When ‘No Backend’ Breaks Everything](https://tomaszs2.medium.com/the-supabase-rls-trap-when-no-backend-breaks-everything-de1e7f20f000?source=rss-114c2684cfef------2)
 - [Think CSP and CORS Are Enough? Think Again](https://tomaszs2.medium.com/think-csp-and-cors-are-enough-think-again-87447ab31754?source=rss-114c2684cfef------2)
 - [Windsurf Generated Simple React App 32% Faster Than In Vue.js](https://tomaszs2.medium.com/windsurf-generated-simple-react-app-32-faster-than-in-vue-js-84a7074acc14?source=rss-114c2684cfef------2)
-- [How to Validate Your Startup Idea for Free in 2025 &lpar;No Tech Skills Needed&rpar;](https://tomaszs2.medium.com/how-to-validate-your-startup-idea-for-free-in-2025-no-tech-skills-needed-93c7a3071d06?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
