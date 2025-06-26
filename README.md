@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub CEO: Coding’s Dead, Long Live Task-Writing](https://tomaszs2.medium.com/github-ceo-codings-dead-long-live-task-writing-e8f2fae7ca73?source=rss-114c2684cfef------2)
 - [Windsurf Adds Plan Mode to Help AI Stay on Track with Complex Coding Tasks](https://tomaszs2.medium.com/windsurf-adds-plan-mode-to-help-ai-stay-on-track-with-complex-coding-tasks-82c1dd1f9a3b?source=rss-114c2684cfef------2)
 - [DocuSign vs. Indie Hacker: The Cease and Desist That Sparked a Vibe Coding Storm](https://tomaszs2.medium.com/docusign-vs-indie-hacker-the-cease-and-desist-that-sparked-a-vibe-coding-storm-5c14f18d5d33?source=rss-114c2684cfef------2)
 - [16 Billion Passwords Leaked: If You’ve Reused a Password Since 2012, Assume It’s Compromised](https://tomaszs2.medium.com/16-billion-passwords-leaked-if-youve-reused-a-password-since-2012-assume-it-s-compromised-89693d6cd846?source=rss-114c2684cfef------2)
-- [The Supabase RLS Trap: When ‘No Backend’ Breaks Everything](https://tomaszs2.medium.com/the-supabase-rls-trap-when-no-backend-breaks-everything-de1e7f20f000?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
