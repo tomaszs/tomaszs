@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PNG Specification Third Edition Released: APNG and HDR Now Officially Standardized](https://tomaszs2.medium.com/png-specification-third-edition-released-apng-and-hdr-now-officially-standardized-c3141686f0b6?source=rss-114c2684cfef------2)
+- [Copilot Chat Goes MIT — Microsoft Reminds Everyone Who Built the IDE](https://tomaszs2.medium.com/copilot-chat-goes-mit-microsoft-reminds-everyone-who-built-the-ide-aa1bb410db90?source=rss-114c2684cfef------2)
 - [Engineering Leadership Report 2025: Burnout, AI Doubts, and a Hiring Paradox](https://tomaszs2.medium.com/engineering-leadership-report-2025-burnout-ai-doubts-and-a-hiring-paradox-104a04cd1817?source=rss-114c2684cfef------2)
 - [GitHub CEO: Coding’s Dead, Long Live Task-Writing](https://tomaszs2.medium.com/github-ceo-codings-dead-long-live-task-writing-e8f2fae7ca73?source=rss-114c2684cfef------2)
-- [Windsurf Adds Plan Mode to Help AI Stay on Track with Complex Coding Tasks](https://tomaszs2.medium.com/windsurf-adds-plan-mode-to-help-ai-stay-on-track-with-complex-coding-tasks-82c1dd1f9a3b?source=rss-114c2684cfef------2)
-- [DocuSign vs. Indie Hacker: The Cease and Desist That Sparked a Vibe Coding Storm](https://tomaszs2.medium.com/docusign-vs-indie-hacker-the-cease-and-desist-that-sparked-a-vibe-coding-storm-5c14f18d5d33?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
