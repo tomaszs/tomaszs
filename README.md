@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When a Currency Conversion Bug Inflated Lottery Prizes by 10x - And Top Executives Paid the Price](https://tomaszs2.medium.com/when-a-currency-conversion-bug-inflated-lottery-prizes-by-10x-and-top-executives-paid-the-price-41dccef41058?source=rss-114c2684cfef------2)
 - [Windows Blue Screen of Death Is Dead — Stylish New Version Includes Auto Recovery](https://tomaszs2.medium.com/windows-blue-screen-of-death-is-dead-stylish-new-version-includes-auto-recovery-44f8887f2a01?source=rss-114c2684cfef------2)
 - [PNG Specification Third Edition Released: APNG and HDR Now Officially Standardized](https://tomaszs2.medium.com/png-specification-third-edition-released-apng-and-hdr-now-officially-standardized-c3141686f0b6?source=rss-114c2684cfef------2)
 - [Copilot Chat Goes MIT — Microsoft Reminds Everyone Who Built the IDE](https://tomaszs2.medium.com/copilot-chat-goes-mit-microsoft-reminds-everyone-who-built-the-ide-aa1bb410db90?source=rss-114c2684cfef------2)
-- [Engineering Leadership Report 2025: Burnout, AI Doubts, and a Hiring Paradox](https://tomaszs2.medium.com/engineering-leadership-report-2025-burnout-ai-doubts-and-a-hiring-paradox-104a04cd1817?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
