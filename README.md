@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Generated Code Was a mess… Until I Figured This Out &lpar;10 Tips&rpar;](https://tomaszs2.medium.com/ai-generated-code-was-a-mess-until-i-figured-this-out-10-tips-6704a3986ec3?source=rss-114c2684cfef------2)
 - [Python Is Going Free-Threaded: The End of the GIL Is Near in Python 3.14](https://tomaszs2.medium.com/python-is-going-free-threaded-the-end-of-the-gil-is-near-in-python-3-14-5f835ba5466f?source=rss-114c2684cfef------2)
 - [The Invisible Promotion: How to Go From Mid-Level to Senior Developer](https://tomaszs2.medium.com/the-invisible-promotion-how-to-go-from-mid-level-to-senior-developer-fe2a37ba0ee7?source=rss-114c2684cfef------2)
 - [What’s New in C# 14: Extension Members, Backing Fields, and Null-Conditional Assignments](https://tomaszs2.medium.com/whats-new-in-c-14-extension-members-backing-fields-and-null-conditional-assignments-4dfc244a2f90?source=rss-114c2684cfef------2)
-- [When a Currency Conversion Bug Inflated Lottery Prizes by 10x - And Top Executives Paid the Price](https://tomaszs2.medium.com/when-a-currency-conversion-bug-inflated-lottery-prizes-by-10x-and-top-executives-paid-the-price-41dccef41058?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
