@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Vibe Coding Patterns](https://tomaszs2.medium.com/5-best-vibe-coding-patterns-2b2cf3ff68e6?source=rss-114c2684cfef------2)
 - [Deno Raises $200k To Free The Javascript Trademark](https://tomaszs2.medium.com/deno-raises-200k-to-free-the-javascript-trademark-37e20a2c364f?source=rss-114c2684cfef------2)
 - [I’ll Pay $1000 Dollar To The First Person That Builds This, Apple](https://tomaszs2.medium.com/ill-pay-1000-dollar-to-the-first-person-that-builds-this-apple-542122bacefc?source=rss-114c2684cfef------2)
 - [AI-Generated Code Was a mess… Until I Figured This Out &lpar;10 Tips&rpar;](https://tomaszs2.medium.com/ai-generated-code-was-a-mess-until-i-figured-this-out-10-tips-6704a3986ec3?source=rss-114c2684cfef------2)
-- [Python Is Going Free-Threaded: The End of the GIL Is Near in Python 3.14](https://tomaszs2.medium.com/python-is-going-free-threaded-the-end-of-the-gil-is-near-in-python-3-14-5f835ba5466f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
