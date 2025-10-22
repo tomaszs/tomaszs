@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Let AI Almost Code For Me For a Year — Here’s What Really Happened](https://tomaszs2.medium.com/i-let-ai-almost-code-for-me-for-a-year-heres-what-really-happened-bdf965ad43af?source=rss-114c2684cfef------2)
 - [5 Best Vibe Coding Patterns](https://tomaszs2.medium.com/5-best-vibe-coding-patterns-2b2cf3ff68e6?source=rss-114c2684cfef------2)
 - [Deno Raises $200k To Free The Javascript Trademark](https://tomaszs2.medium.com/deno-raises-200k-to-free-the-javascript-trademark-37e20a2c364f?source=rss-114c2684cfef------2)
 - [I’ll Pay $1000 Dollar To The First Person That Builds This, Apple](https://tomaszs2.medium.com/ill-pay-1000-dollar-to-the-first-person-that-builds-this-apple-542122bacefc?source=rss-114c2684cfef------2)
-- [AI-Generated Code Was a mess… Until I Figured This Out &lpar;10 Tips&rpar;](https://tomaszs2.medium.com/ai-generated-code-was-a-mess-until-i-figured-this-out-10-tips-6704a3986ec3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
