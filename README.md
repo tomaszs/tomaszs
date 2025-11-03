@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 21 Kills ngClass And Introduces Signal Forms. The Final Solution Of The Form Problem](https://tomaszs2.medium.com/angular-21-kills-ngclass-and-introduces-signal-forms-the-final-solution-of-the-form-problem-f32b9c0db6ff?source=rss-114c2684cfef------2)
 - [Mass Coding Layoffs In Tech Form Fake News](https://tomaszs2.medium.com/mass-coding-layoffs-in-tech-form-fake-news-620a0cefccef?source=rss-114c2684cfef------2)
 - [I Let AI Almost Code For Me For a Year — Here’s What Really Happened](https://tomaszs2.medium.com/i-let-ai-almost-code-for-me-for-a-year-heres-what-really-happened-bdf965ad43af?source=rss-114c2684cfef------2)
 - [5 Best Vibe Coding Patterns](https://tomaszs2.medium.com/5-best-vibe-coding-patterns-2b2cf3ff68e6?source=rss-114c2684cfef------2)
-- [Deno Raises $200k To Free The Javascript Trademark](https://tomaszs2.medium.com/deno-raises-200k-to-free-the-javascript-trademark-37e20a2c364f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
