@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why PDF Viewers Show Different Page Number Than Page Footers?](https://tomaszs2.medium.com/why-pdf-viewers-show-different-page-number-than-page-footers-0e9245e63739?source=rss-114c2684cfef------2)
 - [I Wrote A 128-Page Book For Vibe Coders To Teach Them About Software Engineering](https://tomaszs2.medium.com/i-wrote-a-128-page-book-for-vibe-coders-to-teach-them-about-software-engineering-d3417601bce8?source=rss-114c2684cfef------2)
 - [Angular 21 Kills ngClass And Introduces Signal Forms. The Final Solution Of The Form Problem](https://tomaszs2.medium.com/angular-21-kills-ngclass-and-introduces-signal-forms-the-final-solution-of-the-form-problem-f32b9c0db6ff?source=rss-114c2684cfef------2)
 - [Mass Coding Layoffs In Tech Form Fake News](https://tomaszs2.medium.com/mass-coding-layoffs-in-tech-form-fake-news-620a0cefccef?source=rss-114c2684cfef------2)
-- [I Let AI Almost Code For Me For a Year — Here’s What Really Happened](https://tomaszs2.medium.com/i-let-ai-almost-code-for-me-for-a-year-heres-what-really-happened-bdf965ad43af?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
