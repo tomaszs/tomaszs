@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why the Cloudflare Outage Should Scare Everyone Who Builds Software](https://tomaszs2.medium.com/why-the-cloudflare-outage-should-scare-everyone-who-builds-software-ab899653c2bc?source=rss-114c2684cfef------2)
 - [I Wrote Software Engineering for Vibe Coders — Here’s the Truth the Tech Industry Isn’t Ready For](https://tomaszs2.medium.com/i-wrote-software-engineering-for-vibe-coders-heres-the-truth-the-tech-industry-isn-t-ready-for-d41497a8711d?source=rss-114c2684cfef------2)
 - [Is Google Antigravity A Great Vibe Coding IDE?](https://tomaszs2.medium.com/is-google-antigravity-a-great-vibe-coding-ide-58e0e3c5e0da?source=rss-114c2684cfef------2)
 - [Vibe Coding Without Going Broke: Managing Tech Debt in the AI Era](https://tomaszs2.medium.com/vibe-coding-without-going-broke-managing-tech-debt-in-the-ai-era-224259c52b9d?source=rss-114c2684cfef------2)
-- [Is Vue.js 3.6 In Maintaince Mode?](https://tomaszs2.medium.com/is-vue-js-3-6-in-maintaince-mode-641ebc5d3fea?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
