@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve Created a 65-Card Clean Code Flashcard Deck for Coders](https://tomaszs2.medium.com/ive-created-a-65-card-clean-code-flashcard-deck-for-coders-c03190a6386b?source=rss-114c2684cfef------2)
 - [Is it good that Australia is Banning Social Media?](https://tomaszs2.medium.com/is-it-good-that-australia-is-banning-social-media-a6c7f81269be?source=rss-114c2684cfef------2)
 - [Stop Rebuilding User Invites. Meet Invite-API: Multi-Tenant Onboarding Done Right](https://tomaszs2.medium.com/stop-rebuilding-user-invites-meet-invite-api-multi-tenant-onboarding-done-right-d4ea4b35e593?source=rss-114c2684cfef------2)
 - [Why the Cloudflare Outage Should Scare Everyone Who Builds Software](https://tomaszs2.medium.com/why-the-cloudflare-outage-should-scare-everyone-who-builds-software-ab899653c2bc?source=rss-114c2684cfef------2)
-- [I Wrote Software Engineering for Vibe Coders — Here’s the Truth the Tech Industry Isn’t Ready For](https://tomaszs2.medium.com/i-wrote-software-engineering-for-vibe-coders-heres-the-truth-the-tech-industry-isn-t-ready-for-d41497a8711d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
