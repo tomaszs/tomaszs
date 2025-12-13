@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Funny &amp; Unhinged Things AI Wrote To Me](https://tomaszs2.medium.com/10-funny-unhinged-things-ai-wrote-to-me-4b77206300db?source=rss-114c2684cfef------2)
 - [A Developer Lost a Contract and Asked AI to Sue. You Won’t Believe What Happened Next](https://tomaszs2.medium.com/a-developer-lost-a-contract-and-asked-ai-to-sue-you-wont-believe-what-happened-next-5ad884ae9a21?source=rss-114c2684cfef------2)
 - [Brutalism Is Dead. Long Live Proto-Brutalism?](https://tomaszs2.medium.com/brutalism-is-dead-long-live-proto-brutalism-4cf8c417a666?source=rss-114c2684cfef------2)
 - [Developers Die Because Of The New React Vulnerability](https://tomaszs2.medium.com/developers-die-because-of-the-new-react-vulnerability-e85d44b27e70?source=rss-114c2684cfef------2)
-- [I’ve Created a 65-Card Clean Code Flashcard Deck for Coders](https://tomaszs2.medium.com/ive-created-a-65-card-clean-code-flashcard-deck-for-coders-c03190a6386b?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
