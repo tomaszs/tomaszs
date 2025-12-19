@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js v16.1 After React2Shell: Tightening the Framework Where React Meets the Server](https://tomaszs2.medium.com/next-js-v16-1-after-react2shell-tightening-the-framework-where-react-meets-the-server-12f38dcbbb4c?source=rss-114c2684cfef------2)
 - [Why iRobot Ended Up Being Saved by a Company You’ve Never Heard Of](https://tomaszs2.medium.com/why-irobot-ended-up-being-saved-by-a-company-youve-never-heard-of-436c0ba319bf?source=rss-114c2684cfef------2)
 - [I’ve Released a New T-Shirt Collection for Programmers — and It’s Not Another Meme](https://tomaszs2.medium.com/ive-released-a-new-t-shirt-collection-for-programmers-and-it-s-not-another-meme-82d83fa77478?source=rss-114c2684cfef------2)
 - [10 Funny &amp; Unhinged Things AI Wrote To Me](https://tomaszs2.medium.com/10-funny-unhinged-things-ai-wrote-to-me-4b77206300db?source=rss-114c2684cfef------2)
-- [A Developer Lost a Contract and Asked AI to Sue. You Won’t Believe What Happened Next](https://tomaszs2.medium.com/a-developer-lost-a-contract-and-asked-ai-to-sue-you-wont-believe-what-happened-next-5ad884ae9a21?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
