@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [“Tech Debt Is OK” Is a Dangerous Myth](https://tomaszs2.medium.com/tech-debt-is-ok-is-a-dangerous-myth-1141966986b4?source=rss-114c2684cfef------2)
 - [Why Christmas Gave Developers the Web, Linux, JPEG, and Bitcoin](https://tomaszs2.medium.com/why-christmas-quiet-gave-developers-the-web-linux-jpeg-and-bitcoin-bd0bde0f4ff4?source=rss-114c2684cfef------2)
 - [Google Had Enough. No More Scraping For SerpAPI. But Wait A M](https://tomaszs2.medium.com/google-had-enough-no-more-scraping-for-serpapi-but-wait-a-m-6e4cc1278237?source=rss-114c2684cfef------2)
 - [Next.js v16.1 After React2Shell: Tightening the Framework Where React Meets the Server](https://tomaszs2.medium.com/next-js-v16-1-after-react2shell-tightening-the-framework-where-react-meets-the-server-12f38dcbbb4c?source=rss-114c2684cfef------2)
-- [Why iRobot Ended Up Being Saved by a Company You’ve Never Heard Of](https://tomaszs2.medium.com/why-irobot-ended-up-being-saved-by-a-company-youve-never-heard-of-436c0ba319bf?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
