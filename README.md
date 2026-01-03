@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Even AI Experts Feel Behind: What Andrej Karpathy’s Confession Means for Programmers](https://tomaszs2.medium.com/even-ai-experts-feel-behind-what-andrej-karpathys-confession-means-for-programmers-39e9364d4058?source=rss-114c2684cfef------2)
 - [10 Most Popular Programming Articles of 2025: What You Missed](https://tomaszs2.medium.com/10-most-popular-programming-articles-of-2025-what-you-missed-181f1d2cfd01?source=rss-114c2684cfef------2)
 - [AI Didn’t Kill Instagram. Instagram Killed Instagram](https://tomaszs2.medium.com/ai-didnt-kill-instagram-instagram-killed-instagram-b19c72de6238?source=rss-114c2684cfef------2)
 - [“Tech Debt Is OK” Is a Dangerous Myth](https://tomaszs2.medium.com/tech-debt-is-ok-is-a-dangerous-myth-1141966986b4?source=rss-114c2684cfef------2)
-- [Why Christmas Gave Developers the Web, Linux, JPEG, and Bitcoin](https://tomaszs2.medium.com/why-christmas-quiet-gave-developers-the-web-linux-jpeg-and-bitcoin-bd0bde0f4ff4?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
