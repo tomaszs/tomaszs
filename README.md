@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [1-Bit Models Won’t Make GPUs Cheaper. Sorry Gamers!](https://tomaszs2.medium.com/1-bit-models-wont-make-gpus-cheaper-sorry-gamers-a0bf4a4cc57f?source=rss-114c2684cfef------2)
 - [The Paradox of Waiting for AI to Code: How to Stay Productive While Your Digital Assistant Works](https://tomaszs2.medium.com/the-paradox-of-waiting-for-ai-to-code-how-to-stay-productive-while-your-digital-assistant-works-e7913ef15f9c?source=rss-114c2684cfef------2)
 - [Even AI Experts Feel Behind: What Andrej Karpathy’s Confession Means for Programmers](https://tomaszs2.medium.com/even-ai-experts-feel-behind-what-andrej-karpathys-confession-means-for-programmers-39e9364d4058?source=rss-114c2684cfef------2)
 - [10 Most Popular Programming Articles of 2025: What You Missed](https://tomaszs2.medium.com/10-most-popular-programming-articles-of-2025-what-you-missed-181f1d2cfd01?source=rss-114c2684cfef------2)
-- [AI Didn’t Kill Instagram. Instagram Killed Instagram](https://tomaszs2.medium.com/ai-didnt-kill-instagram-instagram-killed-instagram-b19c72de6238?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
