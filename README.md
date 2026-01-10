@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 Will Be The Year Of Android Forks. Here’s Why Google’s AOSP Changes Actually Help](https://tomaszs2.medium.com/2026-will-be-the-year-of-android-forks-heres-why-google-s-aosp-changes-actually-help-b9c2c8254c28?source=rss-114c2684cfef------2)
 - [I Just Got My First Hardcover Book.](https://tomaszs2.medium.com/i-just-got-my-first-hardcover-book-853054c7d824?source=rss-114c2684cfef------2)
 - [How AI Kills Tailwind and the Free Internet](https://tomaszs2.medium.com/how-ai-kills-tailwind-and-the-free-internet-1c7f0421fef4?source=rss-114c2684cfef------2)
 - [1-Bit Models Won’t Make GPUs Cheaper. Sorry Gamers!](https://tomaszs2.medium.com/1-bit-models-wont-make-gpus-cheaper-sorry-gamers-a0bf4a4cc57f?source=rss-114c2684cfef------2)
-- [The Paradox of Waiting for AI to Code: How to Stay Productive While Your Digital Assistant Works](https://tomaszs2.medium.com/the-paradox-of-waiting-for-ai-to-code-how-to-stay-productive-while-your-digital-assistant-works-e7913ef15f9c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
