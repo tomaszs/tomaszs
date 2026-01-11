@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular 21–1–0 RC 0 Brings Switch Case Matching, Spread Operators, and CDN Image Transformations](https://tomaszs2.medium.com/angular-21-1-0-rc-0-brings-switch-case-matching-spread-operators-and-cdn-image-transformations-bbf632e5d72b?source=rss-114c2684cfef------2)
+- [Angular 21.1.0 RC.0 Brings Switch Case Matching, Spread Operators, and CDN Image Transformations](https://tomaszs2.medium.com/angular-21-1-0-rc-0-brings-switch-case-matching-spread-operators-and-cdn-image-transformations-bbf632e5d72b?source=rss-114c2684cfef------2)
 - [2026 Will Be The Year Of Android Forks. Here’s Why Google’s AOSP Changes Actually Help](https://tomaszs2.medium.com/2026-will-be-the-year-of-android-forks-heres-why-google-s-aosp-changes-actually-help-b9c2c8254c28?source=rss-114c2684cfef------2)
 - [I Just Got My First Hardcover Book - Here’s How 20 Years of Writing Led to Software Engineering for…](https://tomaszs2.medium.com/i-just-got-my-first-hardcover-book-853054c7d824?source=rss-114c2684cfef------2)
 - [How AI Kills Tailwind and the Free Internet](https://tomaszs2.medium.com/how-ai-kills-tailwind-and-the-free-internet-1c7f0421fef4?source=rss-114c2684cfef------2)
