@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tested 8 AI Models on the Same Angular Task — Here’s Which One Writes the Best Code](https://tomaszs2.medium.com/i-tested-8-ai-models-on-the-same-angular-task-heres-which-one-writes-the-best-code-6571a7b0c3d6?source=rss-114c2684cfef------2)
 - [Context Engineering Is What C Was to Assembly — The Next Abstraction Layer in Programming](https://tomaszs2.medium.com/context-engineering-is-what-c-was-to-assembly-the-next-abstraction-layer-in-programming-a79a2b191db3?source=rss-114c2684cfef------2)
 - [Linus Torvalds Says AI Codes Better Than Him; Here’s What It Really Means](https://tomaszs2.medium.com/linus-torvalds-says-ai-codes-better-than-him-heres-what-it-really-means-2c115baa14ed?source=rss-114c2684cfef------2)
 - [Angular 21.1.0 RC.0 Brings Switch Case Matching, Spread Operators, and CDN Image Transformations](https://tomaszs2.medium.com/angular-21-1-0-rc-0-brings-switch-case-matching-spread-operators-and-cdn-image-transformations-bbf632e5d72b?source=rss-114c2684cfef------2)
-- [2026 Will Be The Year Of Android Forks. Here’s Why Google’s AOSP Changes Actually Help](https://tomaszs2.medium.com/2026-will-be-the-year-of-android-forks-heres-why-google-s-aosp-changes-actually-help-b9c2c8254c28?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
