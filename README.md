@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ The Secret Life of AI: How Machines Are Inventing New Words](https://tomaszs2.medium.com/%EF%B8%8F-the-secret-life-of-ai-how-machines-are-inventing-new-words-e357709767d4?source=rss-114c2684cfef------2)
 - [Why The 5th AI Revolution Didn’t Fail Like The Previous Ones?](https://tomaszs2.medium.com/why-the-5th-ai-revolution-didnt-fail-like-the-previous-ones-21070d2cbe9b?source=rss-114c2684cfef------2)
 - [Future Software Engineer Career Complete Roadmap](https://tomaszs2.medium.com/future-software-engineer-career-complete-roadmap-290b66eec271?source=rss-114c2684cfef------2)
 - [I Tested 8 AI Models on the Same Angular Task — Here’s Which One Writes the Best Code](https://tomaszs2.medium.com/i-tested-8-ai-models-on-the-same-angular-task-heres-which-one-writes-the-best-code-6571a7b0c3d6?source=rss-114c2684cfef------2)
-- [Context Engineering Is What C Was to Assembly — The Next Abstraction Layer in Programming](https://tomaszs2.medium.com/context-engineering-is-what-c-was-to-assembly-the-next-abstraction-layer-in-programming-a79a2b191db3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
