@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PwC 2026: CEOs Stabilize But AI Turns Tables](https://tomaszs2.medium.com/pwc-2026-ceos-stabilize-but-ai-turns-tables-a3ba1c17621f?source=rss-114c2684cfef------2)
 - [Bill Gates on Programmer Jobs in 2026. It Will Be Bumpy. Enjoy The Ride](https://tomaszs2.medium.com/bill-gates-on-programmer-jobs-in-2026-it-will-be-bumpy-enjoy-the-ride-4570b1413240?source=rss-114c2684cfef------2)
 - [️ Temporal API Finally Released In Chrome, But Still Not Usable](https://tomaszs2.medium.com/%EF%B8%8F-temporal-api-finally-released-in-chrome-but-still-not-usable-d2bbc225508d?source=rss-114c2684cfef------2)
 - [️ The Secret Life of AI: How Machines Are Inventing New Words](https://tomaszs2.medium.com/%EF%B8%8F-the-secret-life-of-ai-how-machines-are-inventing-new-words-e357709767d4?source=rss-114c2684cfef------2)
-- [Why The 5th AI Revolution Didn’t Fail Like The Previous Ones?](https://tomaszs2.medium.com/why-the-5th-ai-revolution-didnt-fail-like-the-previous-ones-21070d2cbe9b?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
