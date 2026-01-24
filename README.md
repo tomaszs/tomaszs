@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve Put 55MB AI Model Into A Browser Extension To Detect SLOP](https://tomaszs2.medium.com/ive-put-55mb-ai-model-into-a-browser-extension-to-detect-slop-cce594b32e73?source=rss-114c2684cfef------2)
 - [How To Become An Engineer At Anthropic; Skills, Salaries and What The Job Postings Reveal](https://tomaszs2.medium.com/how-to-become-an-engineer-at-anthropic-skills-salaries-and-what-the-job-postings-reveal-12e6174eb738?source=rss-114c2684cfef------2)
 - [23,000 Words of Corporate Commandments. Anthropic Acts As God And Sets Up AI Identity](https://tomaszs2.medium.com/23-000-words-of-corporate-commandments-anthropic-acts-as-god-and-sets-up-ai-identity-0662057d8692?source=rss-114c2684cfef------2)
 - [I’ve Tested 9 AI Design Tools. One Stands Out](https://tomaszs2.medium.com/ive-tested-9-ai-design-tools-one-stands-out-8562d7ec9df0?source=rss-114c2684cfef------2)
-- [PwC 2026: CEOs Stabilize But AI Turns Tables](https://tomaszs2.medium.com/pwc-2026-ceos-stabilize-but-ai-turns-tables-a3ba1c17621f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
