@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [We’re Back To Measuring Productivity By Lines Of Code](https://tomaszs2.medium.com/were-back-to-measuring-productivity-by-lines-of-code-5c3b241258aa?source=rss-114c2684cfef------2)
 - [Microsoft Teams Is So Bad, France Built Its Own Alternative](https://tomaszs2.medium.com/microsoft-teams-is-so-bad-france-built-its-own-alternative-45bbe10a3184?source=rss-114c2684cfef------2)
 - [Software Engineers Rediscover The Joy Of Coding Thanks To AI](https://tomaszs2.medium.com/software-engineers-rediscover-the-joy-of-coding-thanks-to-ai-aaf3bf9d0156?source=rss-114c2684cfef------2)
 - [Richard Stallman Exposes the AI Lie; He Calls It “Pretend Intelligence”](https://tomaszs2.medium.com/richard-stallman-exposes-the-ai-lie-he-calls-it-pretend-intelligence-0cec84e8b6c1?source=rss-114c2684cfef------2)
-- [I’ve Put 55MB AI Model Into A Browser Extension To Detect SLOP](https://tomaszs2.medium.com/ive-put-55mb-ai-model-into-a-browser-extension-to-detect-slop-cce594b32e73?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
