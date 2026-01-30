@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is ClawdBot / Moltbot — An AI Bot That Actually Does Things](https://tomaszs2.medium.com/what-is-clawdbot-moltbot-an-ai-bot-that-actually-does-things-156c53b11d19?source=rss-114c2684cfef------2)
 - [We’re Back To Measuring Productivity By Lines Of Code](https://tomaszs2.medium.com/were-back-to-measuring-productivity-by-lines-of-code-5c3b241258aa?source=rss-114c2684cfef------2)
 - [Microsoft Teams Is So Bad, France Built Its Own Alternative](https://tomaszs2.medium.com/microsoft-teams-is-so-bad-france-built-its-own-alternative-45bbe10a3184?source=rss-114c2684cfef------2)
 - [Software Engineers Rediscover The Joy Of Coding Thanks To AI](https://tomaszs2.medium.com/software-engineers-rediscover-the-joy-of-coding-thanks-to-ai-aaf3bf9d0156?source=rss-114c2684cfef------2)
-- [Richard Stallman Exposes the AI Lie; He Calls It “Pretend Intelligence”](https://tomaszs2.medium.com/richard-stallman-exposes-the-ai-lie-he-calls-it-pretend-intelligence-0cec84e8b6c1?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
