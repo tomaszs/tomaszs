@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’s Gaslighted And Manipulated Me. “You are not stupid”, it wrote](https://tomaszs2.medium.com/chatgpts-gaslighted-and-manipulated-me-you-are-not-stupid-it-wrote-09254caee995?source=rss-114c2684cfef------2)
 - [Anders Hejlsberg on AI; It Narrows the Pyramid, Engineers Will Be Scarce, and Still Needed](https://tomaszs2.medium.com/anders-hejlsberg-on-ai-it-narrows-the-pyramid-engineers-will-be-scarce-and-still-needed-a742ab480e3f?source=rss-114c2684cfef------2)
 - [The Vibe Coding Bubble Has Popped; Here’s What Survives](https://tomaszs2.medium.com/the-vibe-coding-bubble-has-popped-heres-what-survives-8ea5f94c916f?source=rss-114c2684cfef------2)
 - [What is ClawdBot / Moltbot  / OpenClaw — An AI Bot That Actually Does Things](https://tomaszs2.medium.com/what-is-clawdbot-moltbot-an-ai-bot-that-actually-does-things-156c53b11d19?source=rss-114c2684cfef------2)
-- [We’re Back To Measuring Productivity By Lines Of Code](https://tomaszs2.medium.com/were-back-to-measuring-productivity-by-lines-of-code-5c3b241258aa?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
