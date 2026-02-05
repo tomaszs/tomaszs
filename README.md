@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Tool That Removes 75% of Resume Bias — Here’s What I Found, Part 1](https://tomaszs2.medium.com/i-built-a-tool-that-removes-75-of-resume-bias-heres-what-i-found-part-1-67db5ecda278?source=rss-114c2684cfef------2)
 - [How to Anonymize Private Data Before Feeding It to AI](https://tomaszs2.medium.com/how-to-anonymize-private-data-before-feeding-it-to-ai-608f29b25a32?source=rss-114c2684cfef------2)
 - [Anthropic Research Reveals Vibe Coding Can Impair Skills; But There’s a Fix](https://tomaszs2.medium.com/anthropic-research-reveals-vibe-coding-can-impair-skills-but-theres-a-fix-99a09af8d9bd?source=rss-114c2684cfef------2)
 - [ChatGPT’s Gaslighted And Manipulated Me. “You are not stupid”, it wrote](https://tomaszs2.medium.com/chatgpts-gaslighted-and-manipulated-me-you-are-not-stupid-it-wrote-09254caee995?source=rss-114c2684cfef------2)
-- [Anders Hejlsberg on AI; It Narrows the Pyramid, Engineers Will Be Scarce, and Still Needed](https://tomaszs2.medium.com/anders-hejlsberg-on-ai-it-narrows-the-pyramid-engineers-will-be-scarce-and-still-needed-a742ab480e3f?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
