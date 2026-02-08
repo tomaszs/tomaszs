@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Labyrinthine World of AI Bottlenecks — From Atoms to Algorithms](https://tomaszs2.medium.com/the-labyrinthine-world-of-ai-bottlenecks-from-atoms-to-algorithms-d14e86074e79?source=rss-114c2684cfef------2)
 - [️ Anthropic’s $20K AI Compiler Can Handle Doom. Can It Handle Anything Else?](https://tomaszs2.medium.com/%EF%B8%8F-anthropics-20k-ai-compiler-can-handle-doom-can-it-handle-anything-else-cfa9081cff5e?source=rss-114c2684cfef------2)
 - [‍ HubSpot CEO Yamini Rangan Told Her Son to Study Computer Science — While Everyone Said Coding…](https://tomaszs2.medium.com/hubspot-ceo-yamini-rangan-told-her-son-to-study-computer-science-while-everyone-said-coding-0401d8c5786d?source=rss-114c2684cfef------2)
 - [I Built a Tool That Removes 75% of Resume Bias — Here’s What I Found, Part 1](https://tomaszs2.medium.com/i-built-a-tool-that-removes-75-of-resume-bias-heres-what-i-found-part-1-67db5ecda278?source=rss-114c2684cfef------2)
-- [How to Anonymize Private Data Before Feeding It to AI](https://tomaszs2.medium.com/how-to-anonymize-private-data-before-feeding-it-to-ai-608f29b25a32?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
