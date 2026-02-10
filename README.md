@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Geoffrey Hinton Warned Us in 2023 — Three Years Later, He Was Right About Everything](https://tomaszs2.medium.com/geoffrey-hinton-warned-us-in-2023-three-years-later-he-was-right-about-everything-f25393161f5f?source=rss-114c2684cfef------2)
 - [AI Can Now Rent Humans — And 289,000 People Already Signed Up](https://tomaszs2.medium.com/ai-can-now-rent-humans-and-289-000-people-already-signed-up-873874403252?source=rss-114c2684cfef------2)
 - [The Labyrinthine World of AI Bottlenecks — From Atoms to Algorithms](https://tomaszs2.medium.com/the-labyrinthine-world-of-ai-bottlenecks-from-atoms-to-algorithms-d14e86074e79?source=rss-114c2684cfef------2)
 - [️ Anthropic’s $20K AI Compiler Can Handle Doom. Can It Handle Anything Else?](https://tomaszs2.medium.com/%EF%B8%8F-anthropics-20k-ai-compiler-can-handle-doom-can-it-handle-anything-else-cfa9081cff5e?source=rss-114c2684cfef------2)
-- [‍ HubSpot CEO Yamini Rangan Told Her Son to Study Computer Science — While Everyone Said Coding…](https://tomaszs2.medium.com/hubspot-ceo-yamini-rangan-told-her-son-to-study-computer-science-while-everyone-said-coding-0401d8c5786d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
