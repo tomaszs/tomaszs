@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programmers Don’t Trust AI — Survey Reveals 48% Think AI Code Is Incorrect](https://tomaszs2.medium.com/programmers-dont-trust-ai-survey-reveals-48-think-ai-code-is-incorrect-3f348e9c719f?source=rss-114c2684cfef------2)
 - [AI Recruitment Systems Are Biased — Weak Proof with 8.2% Rating Variations](https://tomaszs2.medium.com/ai-recruitment-systems-are-biased-weak-proof-with-8-2-rating-variations-b20148c962a1?source=rss-114c2684cfef------2)
 - [Geoffrey Hinton Warned Us in 2023 — Three Years Later, He Was Right About Everything](https://tomaszs2.medium.com/geoffrey-hinton-warned-us-in-2023-three-years-later-he-was-right-about-everything-f25393161f5f?source=rss-114c2684cfef------2)
 - [AI Can Now Rent Humans — And 289,000 People Already Signed Up](https://tomaszs2.medium.com/ai-can-now-rent-humans-and-289-000-people-already-signed-up-873874403252?source=rss-114c2684cfef------2)
-- [The Labyrinthine World of AI Bottlenecks — From Atoms to Algorithms](https://tomaszs2.medium.com/the-labyrinthine-world-of-ai-bottlenecks-from-atoms-to-algorithms-d14e86074e79?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
