@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Cut AI Coding Costs by 29% With One Simple Trick Part 1](https://tomaszs2.medium.com/how-i-cut-ai-coding-costs-by-29-with-one-simple-trick-part-1-be30a1ad2ba5?source=rss-114c2684cfef------2)
 - [An OpenClaw Bot Harassed a Matplotlib Maintainer After Its Pull Request Got Rejected](https://tomaszs2.medium.com/an-openclaw-bot-harassed-a-matplotlib-maintainer-after-its-pull-request-got-rejected-6ef28a2fb270?source=rss-114c2684cfef------2)
 - [LLM Generated 1,000 CRUD Worlds To Train… LLM](https://tomaszs2.medium.com/llm-generated-1-000-crud-worlds-to-train-llm-2c603e93997f?source=rss-114c2684cfef------2)
 - [Programmers Don’t Trust AI — Survey Reveals 48% Think AI Code Is Incorrect](https://tomaszs2.medium.com/programmers-dont-trust-ai-survey-reveals-48-think-ai-code-is-incorrect-3f348e9c719f?source=rss-114c2684cfef------2)
-- [AI Recruitment Systems Are Biased — Weak Proof with 8.2% Rating Variations](https://tomaszs2.medium.com/ai-recruitment-systems-are-biased-weak-proof-with-8-2-rating-variations-b20148c962a1?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
