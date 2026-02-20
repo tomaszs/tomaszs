@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Does OpenClaw Work? Inside the Agent Loop That Powers 200,000+ GitHub Stars](https://tomaszs2.medium.com/how-does-openclaw-work-inside-the-agent-loop-that-powers-200-000-github-stars-e61db2bbfcbb?source=rss-114c2684cfef------2)
 - [Agentic Engineering Gives Your Startup Superpowers; Here’s How to Turn Them Into a Competitive…](https://tomaszs2.medium.com/agentic-engineering-gives-your-startup-superpowers-heres-how-to-turn-them-into-a-competitive-b51a11cca78d?source=rss-114c2684cfef------2)
 - [OpenClaw Has 3,513 Open Pull Requests, Is It Swamped](https://tomaszs2.medium.com/openclaw-has-3-513-open-pull-requests-is-it-swamped-7d6701e057bc?source=rss-114c2684cfef------2)
 - [Google Code Wiki Automates Developers’ Most Thankless Task — Docs That Update Themselves](https://tomaszs2.medium.com/google-code-wiki-automates-developers-most-thankless-task-docs-that-update-themselves-b9d65fdadeeb?source=rss-114c2684cfef------2)
-- [How I Cut AI Coding Costs by 29% With One Simple Trick Part 1](https://tomaszs2.medium.com/how-i-cut-ai-coding-costs-by-29-with-one-simple-trick-part-1-be30a1ad2ba5?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
