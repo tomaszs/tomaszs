@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Boris Cherny Right Coding Is Solved? And Does He Mean Typing?](https://tomaszs2.medium.com/is-boris-cherny-right-coding-is-solved-and-does-he-mean-typing-bfe2f68afc6a?source=rss-114c2684cfef------2)
 - [A Coder Made a Shooter in 65 KB; Doom Was 700 KB Without Assets](https://tomaszs2.medium.com/a-coder-made-a-shooter-in-65-kb-doom-was-700-kb-without-assets-0dc5726e8fef?source=rss-114c2684cfef------2)
 - [‍☠️ Wikipedia Considers Banning Archive.Today, a Site Accused of Piracy](https://tomaszs2.medium.com/%EF%B8%8F-wikipedia-considers-banning-archive-today-a-site-accused-of-piracy-9e1939ac664d?source=rss-114c2684cfef------2)
 - [Godot Maintainers Are Drowning in AI Slop PRs; Here Is What the Data Actually Shows](https://tomaszs2.medium.com/godot-maintainers-are-drowning-in-ai-slop-prs-here-is-what-the-data-actually-shows-1c9aed0ca71d?source=rss-114c2684cfef------2)
-- [How Does OpenClaw Work? Inside the Agent Loop That Powers 200,000+ GitHub Stars](https://tomaszs2.medium.com/how-does-openclaw-work-inside-the-agent-loop-that-powers-200-000-github-stars-e61db2bbfcbb?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
