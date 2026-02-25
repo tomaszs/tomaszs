@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Traced Every Token in OpenClaw and Cut My Bill by 90%](https://tomaszs2.medium.com/i-traced-every-token-in-openclaw-and-cut-my-bill-by-90-6c33e4b255f6?source=rss-114c2684cfef------2)
 - [Is Boris Cherny Right Coding Is Solved? And Does He Mean Typing?](https://tomaszs2.medium.com/is-boris-cherny-right-coding-is-solved-and-does-he-mean-typing-bfe2f68afc6a?source=rss-114c2684cfef------2)
 - [A Coder Made a Shooter in 65 KB; Doom Was 700 KB Without Assets](https://tomaszs2.medium.com/a-coder-made-a-shooter-in-65-kb-doom-was-700-kb-without-assets-0dc5726e8fef?source=rss-114c2684cfef------2)
 - [‍☠️ Wikipedia Considers Banning Archive.Today, a Site Accused of Piracy](https://tomaszs2.medium.com/%EF%B8%8F-wikipedia-considers-banning-archive-today-a-site-accused-of-piracy-9e1939ac664d?source=rss-114c2684cfef------2)
-- [Godot Maintainers Are Drowning in AI Slop PRs; Here Is What the Data Actually Shows](https://tomaszs2.medium.com/godot-maintainers-are-drowning-in-ai-slop-prs-here-is-what-the-data-actually-shows-1c9aed0ca71d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
