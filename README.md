@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [75% of Coding Resumes Get Rejected by Robots; I Built a Tool to Prevent That](https://tomaszs2.medium.com/75-of-coding-resumes-get-rejected-by-robots-i-built-a-tool-to-prevent-that-80f139d46771?source=rss-114c2684cfef------2)
 - [I Spent 800K Tokens Building an App; Here’s Where AI Failed Me](https://tomaszs2.medium.com/i-spent-800k-tokens-building-an-app-heres-where-ai-failed-me-b0cea729ff32?source=rss-114c2684cfef------2)
 - [️ She Built an Entire x86 CPU Emulator in Pure CSS; No JavaScript, No AI, Just Sisu](https://tomaszs2.medium.com/%EF%B8%8F-she-built-an-entire-x86-cpu-emulator-in-pure-css-no-javascript-no-ai-just-sisu-d158f8a82475?source=rss-114c2684cfef------2)
 - [I Traced Every Token in OpenClaw and Cut My Bill by 90%](https://tomaszs2.medium.com/i-traced-every-token-in-openclaw-and-cut-my-bill-by-90-6c33e4b255f6?source=rss-114c2684cfef------2)
-- [Is Boris Cherny Right Coding Is Solved? And Does He Mean Typing?](https://tomaszs2.medium.com/is-boris-cherny-right-coding-is-solved-and-does-he-mean-typing-bfe2f68afc6a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
