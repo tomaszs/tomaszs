@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Read Anthropic’s “AI Will Replace Your Job” Paper So You Don’t Have To; Here’s What It…](https://tomaszs2.medium.com/i-read-anthropics-ai-will-replace-your-job-paper-so-you-don-t-have-to-here-s-what-it-15aa15c5e56d?source=rss-114c2684cfef------2)
 - [I Tested 5 Resumes Against Sim ATS: Here’s What Actually Improved Fit by 28 Points](https://tomaszs2.medium.com/i-tested-5-resumes-against-sim-ats-heres-what-actually-improved-fit-by-28-points-8e585ccf00be?source=rss-114c2684cfef------2)
 - [Rust 1.94: Pattern Matching on Sliding Windows, Multi-Line Tables, and the Golden Ratio](https://tomaszs2.medium.com/rust-1-94-pattern-matching-on-sliding-windows-multi-line-tables-and-the-golden-ratio-68f8623609f3?source=rss-114c2684cfef------2)
 - [California’s New Law Will Broadcast Your Child’s Age to Every App on Their Phone](https://tomaszs2.medium.com/californias-new-law-will-broadcast-your-child-s-age-to-every-app-on-their-phone-a5f1202e140e?source=rss-114c2684cfef------2)
-- [How I Use AI as a Judge Inside E2E Tests; and Why You Should Too](https://tomaszs2.medium.com/how-i-use-ai-as-a-judge-inside-e2e-tests-and-why-you-should-too-e6018156aae3?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
