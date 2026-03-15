@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Engineering Workflow: I Built a Code-Writing Machine and Here’s What I Learned](https://tomaszs2.medium.com/agentic-engineering-workflow-i-built-a-code-writing-machine-and-heres-what-i-learned-ddd438343b57?source=rss-114c2684cfef------2)
 - [The Open Letter To Google. Where We Will Go? To Apple?](https://tomaszs2.medium.com/the-open-letter-to-google-where-we-will-go-to-apple-548b1c5c74a2?source=rss-114c2684cfef------2)
 - [Angular 22 Signal Debouncing Will Change How You Build Forms](https://tomaszs2.medium.com/angular-22-signal-debouncing-will-change-how-you-build-forms-e218604e51a2?source=rss-114c2684cfef------2)
 - [10% of Firefox Crashes Aren’t Software Bugs — They’re Cosmic Rays Flipping Bits in Your RAM](https://tomaszs2.medium.com/10-of-firefox-crashes-arent-software-bugs-they-re-cosmic-rays-flipping-bits-in-your-ram-05d0a3bacf79?source=rss-114c2684cfef------2)
-- [I Read Anthropic’s “AI Will Replace Your Job” Paper So You Don’t Have To; Here’s What It…](https://tomaszs2.medium.com/i-read-anthropics-ai-will-replace-your-job-paper-so-you-don-t-have-to-here-s-what-it-15aa15c5e56d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
