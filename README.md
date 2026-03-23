@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⚖️ How To Regulate Artificial Intelligence vs Copyrights](https://tomaszs2.medium.com/%EF%B8%8F-how-to-regulate-artificial-intelligence-vs-copyrights-abcac444219d?source=rss-114c2684cfef------2)
 - [I Got a $40 Parking Fine, So I’m Building an App That Fixes It](https://tomaszs2.medium.com/i-got-a-40-parking-fine-so-im-building-an-app-that-fixes-it-cde7ed0ae518?source=rss-114c2684cfef------2)
 - [Lawsuits, 70% Traffic Drops, and Verbatim Copying: How Publishers React To Google AI Overview](https://tomaszs2.medium.com/lawsuits-70-traffic-drops-and-verbatim-copying-how-publishers-react-to-google-ai-overview-df4eeb31c438?source=rss-114c2684cfef------2)
 - [How Is It To Be A Tech Writer In 2026](https://tomaszs2.medium.com/how-is-it-to-be-a-tech-writer-in-2026-bd661e9b2eac?source=rss-114c2684cfef------2)
-- [Today I Didn’t Write An Article](https://tomaszs2.medium.com/today-i-didnt-write-an-article-6c63d46bf5d6?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
