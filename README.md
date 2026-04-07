@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programmers Build Own Setups To Avoid Raising AI Costs](https://tomaszs2.medium.com/programmers-build-own-setups-to-avoid-raising-ai-costs-9af203321183?source=rss-114c2684cfef------2)
 - [The Framework with Fewer AI Tokens May Still Cost You More](https://tomaszs2.medium.com/the-framework-with-fewer-ai-tokens-may-still-cost-you-more-b04ed91619d8?source=rss-114c2684cfef------2)
 - [Authors Are Disappointed In Medium Approach To Scraping Paywalled Articles](https://tomaszs2.medium.com/authors-are-disappointed-in-medium-approach-to-scraping-paywalled-articles-ffc4e40fc9ef?source=rss-114c2684cfef------2)
 - [Google AI Overview Picked Up My Article, and Now It’s Digging Its Own Grave](https://tomaszs2.medium.com/google-ai-overview-picked-up-my-article-and-now-its-digging-its-own-grave-97ecf6c7232d?source=rss-114c2684cfef------2)
-- [⚖️ How To Regulate Artificial Intelligence vs Copyrights](https://tomaszs2.medium.com/%EF%B8%8F-how-to-regulate-artificial-intelligence-vs-copyrights-abcac444219d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
