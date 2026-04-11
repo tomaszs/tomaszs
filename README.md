@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Laurie Wired Improved DRAM Latency By Up To 1000 Times](https://tomaszs2.medium.com/laurie-wired-improved-dram-latency-by-up-to-1000-times-99a7ac256915?source=rss-114c2684cfef------2)
 - [How I Protect My Content From AI Scrapists](https://tomaszs2.medium.com/how-i-protect-my-content-from-ai-scrapists-91a07b20477f?source=rss-114c2684cfef------2)
 - [Is Anthropic Dumbing Down Its Models?](https://tomaszs2.medium.com/is-anthropic-dumbing-down-its-models-12e46908bc66?source=rss-114c2684cfef------2)
 - [Programmers Build Own Setups To Avoid Raising AI Costs](https://tomaszs2.medium.com/programmers-build-own-setups-to-avoid-raising-ai-costs-9af203321183?source=rss-114c2684cfef------2)
-- [The Framework with Fewer AI Tokens May Still Cost You More](https://tomaszs2.medium.com/the-framework-with-fewer-ai-tokens-may-still-cost-you-more-b04ed91619d8?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
