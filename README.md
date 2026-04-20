@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Took a Friend’s Coding Resume From 58% Fit to 82% Without Changing a Single Fact](https://tomaszs2.medium.com/i-took-a-friends-coding-resume-from-58-fit-to-82-without-changing-a-single-fact-55b4154eb265?source=rss-114c2684cfef------2)
 - [☕ Three Barcelona Coworking Spaces Worth Working From](https://tomaszs2.medium.com/three-barcelona-coworking-spaces-worth-working-from-d161b0360f05?source=rss-114c2684cfef------2)
 - [An Account Lock Almost Cost My Agency $50,000 in Stock Licences](https://tomaszs2.medium.com/an-account-lock-almost-cost-my-agency-50-000-in-stock-licences-bdad92c31f7f?source=rss-114c2684cfef------2)
 - [I Reviewed 10 AI Skills for UI Design and They All Ask AI To Not Be an AI](https://tomaszs2.medium.com/i-reviewed-10-ai-skills-for-ui-design-and-they-all-ask-ai-to-not-be-an-ai-3c152b32840a?source=rss-114c2684cfef------2)
-- [⚡ Laurie Wired Improved DRAM Latency By Up To 1000 Times](https://tomaszs2.medium.com/laurie-wired-improved-dram-latency-by-up-to-1000-times-99a7ac256915?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
