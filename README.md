@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 22 Simplifies Services; Say Goodbye to @Injectable&lpar;&rpar; Boilerplate](https://tomaszs2.medium.com/angular-22-simplifies-services-say-goodbye-to-injectable-boilerplate-ac018a679d5e?source=rss-114c2684cfef------2)
 - [Save Up to $6,000 Per Month on AI; I Tested 20+ Models to Find the One That Works](https://tomaszs2.medium.com/save-up-to-6-000-per-month-on-ai-i-tested-20-models-to-find-the-one-that-works-3d67cec7d4a0?source=rss-114c2684cfef------2)
 - [All We Know About Vercel’s 2 Million Dollar Leak; An OAuth Token Gone Wrong](https://tomaszs2.medium.com/all-we-know-about-vercels-2-million-dollar-leak-an-oauth-token-gone-wrong-757a63856f05?source=rss-114c2684cfef------2)
 - [I Published a Book on Amazon KDP; Here’s How Much I Actually Earned](https://tomaszs2.medium.com/i-published-a-book-on-amazon-kdp-heres-how-much-i-actually-earned-d20cbafa5817?source=rss-114c2684cfef------2)
-- [I Took a Friend’s Coding Resume From 58% Fit to 82% Without Changing a Single Fact](https://tomaszs2.medium.com/i-took-a-friends-coding-resume-from-58-fit-to-82-without-changing-a-single-fact-55b4154eb265?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
