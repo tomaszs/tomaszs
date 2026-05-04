@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nobody Anticipated This: GitHub Can Lock You Out of Your Entire Business Overnight](https://tomaszs2.medium.com/nobody-anticipated-this-github-can-lock-you-out-of-your-entire-business-overnight-49910e4f5deb?source=rss-114c2684cfef------2)
 - [Railway Production Wipeout: How an AI Agent Found a Token and Deleted Everything](https://tomaszs2.medium.com/railway-production-wipeout-how-an-ai-agent-found-a-token-and-deleted-everything-5a8ef87cd200?source=rss-114c2684cfef------2)
 - [Angular 22 Simplifies Services; Say Goodbye to @Injectable&lpar;&rpar; Boilerplate](https://tomaszs2.medium.com/angular-22-simplifies-services-say-goodbye-to-injectable-boilerplate-ac018a679d5e?source=rss-114c2684cfef------2)
 - [Save Up to $6,000 Per Month on AI; I Tested 20+ Models to Find the One That Works](https://tomaszs2.medium.com/save-up-to-6-000-per-month-on-ai-i-tested-20-models-to-find-the-one-that-works-3d67cec7d4a0?source=rss-114c2684cfef------2)
-- [All We Know About Vercel’s 2 Million Dollar Leak; An OAuth Token Gone Wrong](https://tomaszs2.medium.com/all-we-know-about-vercels-2-million-dollar-leak-an-oauth-token-gone-wrong-757a63856f05?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
