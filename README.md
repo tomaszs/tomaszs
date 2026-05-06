@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Aider Can Lower Your AI Bills From $5 to $0.17 Per Request](https://tomaszs2.medium.com/how-aider-can-lower-your-ai-bills-from-5-to-0-17-per-request-467598f68b15?source=rss-114c2684cfef------2)
 - [Need AI Model? Chrome Downloaded It For You Already](https://tomaszs2.medium.com/need-ai-model-chrome-downloaded-it-for-you-already-03b73a4cefa7?source=rss-114c2684cfef------2)
 - [AI Coding Bills Hit $900/Month; Suddenly Hiring Humans Looks Cheap](https://tomaszs2.medium.com/ai-coding-bills-hit-900-month-suddenly-hiring-humans-looks-cheap-c3a0efff979e?source=rss-114c2684cfef------2)
 - [Nobody Anticipated This: GitHub Can Lock You Out of Your Entire Business Overnight](https://tomaszs2.medium.com/nobody-anticipated-this-github-can-lock-you-out-of-your-entire-business-overnight-49910e4f5deb?source=rss-114c2684cfef------2)
-- [Railway Production Wipeout: How an AI Agent Found a Token and Deleted Everything](https://tomaszs2.medium.com/railway-production-wipeout-how-an-ai-agent-found-a-token-and-deleted-everything-5a8ef87cd200?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
