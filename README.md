@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is It True Anthropic Mythos Found 271 Vulnerabilities In Firefox?](https://tomaszs2.medium.com/is-it-true-anthropic-mythos-found-271-vulnerabilities-in-firefox-b058e29f5149?source=rss-114c2684cfef------2)
 - [10 Methods To Save Money On Agentic Engineering — From $5 to $0.17 Per Request](https://tomaszs2.medium.com/10-methods-to-save-money-on-agentic-engineering-from-5-to-0-17-per-request-b0b9f6a0216c?source=rss-114c2684cfef------2)
 - [How Aider Can Lower Your AI Bills From $5 to $0.17 Per Request](https://tomaszs2.medium.com/how-aider-can-lower-your-ai-bills-from-5-to-0-17-per-request-467598f68b15?source=rss-114c2684cfef------2)
 - [Need AI Model? Chrome Downloaded It For You Already](https://tomaszs2.medium.com/need-ai-model-chrome-downloaded-it-for-you-already-03b73a4cefa7?source=rss-114c2684cfef------2)
-- [AI Coding Bills Hit $900/Month; Suddenly Hiring Humans Looks Cheap](https://tomaszs2.medium.com/ai-coding-bills-hit-900-month-suddenly-hiring-humans-looks-cheap-c3a0efff979e?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
