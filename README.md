@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Is the Bambu Lab Controversy Made Up? The Open Source Drama Explained](https://tomaszs2.medium.com/%EF%B8%8F-is-the-bambu-lab-controversy-made-up-the-open-source-drama-explained-c8a7695cc8b3?source=rss-114c2684cfef------2)
 - [️ Angular 22 Will Come With InjectAsync Helper](https://tomaszs2.medium.com/%EF%B8%8F-angular-22-will-come-with-injectasync-helper-658391ab832a?source=rss-114c2684cfef------2)
 - [Why Everyone Is Afraid Of SubQ](https://tomaszs2.medium.com/why-everyone-is-afraid-of-subq-ddb7599ffa56?source=rss-114c2684cfef------2)
 - [Is It True Anthropic Mythos Found 271 Vulnerabilities In Firefox?](https://tomaszs2.medium.com/is-it-true-anthropic-mythos-found-271-vulnerabilities-in-firefox-b058e29f5149?source=rss-114c2684cfef------2)
-- [10 Methods To Save Money On Agentic Engineering — From $5 to $0.17 Per Request](https://tomaszs2.medium.com/10-methods-to-save-money-on-agentic-engineering-from-5-to-0-17-per-request-b0b9f6a0216c?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
