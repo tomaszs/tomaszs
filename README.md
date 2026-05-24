@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [‍☠️ We Shouldn’t Follow Any Google Advice Regarding the Open Web in 2026](https://tomaszs2.medium.com/%EF%B8%8F-we-shouldnt-follow-any-google-advice-regarding-the-open-web-in-2026-b628b7ba4c33?source=rss-114c2684cfef------2)
 - [I Built A Retro Design System With AI. Here’s What Shocked Me About Textures](https://tomaszs2.medium.com/i-built-a-retro-design-system-with-ai-heres-what-shocked-me-about-textures-c49fd13f5dd9?source=rss-114c2684cfef------2)
 - [The 3 Prompts That Changed How I Ship Code &lpar;After 15 Years of Engineering&rpar;](https://tomaszs2.medium.com/the-3-prompts-that-changed-how-i-ship-code-after-15-years-of-engineering-3410785d92f4?source=rss-114c2684cfef------2)
 - [️ Is the Bambu Lab Controversy Made Up? The Open Source Drama Explained](https://tomaszs2.medium.com/%EF%B8%8F-is-the-bambu-lab-controversy-made-up-the-open-source-drama-explained-c8a7695cc8b3?source=rss-114c2684cfef------2)
-- [️ Angular 22 Will Come With InjectAsync Helper](https://tomaszs2.medium.com/%EF%B8%8F-angular-22-will-come-with-injectasync-helper-658391ab832a?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
