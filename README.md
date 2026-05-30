@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Popular Pages for Cognitive Accessibility: Jira, Duolingo, Headspace, and HubSpot](https://tomaszs2.medium.com/analyzing-popular-pages-for-cognitive-accessibility-jira-duolingo-headspace-and-hubspot-292c9a62dfb6?source=rss-114c2684cfef------2)
 - [Cognitive Accessibility: Why Your Website Works For You But Fails For Everyone Else](https://tomaszs2.medium.com/cognitive-accessibility-why-your-website-works-for-you-but-fails-for-everyone-else-8a90a4a78f3c?source=rss-114c2684cfef------2)
 - [Dart 3.12: Google Finally Fixed a Bug That Should Have Never Existed](https://tomaszs2.medium.com/dart-3-12-google-finally-fixed-a-bug-that-should-have-never-existed-348e1031f18d?source=rss-114c2684cfef------2)
 - [C# 15 Finally Gets It Right: Two Features That Actually Matter](https://tomaszs2.medium.com/c-15-finally-gets-it-right-two-features-that-actually-matter-b137d4bc88e4?source=rss-114c2684cfef------2)
-- [‍☠️ We Shouldn’t Follow Any Google Advice Regarding the Open Web in 2026](https://tomaszs2.medium.com/%EF%B8%8F-we-shouldnt-follow-any-google-advice-regarding-the-open-web-in-2026-b628b7ba4c33?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
