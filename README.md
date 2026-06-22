@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s New In OCaml 5.5.0](https://tomaszs2.medium.com/whats-new-in-ocaml-5-5-0-59b54aae8be9?source=rss-114c2684cfef------2)
 - [UX Decisions I Made Creating a Tech Trainings Page in 3 Days](https://tomaszs2.medium.com/ux-decisions-i-made-creating-a-tech-trainings-page-in-3-days-cccff1cb48ee?source=rss-114c2684cfef------2)
 - [Mythos Fable May Be The Worst AI For Coding And It Got Banned By USA](https://tomaszs2.medium.com/mythos-fable-may-be-the-worst-ai-for-coding-and-it-got-banned-by-usa-fa71a53bc6e2?source=rss-114c2684cfef------2)
 - [r/programming Bans AI and LLM Topics; The Community Has Spoken](https://tomaszs2.medium.com/r-programming-bans-ai-and-llm-topics-the-community-has-spoken-82d068a34e09?source=rss-114c2684cfef------2)
-- [Medium Will Pay Editors To Improve Articles For Google Scraping System And Members](https://tomaszs2.medium.com/medium-will-pay-editors-to-improve-articles-for-google-scraping-system-and-members-1a4ad9b1300d?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
