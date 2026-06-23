@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [⚡ What’s New In TypeScript 7.0 RC](https://javascript.plainenglish.io/whats-new-in-typescript-7-0-rc-b6ffecbfa3f2?source=rss-114c2684cfef------2)
 - [What’s New In OCaml 5.5.0](https://itnext.io/whats-new-in-ocaml-5-5-0-59b54aae8be9?source=rss-114c2684cfef------2)
-- [UX Decisions I Made Creating a Tech Trainings Page in 3 Days](https://uxdesign.cc/ux-decisions-i-made-creating-a-tech-trainings-page-in-3-days-cccff1cb48ee?source=rss-114c2684cfef------2)
+- [UX Decisions I Made Creating a Tech Trainings Page in 3 Days](https://tomaszs2.medium.com/ux-decisions-i-made-creating-a-tech-trainings-page-in-3-days-cccff1cb48ee?source=rss-114c2684cfef------2)
 - [Mythos Fable May Be The Worst AI For Coding And It Got Banned By USA](https://towardsdev.com/mythos-fable-may-be-the-worst-ai-for-coding-and-it-got-banned-by-usa-fa71a53bc6e2?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
