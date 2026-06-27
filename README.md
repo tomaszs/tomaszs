@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Will Stop Killing Games Kill Games?](https://tomaszs2.medium.com/will-stop-killing-games-kill-games-6d699213affd?source=rss-114c2684cfef------2)
 - [Why AI Is Incapable Of Moral Choices And Many More](https://tomaszs2.medium.com/why-ai-is-incapable-of-moral-choices-and-many-more-f2c3e91f872f?source=rss-114c2684cfef------2)
 - [⚡ What’s New In TypeScript 7.0 RC](https://javascript.plainenglish.io/whats-new-in-typescript-7-0-rc-b6ffecbfa3f2?source=rss-114c2684cfef------2)
 - [What’s New In OCaml 5.5.0](https://tomaszs2.medium.com/whats-new-in-ocaml-5-5-0-59b54aae8be9?source=rss-114c2684cfef------2)
-- [UX Decisions I Made Creating a Tech Trainings Page in 3 Days](https://medium.com/design-bootcamp/ux-decisions-i-made-creating-a-tech-trainings-page-in-3-days-cccff1cb48ee?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
