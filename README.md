@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Fall 2026 YCombinator Call Means For Startups](https://tomaszs2.medium.com/what-fall-2026-ycombinator-call-means-for-startups-c291d97da4f3?source=rss-114c2684cfef------2)
 - [You May Be Losing 27% of Your Revenue; I Built a Color Palette Algorithm to Fix That](https://tomaszs2.medium.com/you-may-be-losing-27-of-your-revenue-i-built-a-color-palette-algorithm-to-fix-that-18158efbac56?source=rss-114c2684cfef------2)
 - [⚙️ Automating Zero To Production Architecture](https://tomaszs2.medium.com/%EF%B8%8F-automating-zero-to-production-architecture-37eac9546299?source=rss-114c2684cfef------2)
 - [Redesigning Instagram Login Page, Part 1; 21 Issues I Found and How to Fix Them](https://tomaszs2.medium.com/redesigning-instagram-login-page-part-1-21-issues-i-found-and-how-to-fix-them-f120c531db47?source=rss-114c2684cfef------2)
-- [Will Stop Killing Games Kill Games?](https://tomaszs2.medium.com/will-stop-killing-games-kill-games-6d699213affd?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
