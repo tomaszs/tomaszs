@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve Released AI and Software Engineering Flashcards](https://tomaszs2.medium.com/ive-released-ai-and-software-engineering-flashcards-ccc627865c61?source=rss-114c2684cfef------2)
 - [How To Prepare Your Resume To Win A Job Offer With Resume Hedgehog](https://tomaszs2.medium.com/how-to-prepare-your-resume-to-win-a-job-offer-with-resume-hedgehog-a76542f7ffb7?source=rss-114c2684cfef------2)
 - [What Fall 2026 YCombinator Call Means For Startups](https://tomaszs2.medium.com/what-fall-2026-ycombinator-call-means-for-startups-c291d97da4f3?source=rss-114c2684cfef------2)
 - [You May Be Losing 27% of Your Revenue; I Built a Color Palette Algorithm to Fix That](https://tomaszs2.medium.com/you-may-be-losing-27-of-your-revenue-i-built-a-color-palette-algorithm-to-fix-that-18158efbac56?source=rss-114c2684cfef------2)
-- [⚙️ Automating Zero To Production Architecture](https://tomaszs2.medium.com/%EF%B8%8F-automating-zero-to-production-architecture-37eac9546299?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
