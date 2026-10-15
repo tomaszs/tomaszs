@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Engineering partner for founders and CTOs</strong><br/>
-  Full-stack product engineer · Angular & TypeScript · AI-powered SaaS · UX-minded delivery
+  Frontend and full-stack engineer · Angular & TypeScript · APIs, data, and AI-powered products · UX-minded delivery
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### About
 
-I help founders and engineering leaders ship software that scales: clear scope, solid frontends, APIs and data that hold up under growth, and product judgment when requirements are fuzzy. Nearly two decades across remote teams in the US and Europe, including merchant-facing work at **Printify** and product, compliance, and collaboration tooling at **Croissant**.
+I help founders and engineering leaders ship software that scales: strong **frontend** craft (design systems, accessibility, performance), **full-stack** delivery (APIs, data, infra), and product judgment when requirements are fuzzy. Nearly two decades across remote teams in the US and Europe, including merchant-facing work at **Printify** and product, compliance, and collaboration tooling at **Croissant**.
 
 Today I combine client partnerships with products I own end to end. If you are hiring for **Staff / Founding Engineer / technical partner** roles, start with my [case studies and writing](https://tomasz-smykowski.com/blog).
 
@@ -24,8 +24,8 @@ Today I combine client partnerships with products I own end to end. If you are h
 | Product | What it does |
 | --- | --- |
 | [**Observinio**](https://observinio.com) | Regional AI API latency monitoring and email alerts (OpenRouter, OpenAI, 21 regions). |
-| [**Resume Hedgehog**](https://www.resumehedgehog.com) | Honest, job-specific resume tailoring from one knowledge base (20 languages). |
 | [**Summon The JSON**](https://summonthejson.com) | Developer education commerce: flashcards, ebooks, and merch. |
+| [**PagePerson Insights**](https://pageperson.org) | Chrome extension: cognitive accessibility and UX scoring across audience lenses. |
 | [**Terms Doctor**](https://termsdoctor.com) | Chrome extension: Terms of Service checks and grades, privacy-first. |
 | [**Szkolenia Bydgoszcz**](https://szkoleniabydgoszcz.pl) | Corporate AI and engineering training (PL), full-stack booking site. |
 | [**Hintly**](https://github.com/tomaszs/Hintly) | In-editor intelligent code hints (open source). |
@@ -47,14 +47,20 @@ Topic hubs: [Python](https://github.com/tomaszs/python-interview-flashcards-free
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
+On [tomasz-smykowski.com/blog](https://tomasz-smykowski.com/blog):
+
+<!-- REMOVED-MEDIUM-LIST
 - [Beyond Jev: An Overview of System One and Discriminative Decision Models](https://tomaszs2.medium.com/beyond-jev-an-overview-of-system-one-and-discriminative-decision-models-33766ea78a1f?source=rss-114c2684cfef------2)
 - [Mathematicians: AI Doesn’t Help the Field. 8000+ Scientists Signed a Declaration](https://tomaszs2.medium.com/mathematicians-ai-doesnt-help-the-field-8000-scientists-signed-a-declaration-a4e1da0afee7?source=rss-114c2684cfef------2)
 - [I’ve Released AI and Software Engineering Flashcards](https://tomaszs2.medium.com/ive-released-ai-and-software-engineering-flashcards-ccc627865c61?source=rss-114c2684cfef------2)
 - [How To Prepare Your Resume To Win A Job Offer With Resume Hedgehog](https://tomaszs2.medium.com/how-to-prepare-your-resume-to-win-a-job-offer-with-resume-hedgehog-a76542f7ffb7?source=rss-114c2684cfef------2)
-<!-- BLOG-POST-LIST:END -->
+REMOVED-MEDIUM-LIST -->
 
-More on [Medium](https://medium.com/@tomaszs2) and [the blog](https://tomasz-smykowski.com/blog).
+- [UX Decisions I Made Creating a Tech Trainings Page in 3 Days](https://tomasz-smykowski.com/blog/how-ive-created-training-page-in-3-days)
+- [Analyzing Popular Pages for Cognitive Accessibility](https://tomasz-smykowski.com/blog/analysic-popular-pages-for-cognitive-accessibility)
+- [What's New In TypeScript 7.0 RC](https://tomasz-smykowski.com/blog/whats-new-in-typescript-70-rc)
+- [Scaling Global AI Systems Part 1: Inference Speed](https://tomasz-smykowski.com/blog/scaling-global-ai-systems-part-1-inference-speed)
+- [Automating Zero To Production Architecture](https://tomasz-smykowski.com/blog/automating-zero-to-production-architecture)
 
 ### Connect
 
