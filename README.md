@@ -67,6 +67,13 @@ Chrome extension: Terms of Service analysis and grading, privacy-first.</p>
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top" colspan="2">
+<a href="https://setupmatch.cloud"><img src="https://tomasz-smykowski.com/images/startups/setupmatch.png" alt="SetupMatch" width="100%" /></a>
+<p><strong><a href="https://setupmatch.cloud">SetupMatch</a></strong><br/>
+SaaS: IT fleet registry, device health, and role-based kit matching. Cloud, on-premise, or open source.</p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://pageperson.org"><img src="https://tomasz-smykowski.com/images/startups/pageperson.png" alt="PagePerson Insights" width="100%" /></a>
 <p><strong><a href="https://pageperson.org">PagePerson Insights</a></strong><br/>
