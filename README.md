@@ -49,13 +49,6 @@ Topic hubs: [Python](https://github.com/tomaszs/python-interview-flashcards-free
 
 On [tomasz-smykowski.com/blog](https://tomasz-smykowski.com/blog):
 
-<!-- REMOVED-MEDIUM-LIST
-- [Beyond Jev: An Overview of System One and Discriminative Decision Models](https://tomaszs2.medium.com/beyond-jev-an-overview-of-system-one-and-discriminative-decision-models-33766ea78a1f?source=rss-114c2684cfef------2)
-- [Mathematicians: AI Doesn’t Help the Field. 8000+ Scientists Signed a Declaration](https://tomaszs2.medium.com/mathematicians-ai-doesnt-help-the-field-8000-scientists-signed-a-declaration-a4e1da0afee7?source=rss-114c2684cfef------2)
-- [I’ve Released AI and Software Engineering Flashcards](https://tomaszs2.medium.com/ive-released-ai-and-software-engineering-flashcards-ccc627865c61?source=rss-114c2684cfef------2)
-- [How To Prepare Your Resume To Win A Job Offer With Resume Hedgehog](https://tomaszs2.medium.com/how-to-prepare-your-resume-to-win-a-job-offer-with-resume-hedgehog-a76542f7ffb7?source=rss-114c2684cfef------2)
-REMOVED-MEDIUM-LIST -->
-
 - [UX Decisions I Made Creating a Tech Trainings Page in 3 Days](https://tomasz-smykowski.com/blog/how-ive-created-training-page-in-3-days)
 - [Analyzing Popular Pages for Cognitive Accessibility](https://tomasz-smykowski.com/blog/analysic-popular-pages-for-cognitive-accessibility)
 - [What's New In TypeScript 7.0 RC](https://tomasz-smykowski.com/blog/whats-new-in-typescript-70-rc)
