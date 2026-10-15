@@ -1,8 +1,9 @@
 <h1 align="center">Tomasz Smykowski</h1>
 
 <p align="center">
-  <strong>Engineering partner for founders and CTOs</strong><br/>
-  Frontend and full-stack engineer · Angular & TypeScript · APIs, data, and AI-powered products · UX-minded delivery
+  <strong>Frontend / Full Stack Engineer</strong> · TypeScript · Angular · Vue · React<br/>
+  Consultant · Trainer · Mentor · Book author · Stripe Community Builder · Ex-Printify<br/>
+  <em>Turning friction into business growth</em>
 </p>
 
 <p align="center">
@@ -15,9 +16,18 @@
 
 ### About
 
-I help founders and engineering leaders ship software that scales: strong **frontend** craft (design systems, accessibility, performance), **full-stack** delivery (APIs, data, infra), and product judgment when requirements are fuzzy. Nearly two decades across remote teams in the US and Europe, including merchant-facing work at **Printify** and product, compliance, and collaboration tooling at **Croissant**.
+I help founders and CTOs ship software that scales: **frontend** craft (design systems, accessibility, performance), **full-stack** delivery (APIs, data, payments, infra), and product judgment when requirements are fuzzy. Nearly two decades on remote teams in the US and Europe.
 
-Today I combine client partnerships with products I own end to end. If you are hiring for **Staff / Founding Engineer / technical partner** roles, start with my [case studies and writing](https://tomasz-smykowski.com/blog).
+**Ex-Printify:** contributed to the merchant-facing rebrand and design system ahead of the Printful merger (platform serving 10M+ merchants, ~60 frontend engineers). **Croissant:** VAT compliance, team collaboration tooling, and customer-facing product ownership. **Founder:** built and scaled products used by 32,000+ businesses.
+
+I also **consult**, run **corporate trainings**, **mentor** engineers, and publish **books** on AI-assisted engineering and founder-ready technical literacy. Details, case studies, and how to work together: [tomasz-smykowski.com](https://tomasz-smykowski.com).
+
+| | |
+| --- | --- |
+| [Hire me](https://tomasz-smykowski.com/hire-me) | Staff / Founding Engineer, audits, and technical partnership |
+| [Mentoring](https://tomasz-smykowski.com/mentoring) | 1:1 for engineers growing into senior and staff roles |
+| [Books](https://tomasz-smykowski.com/books) | *Vibe Coding Bible*, *AI for Founders*, and more |
+| [Startups](https://tomasz-smykowski.com/startups) | Products I build and ship in public |
 
 ### Products I build
 
@@ -29,8 +39,6 @@ Today I combine client partnerships with products I own end to end. If you are h
 | [**Terms Doctor**](https://termsdoctor.com) | Chrome extension: Terms of Service checks and grades, privacy-first. |
 | [**Szkolenia Bydgoszcz**](https://szkoleniabydgoszcz.pl) | Corporate AI and engineering training (PL), full-stack booking site. |
 | [**Hintly**](https://github.com/tomaszs/Hintly) | In-editor intelligent code hints (open source). |
-
-More launches and experiments: [tomasz-smykowski.com/startups](https://tomasz-smykowski.com/startups).
 
 ### Open source on GitHub
 
@@ -48,7 +56,7 @@ More launches and experiments: [tomasz-smykowski.com/startups](https://tomasz-sm
 
 ### Focus areas
 
-`TypeScript` `Angular` `Node.js` `MongoDB` `PostgreSQL` `Vue` `React` `AWS` `Azure` `Vercel` `Shopify` `AI/LLM APIs` `Accessibility` `Design systems` `E2E testing`
+`TypeScript` `Angular` `Vue` `React` `Node.js` `Stripe` `MongoDB` `PostgreSQL` `AWS` `Azure` `Vercel` `Shopify` `AI/LLM APIs` `Accessibility` `Design systems` `Mentoring` `Technical training`
 
 ### Latest writing
 
