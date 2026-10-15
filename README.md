@@ -1,46 +1,73 @@
-<h1 align="center">Hi 👋, I'm Tom Smykowski</h1>
+<h1 align="center">Tomasz Smykowski</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaszs&label=Profile%20views&color=0e75b6&style=flat" alt="tomaszs" /> </p>
+<p align="center">
+  <strong>Engineering partner for founders and CTOs</strong><br/>
+  Full-stack product engineer · Angular & TypeScript · AI-powered SaaS · UX-minded delivery
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomaszs" alt="tomaszs" /></a> </p>
+<p align="center">
+  <a href="https://tomasz-smykowski.com"><img src="https://img.shields.io/badge/Website-tomasz--smykowski.com-1a1a2e?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/tomaszsmykowski2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@tomasz-smykowski.com"><img src="https://img.shields.io/badge/Email-contact%40tomasz--smykowski.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/tomaszs2" target="blank"><img src="https://img.shields.io/twitter/follow/tomaszs2?logo=twitter&style=for-the-badge" alt="tomaszs2" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Hinty](https://github.com/tomaszs/Hintly)
+### About
 
-- 👯 And also [Summon The JSON](https://summonthejson.com/)
+I help founders and engineering leaders ship software that scales: clear scope, solid frontends, APIs and data that hold up under growth, and product judgment when requirements are fuzzy. Nearly two decades across remote teams in the US and Europe, including merchant-facing work at **Printify** and product, compliance, and collaboration tooling at **Croissant**.
 
-- 🤝 I’m writing about software enginneering [on Medium](https://medium.com/@tomaszs2)
+Today I combine client partnerships with products I own end to end. If you are hiring for **Staff / Founding Engineer / technical partner** roles, start with my [case studies and writing](https://tomasz-smykowski.com/blog).
 
-- 👨‍💻 My official page is [https://tomasz-smykowski.com/](https://tomasz-smykowski.com/)
+### Products I build
 
-- 📫 You can reach me at **contact@tomasz-smykowski.com**
+| Product | What it does |
+| --- | --- |
+| [**Observinio**](https://observinio.com) | Regional AI API latency monitoring and email alerts (OpenRouter, OpenAI, 21 regions). |
+| [**Resume Hedgehog**](https://www.resumehedgehog.com) | Honest, job-specific resume tailoring from one knowledge base (20 languages). |
+| [**Summon The JSON**](https://summonthejson.com) | Developer education commerce: flashcards, ebooks, and merch. |
+| [**Terms Doctor**](https://termsdoctor.com) | Chrome extension: Terms of Service checks and grades, privacy-first. |
+| [**Szkolenia Bydgoszcz**](https://szkoleniabydgoszcz.pl) | Corporate AI and engineering training (PL), full-stack booking site. |
+| [**Hintly**](https://github.com/tomaszs/Hintly) | In-editor intelligent code hints (open source). |
 
-### Blogs posts
+More launches and experiments: [tomasz-smykowski.com/startups](https://tomasz-smykowski.com/startups).
+
+### Open source on GitHub
+
+- [**flashcards**](https://github.com/tomaszs/flashcards): 50+ free Anki decks for software and AI interviews.
+- [**webp-to-jpg**](https://github.com/tomaszs/webp-to-jpg): Pure JS WebP to JPG/PNG conversion.
+- [**Git-Branch-Cleaner**](https://github.com/tomaszs/Git-Branch-Cleaner): Interactive cleanup for local Git branches.
+- [**chatgpt-page-scroll-fix**](https://github.com/tomaszs/chatgpt-page-scroll-fix): Browser extension for PageUp/PageDown on ChatGPT-style apps.
+
+Topic hubs: [Python](https://github.com/tomaszs/python-interview-flashcards-free) · [Angular](https://github.com/tomaszs/angular-interview-flashcards-free) · [Vue](https://github.com/tomaszs/vue-interview-flashcards-free) · [AI / LLM engineering](https://github.com/tomaszs/ai-llm-engineering-interview-flashcards-free) decks and more.
+
+### Focus areas
+
+`TypeScript` `Angular` `Node.js` `MongoDB` `PostgreSQL` `Vue` `React` `AWS` `Azure` `Vercel` `Shopify` `AI/LLM APIs` `Accessibility` `Design systems` `E2E testing`
+
+### Latest writing
+
 <!-- BLOG-POST-LIST:START -->
 - [Beyond Jev: An Overview of System One and Discriminative Decision Models](https://tomaszs2.medium.com/beyond-jev-an-overview-of-system-one-and-discriminative-decision-models-33766ea78a1f?source=rss-114c2684cfef------2)
-- [Mathematicians: AI Doesn’t Help the Field. 8000+ Scientists Signed a Declaration](https://tomaszs2.medium.com/mathematicians-ai-doesnt-help-the-field-8000-scientists-signed-a-declaration-a4e1da0afee7?source=rss-114c2684cfef------2)
-- [I’ve Released AI and Software Engineering Flashcards](https://tomaszs2.medium.com/ive-released-ai-and-software-engineering-flashcards-ccc627865c61?source=rss-114c2684cfef------2)
+- [Mathematicians: AI Doesn't Help the Field. 8000+ Scientists Signed a Declaration](https://tomaszs2.medium.com/mathematicians-ai-doesnt-help-the-field-8000-scientists-signed-a-declaration-a4e1da0afee7?source=rss-114c2684cfef------2)
+- [I've Released AI and Software Engineering Flashcards](https://tomaszs2.medium.com/ive-released-ai-and-software-engineering-flashcards-ccc627865c61?source=rss-114c2684cfef------2)
 - [How To Prepare Your Resume To Win A Job Offer With Resume Hedgehog](https://tomaszs2.medium.com/how-to-prepare-your-resume-to-win-a-job-offer-with-resume-hedgehog-a76542f7ffb7?source=rss-114c2684cfef------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/tomaszs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tomaszs2" height="30" width="40" /></a>
-<a href="https://twitter.com/tomaszs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomaszs2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tomaszsmykowski2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomaszsmykowski2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tomasz-smykowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tomasz-smykowski" height="30" width="40" /></a>
-<a href="https://fb.com/tomsmyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomsmyk" height="30" width="40" /></a>
-<a href="https://instagram.com/tomaszs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomaszs2" height="30" width="40" /></a>
-<a href="https://medium.com/@tomaszs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomaszs2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNJCAg4hjHnWKUvgwuBqALw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnjcag4hjhnwkuvgwubqalw" height="30" width="40" /></a>
+More on [Medium](https://medium.com/@tomaszs2) and [the blog](https://tomasz-smykowski.com/blog).
+
+### Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/tomaszsmykowski2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-tomaszsmykowski2-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@tomaszs2" target="_blank"><img src="https://img.shields.io/badge/Medium-@tomaszs2-000000?style=flat&logo=medium" alt="Medium" /></a>
+  <a href="https://dev.to/tomaszs2" target="_blank"><img src="https://img.shields.io/badge/dev.to-tomaszs2-0A0A0A?style=flat&logo=devdotto" alt="dev.to" /></a>
+  <a href="https://stackoverflow.com/users/tomasz-smykowski" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-tomasz--smykowski-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://x.com/tomaszs2" target="_blank"><img src="https://img.shields.io/badge/X-@tomaszs2-000000?style=flat&logo=x" alt="X" /></a>
+  <a href="https://www.youtube.com/channel/UCNJCAg4hjHnWKUvgwuBqALw" target="_blank"><img src="https://img.shields.io/badge/YouTube-@tomaszs2-FF0000?style=flat&logo=youtube" alt="YouTube" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszs&show_icons=true&locale=en&layout=compact" alt="tomaszs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomaszs&show_icons=true&locale=en" alt="tomaszs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszs&" alt="tomaszs" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomaszs&show_icons=true&hide=stars&count_private=true&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszs&layout=compact&hide=html&theme=default" alt="Top languages" height="165" />
+</p>
