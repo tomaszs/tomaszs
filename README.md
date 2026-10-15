@@ -1,12 +1,18 @@
 <h1 align="center">Tomasz Smykowski</h1>
 
 <p align="center">
-  <strong>Frontend / Full Stack / Software Engineer</strong> · TypeScript · Angular · Vue · React<br/>
-  Consultant · Trainer · Mentor · Book author · Stripe Community Builder · Ex-Printify<br/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-22C55E?style=for-the-badge" alt="Open to work" />
+</p>
+
+<p align="center">
+  <strong>Senior Frontend Engineer · Full Stack Engineer · Software Engineer</strong><br/>
+  <strong>TypeScript</strong> · <strong>Angular</strong> · <strong>React</strong> · <strong>Vue.js</strong> · JavaScript · HTML · CSS · Node.js<br/>
+  Remote (US &amp; Europe) · Ex-Printify · Book author · Stripe Community Builder<br/>
   <em>Turning friction into business growth</em>
 </p>
 
 <p align="center">
+  <a href="https://tomasz-smykowski.com/hire-me"><img src="https://img.shields.io/badge/Resume_%26_portfolio-Hire_me-1a1a2e?style=for-the-badge" alt="Resume and portfolio" /></a>
   <a href="https://tomasz-smykowski.com"><img src="https://img.shields.io/badge/Website-tomasz--smykowski.com-1a1a2e?style=for-the-badge" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/tomaszsmykowski2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contact@tomasz-smykowski.com"><img src="https://img.shields.io/badge/Email-contact%40tomasz--smykowski.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,13 +20,21 @@
 
 ---
 
+### Open to work
+
+I am **actively looking for a new role** as a **Frontend Developer**, **Frontend Engineer**, **Full Stack Developer**, **Full Stack Engineer**, or **Software Engineer** (senior, staff, or founding engineer scope). Open to **remote** and distributed teams in **Europe** and the **United States**.
+
+**What I bring:** production **Angular**, **React**, and **Vue** applications; **TypeScript** and modern **JavaScript**; **design systems** and **component libraries**; **accessibility (WCAG)** and **web performance**; **REST APIs**, **MongoDB**, **PostgreSQL**, **Stripe**, and **SaaS** delivery end to end.
+
+**Fast links for recruiters:** [resume and hire-me page](https://tomasz-smykowski.com/hire-me) · [PDF resume](https://tomasz-smykowski.com/resume/Tom-Smykowski-Founding-Engineer-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/tomaszsmykowski2/) · **contact@tomasz-smykowski.com**
+
 ### About
 
-**Open to roles as a Frontend Engineer, Full Stack Engineer, or Software Engineer** (staff-level scope, founding engineer, or high-impact IC). I ship production UIs and the APIs, data, and integrations behind them: design systems, accessibility, performance, Stripe and SaaS patterns, and clear trade-offs under pressure.
+I ship hireable frontend and full-stack work: UI engineering, state management, testing, CI/CD, and the backend and data layers when the product needs it. Nearly two decades on remote teams in the US and Europe.
 
-Nearly two decades on remote teams in the US and Europe. **Ex-Printify:** merchant rebrand and design system ahead of the Printful merger (10M+ merchants, ~60 frontend engineers). **Croissant:** compliance, collaboration tooling, end-to-end product delivery. **Founder:** products adopted by 32,000+ businesses.
+**Ex-Printify:** **frontend engineering** on the merchant rebrand and **design system** ahead of the Printful merger (10M+ merchants, ~60 frontend engineers). **Croissant:** compliance, collaboration tooling, end-to-end product delivery. **Founder:** products adopted by 32,000+ businesses.
 
-I also consult, train teams, mentor engineers, and write books. Portfolio, case studies, and resume: [tomasz-smykowski.com/hire-me](https://tomasz-smykowski.com/hire-me).
+I also consult, train teams, mentor engineers, and publish technical books (including enterprise **Angular** architecture). Case studies and blog: [tomasz-smykowski.com](https://tomasz-smykowski.com).
 
 | | |
 | --- | --- |
@@ -101,9 +115,15 @@ Shopify storefront and content engine for developer education.</p>
 
 Interview prep decks (Angular, TypeScript, system design, AI/LLM): [**flashcards**](https://github.com/tomaszs/flashcards) hub with 50+ free Anki decks.
 
-### Focus areas
+### Keywords (roles & stack)
 
-`Frontend engineering` `Full stack` `TypeScript` `Angular` `Vue` `React` `Node.js` `Stripe` `MongoDB` `PostgreSQL` `Accessibility` `Design systems` `Web performance` `E2E testing`
+**Roles:** Frontend Developer · Frontend Engineer · Senior Frontend Engineer · Full Stack Developer · Full Stack Engineer · Software Engineer · Staff Engineer · Founding Engineer · UI Engineer · Web Developer
+
+**Frontend:** Angular · React · Vue.js · TypeScript · JavaScript · HTML5 · CSS3 · SCSS · Tailwind CSS · RxJS · NgRx · component-driven UI · responsive design · design systems · Storybook
+
+**Full stack & platform:** Node.js · Express · REST APIs · MongoDB · PostgreSQL · Stripe · Vercel · AWS · Azure · Shopify · Git · GitHub Actions · Jest · Cypress · Playwright · E2E testing
+
+**Strengths:** accessibility · WCAG · web performance · Core Web Vitals · SaaS · B2B · remote collaboration · technical mentoring
 
 ### Latest writing
 
