@@ -1,7 +1,7 @@
 <h1 align="center">Tomasz Smykowski</h1>
 
 <p align="center">
-  <strong>Frontend / Full Stack Engineer</strong> · TypeScript · Angular · Vue · React<br/>
+  <strong>Frontend / Full Stack / Software Engineer</strong> · TypeScript · Angular · Vue · React<br/>
   Consultant · Trainer · Mentor · Book author · Stripe Community Builder · Ex-Printify<br/>
   <em>Turning friction into business growth</em>
 </p>
@@ -16,47 +16,76 @@
 
 ### About
 
-I help founders and CTOs ship software that scales: **frontend** craft (design systems, accessibility, performance), **full-stack** delivery (APIs, data, payments, infra), and product judgment when requirements are fuzzy. Nearly two decades on remote teams in the US and Europe.
+**Open to roles as a Frontend Engineer, Full Stack Engineer, or Software Engineer** (staff-level scope, founding engineer, or high-impact IC). I ship production UIs and the APIs, data, and integrations behind them: design systems, accessibility, performance, Stripe and SaaS patterns, and clear trade-offs under pressure.
 
-**Ex-Printify:** contributed to the merchant-facing rebrand and design system ahead of the Printful merger (platform serving 10M+ merchants, ~60 frontend engineers). **Croissant:** VAT compliance, team collaboration tooling, and customer-facing product ownership. **Founder:** built and scaled products used by 32,000+ businesses.
+Nearly two decades on remote teams in the US and Europe. **Ex-Printify:** merchant rebrand and design system ahead of the Printful merger (10M+ merchants, ~60 frontend engineers). **Croissant:** compliance, collaboration tooling, end-to-end product delivery. **Founder:** products adopted by 32,000+ businesses.
 
-I also **consult**, run **corporate trainings**, **mentor** engineers, and publish **books** on AI-assisted engineering and founder-ready technical literacy. Details, case studies, and how to work together: [tomasz-smykowski.com](https://tomasz-smykowski.com).
+I also consult, train teams, mentor engineers, and write books. Portfolio, case studies, and resume: [tomasz-smykowski.com/hire-me](https://tomasz-smykowski.com/hire-me).
 
 | | |
 | --- | --- |
-| [Hire me](https://tomasz-smykowski.com/hire-me) | Staff / Founding Engineer, audits, and technical partnership |
+| [Hire me](https://tomasz-smykowski.com/hire-me) | Frontend, full stack, and software engineering engagements |
 | [Mentoring](https://tomasz-smykowski.com/mentoring) | 1:1 for engineers growing into senior and staff roles |
-| [Books](https://tomasz-smykowski.com/books) | *Vibe Coding Bible*, *AI for Founders*, and more |
-| [Startups](https://tomasz-smykowski.com/startups) | Products I build and ship in public |
+| [Books](https://tomasz-smykowski.com/books) | Published titles (see below) |
+| [Startups](https://tomasz-smykowski.com/startups) | Products I built and ship in public |
 
-### Products I build
+### Published books
+
+- [**Scaled**](https://summonthejson.com/products/scaled-architecting-scalable-enterprise-angular-applications): enterprise Angular architecture for large apps and long-lived teams.
+- [**Software Engineering for Vibe Coders**](https://summonthejson.com/products/software-engineering-for-vibe-coders-ebook): how software is built and maintained, for founders who hire engineers.
+- [**AI Coding Cost Optimization**](https://summonthejson.com/products/ai-coding-cost-optimization-stop-burning-tokens-credits-2026-guide-ebook-pdf-epub-for-developers-engineering-teams): guardrails for AI in real delivery.
+- [**AI for Founders**](https://summonthejson.com/products/ai-for-founders-100-powerful-tools-to-start-and-scale-your-startup-e-book-pdf-epub): tools and patterns for AI-era startups.
+- [**Ask Better, Get More**](https://summonthejson.com/products/ask-better-get-more-the-real-world-chatgpt-guide): practical ChatGPT workflows.
+
+### Products I built
+
+Screenshots from [tomasz-smykowski.com/startups](https://tomasz-smykowski.com/startups).
+
+<p align="center">
+  <a href="https://observinio.com"><img src="https://tomasz-smykowski.com/images/startups/observinio.png" alt="Observinio" width="420" /></a>
+  <a href="https://termsdoctor.com"><img src="https://tomasz-smykowski.com/images/startups/termsdoctor.png" alt="Terms Doctor" width="420" /></a>
+</p>
+<p align="center">
+  <a href="https://pageperson.org"><img src="https://tomasz-smykowski.com/images/startups/pageperson.png" alt="PagePerson Insights" width="420" /></a>
+  <a href="https://szkoleniabydgoszcz.pl"><img src="https://tomasz-smykowski.com/images/startups/szkoleniabydgoszcz.png" alt="Szkolenia Bydgoszcz" width="420" /></a>
+</p>
+<p align="center">
+  <a href="https://summonthejson.com"><img src="https://tomasz-smykowski.com/images/startups/summonthejson.png" alt="Summon The JSON" width="420" /></a>
+  <a href="https://licencedownloader.com"><img src="https://tomasz-smykowski.com/images/startups/licencedownloader.png" alt="Licence Downloader" width="420" /></a>
+</p>
 
 | Product | What it does |
 | --- | --- |
-| [**Observinio**](https://observinio.com) | Regional AI API latency monitoring and email alerts (OpenRouter, OpenAI, 21 regions). |
-| [**Summon The JSON**](https://summonthejson.com) | Developer education commerce: flashcards, ebooks, and merch. |
-| [**PagePerson Insights**](https://pageperson.org) | Chrome extension: cognitive accessibility and UX scoring across audience lenses. |
-| [**Terms Doctor**](https://termsdoctor.com) | Chrome extension: Terms of Service checks and grades, privacy-first. |
-| [**Szkolenia Bydgoszcz**](https://szkoleniabydgoszcz.pl) | Corporate AI and engineering training (PL), full-stack booking site. |
-| [**Hintly**](https://github.com/tomaszs/Hintly) | In-editor intelligent code hints (open source). |
+| [**Observinio**](https://observinio.com) | Full-stack SaaS: regional AI API latency monitoring and alerts (21 regions). |
+| [**Terms Doctor**](https://termsdoctor.com) | Chrome extension: Terms of Service analysis and grading, privacy-first. |
+| [**PagePerson Insights**](https://pageperson.org) | Extension + web: cognitive accessibility and UX scoring. |
+| [**Licence Downloader**](https://licencedownloader.com) | SaaS: bulk stock licence certificates across major asset platforms. |
+| [**Szkolenia Bydgoszcz**](https://szkoleniabydgoszcz.pl) | Full-stack Angular site: corporate AI and engineering training (PL). |
+| [**Summon The JSON**](https://summonthejson.com) | Shopify storefront and content engine for developer education. |
+| [**Hintly**](https://github.com/tomaszs/Hintly) | Open source in-editor code hints. |
 
 ### Open source on GitHub
 
-| Project | Highlights for reviewers |
+| Project | Why it matters for engineering review |
 | --- | --- |
-| [**Hintly**](https://github.com/tomaszs/Hintly) | IDE-style dev tool: configurable in-editor hints, built for real codebases. |
-| [**react-library-vite**](https://github.com/tomaszs/react-library-vite) | Minimal React component library boilerplate (Vite, packaging, DX). |
-| [**Breaker**](https://github.com/tomaszs/Breaker) | C# desktop app: snapshot and diff API response schemas when backends change. |
-| [**azure-devops-copy-branch-name**](https://github.com/tomaszs/azure-devops-copy-branch-name) | Browser script for Azure DevOps: copy branch and ticket names in one click. |
-| [**jira-copy-branch-name**](https://github.com/tomaszs/jira-copy-branch-name) | Same workflow for Jira tickets and Git branch naming. |
-| [**chatgpt-page-scroll-fix**](https://github.com/tomaszs/chatgpt-page-scroll-fix) | Browser extension: keyboard scrolling fixes for ChatGPT-style UIs. |
-| [**webp-to-jpg**](https://github.com/tomaszs/webp-to-jpg) | Pure JavaScript image conversion (WebP to JPG/PNG). |
-| [**Git-Branch-Cleaner**](https://github.com/tomaszs/Git-Branch-Cleaner) | Python CLI with interactive prompts for safe local branch cleanup. |
-| [**flashcards**](https://github.com/tomaszs/flashcards) | Hub for 50+ free Anki decks (Angular, Python, AI/LLM, system design, and more). |
+| [**setupmatch**](https://github.com/tomaszs/setupmatch) | IT equipment inventory and kit allocation with policy-based matching (Kotlin). |
+| [**Hintly**](https://github.com/tomaszs/Hintly) | Dev tool: fast, configurable in-editor hints for real codebases. |
+| [**SimpleAngularReadonlyBenchmark**](https://github.com/tomaszs/SimpleAngularReadonlyBenchmark) | TypeScript benchmark around Angular change detection and readonly patterns. |
+| [**inputfield**](https://github.com/tomaszs/inputfield) | Angular demo: fuzzy search and accessible input UX. |
+| [**react-library-vite**](https://github.com/tomaszs/react-library-vite) | React library boilerplate (Vite, packaging, consumer DX). |
+| [**Shortcut-Git-CLI**](https://github.com/tomaszs/Shortcut-Git-CLI) | CLI workflow: Shortcut tickets and Git branches without manual copy-paste. |
+| [**azure-devops-copy-branch-name**](https://github.com/tomaszs/azure-devops-copy-branch-name) · [**jira-copy-branch-name**](https://github.com/tomaszs/jira-copy-branch-name) | Browser productivity scripts for Azure DevOps and Jira. |
+| [**chatgpt-page-scroll-fix**](https://github.com/tomaszs/chatgpt-page-scroll-fix) | Browser extension: keyboard scrolling on ChatGPT-style apps. |
+| [**Breaker**](https://github.com/tomaszs/Breaker) | C# desktop tool: snapshot and diff API response schemas. |
+| [**ember-js-developer**](https://github.com/tomaszs/ember-js-developer) | Ember CLI demo app (Bootstrap, Mirage) for classic SPA patterns. |
+| [**webp-to-jpg**](https://github.com/tomaszs/webp-to-jpg) | Pure JavaScript WebP to JPG/PNG conversion. |
+| [**Git-Branch-Cleaner**](https://github.com/tomaszs/Git-Branch-Cleaner) | Python CLI for interactive local branch cleanup. |
+
+Interview prep decks (Angular, TypeScript, system design, AI/LLM): [**flashcards**](https://github.com/tomaszs/flashcards) hub with 50+ free Anki decks.
 
 ### Focus areas
 
-`TypeScript` `Angular` `Vue` `React` `Node.js` `Stripe` `MongoDB` `PostgreSQL` `AWS` `Azure` `Vercel` `Shopify` `AI/LLM APIs` `Accessibility` `Design systems` `Mentoring` `Technical training`
+`Frontend engineering` `Full stack` `TypeScript` `Angular` `Vue` `React` `Node.js` `Stripe` `MongoDB` `PostgreSQL` `Accessibility` `Design systems` `Web performance` `E2E testing`
 
 ### Latest writing
 
