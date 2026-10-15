@@ -39,30 +39,48 @@ I also consult, train teams, mentor engineers, and write books. Portfolio, case 
 
 ### Products I built
 
-Screenshots from [tomasz-smykowski.com/startups](https://tomasz-smykowski.com/startups).
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://observinio.com"><img src="https://tomasz-smykowski.com/images/startups/observinio.png" alt="Observinio" width="100%" /></a>
+<p><strong><a href="https://observinio.com">Observinio</a></strong><br/>
+Full-stack SaaS: regional AI API latency monitoring and alerts (21 regions).</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://termsdoctor.com"><img src="https://tomasz-smykowski.com/images/startups/termsdoctor.png" alt="Terms Doctor" width="100%" /></a>
+<p><strong><a href="https://termsdoctor.com">Terms Doctor</a></strong><br/>
+Chrome extension: Terms of Service analysis and grading, privacy-first.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pageperson.org"><img src="https://tomasz-smykowski.com/images/startups/pageperson.png" alt="PagePerson Insights" width="100%" /></a>
+<p><strong><a href="https://pageperson.org">PagePerson Insights</a></strong><br/>
+Extension and web app: cognitive accessibility and UX scoring.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://licencedownloader.com"><img src="https://tomasz-smykowski.com/images/startups/licencedownloader.png" alt="Licence Downloader" width="100%" /></a>
+<p><strong><a href="https://licencedownloader.com">Licence Downloader</a></strong><br/>
+SaaS: bulk stock licence certificates across major asset platforms.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://szkoleniabydgoszcz.pl"><img src="https://tomasz-smykowski.com/images/startups/szkoleniabydgoszcz.png" alt="Szkolenia Bydgoszcz" width="100%" /></a>
+<p><strong><a href="https://szkoleniabydgoszcz.pl">Szkolenia Bydgoszcz</a></strong><br/>
+Full-stack Angular site: corporate AI and engineering training (PL).</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://summonthejson.com"><img src="https://tomasz-smykowski.com/images/startups/summonthejson.png" alt="Summon The JSON" width="100%" /></a>
+<p><strong><a href="https://summonthejson.com">Summon The JSON</a></strong><br/>
+Shopify storefront and content engine for developer education.</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://observinio.com"><img src="https://tomasz-smykowski.com/images/startups/observinio.png" alt="Observinio" width="420" /></a>
-  <a href="https://termsdoctor.com"><img src="https://tomasz-smykowski.com/images/startups/termsdoctor.png" alt="Terms Doctor" width="420" /></a>
-</p>
-<p align="center">
-  <a href="https://pageperson.org"><img src="https://tomasz-smykowski.com/images/startups/pageperson.png" alt="PagePerson Insights" width="420" /></a>
-  <a href="https://szkoleniabydgoszcz.pl"><img src="https://tomasz-smykowski.com/images/startups/szkoleniabydgoszcz.png" alt="Szkolenia Bydgoszcz" width="420" /></a>
-</p>
-<p align="center">
-  <a href="https://summonthejson.com"><img src="https://tomasz-smykowski.com/images/startups/summonthejson.png" alt="Summon The JSON" width="420" /></a>
-  <a href="https://licencedownloader.com"><img src="https://tomasz-smykowski.com/images/startups/licencedownloader.png" alt="Licence Downloader" width="420" /></a>
-</p>
+<p><strong><a href="https://github.com/tomaszs/Hintly">Hintly</a></strong> (open source): in-editor code hints for everyday development.</p>
 
-| Product | What it does |
-| --- | --- |
-| [**Observinio**](https://observinio.com) | Full-stack SaaS: regional AI API latency monitoring and alerts (21 regions). |
-| [**Terms Doctor**](https://termsdoctor.com) | Chrome extension: Terms of Service analysis and grading, privacy-first. |
-| [**PagePerson Insights**](https://pageperson.org) | Extension + web: cognitive accessibility and UX scoring. |
-| [**Licence Downloader**](https://licencedownloader.com) | SaaS: bulk stock licence certificates across major asset platforms. |
-| [**Szkolenia Bydgoszcz**](https://szkoleniabydgoszcz.pl) | Full-stack Angular site: corporate AI and engineering training (PL). |
-| [**Summon The JSON**](https://summonthejson.com) | Shopify storefront and content engine for developer education. |
-| [**Hintly**](https://github.com/tomaszs/Hintly) | Open source in-editor code hints. |
+<p align="right"><sub><a href="https://tomasz-smykowski.com/startups">All startups →</a></sub></p>
 
 ### Open source on GitHub
 
