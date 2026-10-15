@@ -34,12 +34,17 @@ More launches and experiments: [tomasz-smykowski.com/startups](https://tomasz-sm
 
 ### Open source on GitHub
 
-- [**flashcards**](https://github.com/tomaszs/flashcards): 50+ free Anki decks for software and AI interviews.
-- [**webp-to-jpg**](https://github.com/tomaszs/webp-to-jpg): Pure JS WebP to JPG/PNG conversion.
-- [**Git-Branch-Cleaner**](https://github.com/tomaszs/Git-Branch-Cleaner): Interactive cleanup for local Git branches.
-- [**chatgpt-page-scroll-fix**](https://github.com/tomaszs/chatgpt-page-scroll-fix): Browser extension for PageUp/PageDown on ChatGPT-style apps.
-
-Topic hubs: [Python](https://github.com/tomaszs/python-interview-flashcards-free) · [Angular](https://github.com/tomaszs/angular-interview-flashcards-free) · [Vue](https://github.com/tomaszs/vue-interview-flashcards-free) · [AI / LLM engineering](https://github.com/tomaszs/ai-llm-engineering-interview-flashcards-free) decks and more.
+| Project | Highlights for reviewers |
+| --- | --- |
+| [**Hintly**](https://github.com/tomaszs/Hintly) | IDE-style dev tool: configurable in-editor hints, built for real codebases. |
+| [**react-library-vite**](https://github.com/tomaszs/react-library-vite) | Minimal React component library boilerplate (Vite, packaging, DX). |
+| [**Breaker**](https://github.com/tomaszs/Breaker) | C# desktop app: snapshot and diff API response schemas when backends change. |
+| [**azure-devops-copy-branch-name**](https://github.com/tomaszs/azure-devops-copy-branch-name) | Browser script for Azure DevOps: copy branch and ticket names in one click. |
+| [**jira-copy-branch-name**](https://github.com/tomaszs/jira-copy-branch-name) | Same workflow for Jira tickets and Git branch naming. |
+| [**chatgpt-page-scroll-fix**](https://github.com/tomaszs/chatgpt-page-scroll-fix) | Browser extension: keyboard scrolling fixes for ChatGPT-style UIs. |
+| [**webp-to-jpg**](https://github.com/tomaszs/webp-to-jpg) | Pure JavaScript image conversion (WebP to JPG/PNG). |
+| [**Git-Branch-Cleaner**](https://github.com/tomaszs/Git-Branch-Cleaner) | Python CLI with interactive prompts for safe local branch cleanup. |
+| [**flashcards**](https://github.com/tomaszs/flashcards) | Hub for 50+ free Anki decks (Angular, Python, AI/LLM, system design, and more). |
 
 ### Focus areas
 
@@ -60,13 +65,5 @@ On [tomasz-smykowski.com/blog](https://tomasz-smykowski.com/blog):
 <p>
   <a href="https://www.linkedin.com/in/tomaszsmykowski2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-tomaszsmykowski2-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://medium.com/@tomaszs2" target="_blank"><img src="https://img.shields.io/badge/Medium-@tomaszs2-000000?style=flat&logo=medium" alt="Medium" /></a>
-  <a href="https://dev.to/tomaszs2" target="_blank"><img src="https://img.shields.io/badge/dev.to-tomaszs2-0A0A0A?style=flat&logo=devdotto" alt="dev.to" /></a>
   <a href="https://stackoverflow.com/users/tomasz-smykowski" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-tomasz--smykowski-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://x.com/tomaszs2" target="_blank"><img src="https://img.shields.io/badge/X-@tomaszs2-000000?style=flat&logo=x" alt="X" /></a>
-  <a href="https://www.youtube.com/channel/UCNJCAg4hjHnWKUvgwuBqALw" target="_blank"><img src="https://img.shields.io/badge/YouTube-@tomaszs2-FF0000?style=flat&logo=youtube" alt="YouTube" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomaszs&show_icons=true&hide=stars&count_private=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszs&layout=compact&hide=html&theme=default" alt="Top languages" height="165" />
 </p>
